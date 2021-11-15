@@ -1,0 +1,417 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<country_houses xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="flats.xsd">
+<country_house>
+<id>154</id>
+<date>24.10.2015</date>
+<actual>продается</actual>
+<aptp>дом</aptp>
+<optp>продажа</optp>
+<area>Москва</area>
+<town>Бутово г</town>
+<highway>Варшавское шоссе</highway>
+<otMKAD>10</otMKAD>
+<address>Миргородский проезд</address>
+<dom>9</dom>
+<price currency="RUB">5000000</price>
+<prc_type>За всю площадь</prc_type>
+<flats>
+</flats>
+<sq pl="61.0" pl_s="10.0"> </sq>
+<water>центральный</water>
+<gas>центральный</gas>
+<sewer>центральная</sewer>
+<heat>АГВ</heat>
+<electro>380 В</electro>
+<pmg>+</pmg>
+<telefon>89055353888</telefon>
+<photos>http://lefortovo.roomle.ru/images/big/3009.jpg;http://lefortovo.roomle.ru/images/big/3011.jpg;http://lefortovo.roomle.ru/images/big/3012.jpg;http://lefortovo.roomle.ru/images/big/3013.jpg;http://lefortovo.roomle.ru/images/big/3014.jpg;http://lefortovo.roomle.ru/images/big/3015.jpg;</photos>
+<remark>
+<![CDATA[Интересное предложение! Продажа жилого дома в черте города Москвы, вблизи ж/д станции Бутово (7-10 минут пеш.), (Курское направление) . Дом в достойном состоянии. Экологически чистый зеленый уголок старой дачной Москвы. МОСКОВСКАЯ ПРОПИСКА!  Прекрасная инфраструктура, великолепная транспортная доступность.]]>
+</remark>
+<SiteTitle>
+</SiteTitle>
+<SiteKeywords>
+</SiteKeywords>
+<SiteDescription>
+</SiteDescription>
+<SiteVideo>
+</SiteVideo>
+</country_house>
+
+<country_house>
+<id>158</id>
+<date>24.10.2015</date>
+<actual>продается</actual>
+<aptp>дом</aptp>
+<optp>продажа</optp>
+<area>Тверская область</area>
+<town>Чуприяновка п</town>
+<highway>Ленинградское шоссе</highway>
+<otMKAD>1500</otMKAD>
+<address>Речная ул</address>
+<dom>10</dom>
+<price currency="RUB">2400000</price>
+<prc_type>За всю площадь</prc_type>
+<flats>
+</flats>
+<sq pl="83.0" pl_s="15.0"> </sq>
+<water>есть</water>
+<gas>есть</gas>
+<sewer>есть</sewer>
+<heat>есть</heat>
+<electro>есть</electro>
+<pmg>+</pmg>
+<ohrana>+</ohrana>
+<telefon>89652977779</telefon>
+<photos>http://lefortovo.roomle.ru/images/big/3039.jpg;http://lefortovo.roomle.ru/images/big/3040.jpg;</photos>
+<remark>
+<![CDATA[Продаётся 3-х комнатный уютный деревянный домик 83 кв.м. с мансардами. Участок 15 соток земли ИЖС (по факту 18). В доме паровое отопление (есть возможность провести газ), вода подведена к дому, баня и туалет. Крыша из шифера. От станции Чуприяновка 5 минут пешком. Тверская область, Калининский район, Щербининское с/пос., ж/д ст. Чуприяновка, улица Речная, д. 10. Дом 83 кв.м. Участок 15 кв.м. Документы: Наследство по закону, более 3-х лет, 3 собственника.]]>
+</remark>
+<SiteTitle>
+</SiteTitle>
+<SiteKeywords>
+</SiteKeywords>
+<SiteDescription>
+</SiteDescription>
+<SiteVideo>
+</SiteVideo>
+</country_house>
+
+<country_house>
+<id>160</id>
+<date>24.10.2015</date>
+<actual>продается</actual>
+<aptp>усадьба</aptp>
+<optp>продажа</optp>
+<area>Московская область</area>
+<locality>Раменский район</locality>
+<town>Ильинский пгт</town>
+<highway>Рязанское шоссе</highway>
+<otMKAD>250</otMKAD>
+<address>Первомайская ул.</address>
+<dom>50/43</dom>
+<price currency="RUB">58000000</price>
+<prc_type>За всю площадь</prc_type>
+<flats>
+</flats>
+<sq pl="462.0" pl_s="26.0"> </sq>
+<water>центральный</water>
+<gas>магистральный</gas>
+<sewer>септик</sewer>
+<heat>газовый котел</heat>
+<electro>380 В</electro>
+<pmg>+</pmg>
+<ohrana>+</ohrana>
+<telefon>89035588636</telefon>
+<photos>http://lefortovo.roomle.ru/images/big/3293.jpg;http://lefortovo.roomle.ru/images/big/3294.jpg;http://lefortovo.roomle.ru/images/big/3295.jpg;http://lefortovo.roomle.ru/images/big/3296.jpg;http://lefortovo.roomle.ru/images/big/3297.jpg;http://lefortovo.roomle.ru/images/big/3298.jpg;http://lefortovo.roomle.ru/images/big/3299.jpg;http://lefortovo.roomle.ru/images/big/3300.jpg;http://lefortovo.roomle.ru/images/big/3301.jpg;http://lefortovo.roomle.ru/images/big/3302.jpg;http://lefortovo.roomle.ru/images/big/3303.jpg;http://lefortovo.roomle.ru/images/big/3304.jpg;http://lefortovo.roomle.ru/images/big/3305.jpg;http://lefortovo.roomle.ru/images/big/3306.jpg;http://lefortovo.roomle.ru/images/big/3307.jpg;http://lefortovo.roomle.ru/images/big/3308.jpg;http://lefortovo.roomle.ru/images/big/3309.jpg;http://lefortovo.roomle.ru/images/big/3310.jpg;http://lefortovo.roomle.ru/images/big/3311.jpg;http://lefortovo.roomle.ru/images/big/3313.jpg;http://lefortovo.roomle.ru/images/big/3314.jpg;http://lefortovo.roomle.ru/images/big/3315.jpg;http://lefortovo.roomle.ru/images/big/3316.jpg;http://lefortovo.roomle.ru/images/big/3317.jpg;http://lefortovo.roomle.ru/images/big/3318.jpg;http://lefortovo.roomle.ru/images/big/3319.jpg;http://lefortovo.roomle.ru/images/big/3320.jpg;</photos>
+<remark>
+<![CDATA[Продаётся жилой Дом на участке 25 соток в посёлке Ильинский Московская область, Раменский район, посёлок Ильинский, улица Первомайская, дом 50/43. До станции Ильинская 1,5 км. до станции Быково 3,0 км. от ул. Ким (ближайшая проезжая дорога местного значения) 200 м. Участок правильной прямоугольной формы (примерно 40 на 60 метров) имеет площадь 24,62 соток (по документам) и 25,70 соток (фактически). На участке растут около 40 лесных деревьев различного размера и возраста. Ели, Сосны, Пихты, берёзы, Липы, Ивы. Строения Главный жилой дом построен по индивидуальному проекту (заслуженный архитектор России с.п.Гапон), площадь дома 461,6 кв.м. Флигель (гостевой дом/гараж) построен по проекту архитектора Натальи Ивановой и имеет площадь 98,5 кв.м. Детский домик построен лично архитектором Сергеем Протасовым по старословянским технологиям без единого гвоздя и при помощи инструментов 18-19 веков. Хозяйственная постройка типа сарай возведена без проекта, но с отделкой материалами, использованными при постройке флигеля и забора. Площадь 18 кв.м. Водоснабжение осуществляется из артезианской скважины глубиной 72 метра. Отопление и горячее водоснабжение обеспечивает французский газовый котёл (72 квт.) Электроснабжение: Мощность максимальная расчётная 72 квт, установленная (номинальная) 36 квт. Канализация: Основная - септик Эколайн. Обслуживание раз в три года. Резервная: септик трехсекционный с откачкой. Газоснабжение: магистральный газ Интернет: высокоскоростной (выделенная линия оптоволокно), - Дом мебелирован и полностью готов к проживанию. Усадьба ждёт новых хозяев!]]>
+</remark>
+<SiteTitle>
+</SiteTitle>
+<SiteKeywords>
+</SiteKeywords>
+<SiteDescription>
+</SiteDescription>
+<SiteVideo>https://youtu.be/P7GkeAjWJ6w</SiteVideo>
+</country_house>
+
+<country_house>
+<id>161</id>
+<date>24.10.2015</date>
+<actual>продается</actual>
+<aptp>участок</aptp>
+<optp>продажа</optp>
+<area>Московская область</area>
+<locality>Чеховский район</locality>
+<town>Филипповское д</town>
+<highway>Симферопольское шоссе</highway>
+<otMKAD>530</otMKAD>
+<address>
+</address>
+<dom>
+</dom>
+<price currency="RUB">10150000</price>
+<prc_type>За всю площадь</prc_type>
+<flats>
+</flats>
+<sq pl_s="290.0"> </sq>
+<water>нет</water>
+<gas>по границе</gas>
+<sewer>нет</sewer>
+<electro>по границе</electro>
+<telefon>89652977779</telefon>
+<photos>http://lefortovo.roomle.ru/images/big/3058.jpg;http://lefortovo.roomle.ru/images/big/3059.jpg;http://lefortovo.roomle.ru/images/big/3060.jpg;</photos>
+<remark>
+<![CDATA[Продам участок 2,9 га, 7 км до города. Интересное предложение! 2,9 гектара земли за очень приемлемые деньги. МО,Чеховский район, сельское поселение Стремиловское, в районе д. Филипповское. Отличное место для коттеджных застроек, очень пейзажное, большое озеро в шаговой доступности]]>
+</remark>
+<SiteTitle>
+</SiteTitle>
+<SiteKeywords>
+</SiteKeywords>
+<SiteDescription>
+</SiteDescription>
+<SiteVideo>
+</SiteVideo>
+</country_house>
+
+<country_house>
+<id>162</id>
+<date>24.10.2015</date>
+<actual>продается</actual>
+<aptp>дом</aptp>
+<optp>продажа</optp>
+<area> Краснодарский край</area>
+<town>Пересыпь п</town>
+<highway>Симферопольское шоссе</highway>
+<otMKAD>0</otMKAD>
+<address>Бондаревой ул</address>
+<dom>
+</dom>
+<price currency="RUB">20000000</price>
+<prc_type>За всю площадь</prc_type>
+<flats>
+</flats>
+<sq pl="56.0" pl_s="13.0"> </sq>
+<water>центральный</water>
+<gas>магистральный</gas>
+<sewer>есть</sewer>
+<heat>газовый котел</heat>
+<electro>есть</electro>
+<pmg>+</pmg>
+<telefon>89151925700</telefon>
+<photos>http://lefortovo.roomle.ru/images/big/3061.JPG;http://lefortovo.roomle.ru/images/big/3062.JPG;http://lefortovo.roomle.ru/images/big/3063.JPG;http://lefortovo.roomle.ru/images/big/3064.JPG;http://lefortovo.roomle.ru/images/big/3065.JPG;http://lefortovo.roomle.ru/images/big/3066.JPG;http://lefortovo.roomle.ru/images/big/3067.JPG;http://lefortovo.roomle.ru/images/big/3068.JPG;http://lefortovo.roomle.ru/images/big/3069.JPG;http://lefortovo.roomle.ru/images/big/3070.JPG;http://lefortovo.roomle.ru/images/big/3071.JPG;http://lefortovo.roomle.ru/images/big/3072.JPG;http://lefortovo.roomle.ru/images/big/3073.JPG;http://lefortovo.roomle.ru/images/big/3074.JPG;http://lefortovo.roomle.ru/images/big/3075.JPG;http://lefortovo.roomle.ru/images/big/3076.JPG;</photos>
+<remark>
+<![CDATA[Продаю земельный участок 13 соток (возможно увеличение). Краснодарский край, Темрюкский район, п. Пересыпь, ул. Бондаревой, д.26. (дом 56 кв.м.) Данный участок находится на центральной улице поселка. По этой улице проходит трасса Темрюк – порт Кавказ. До пляжа на Азовском море 150 метров. До поселкового рынка и магазинов не более 3 минут. Интересное предложение для строительства торгового центра или гостиницы]]>
+</remark>
+<SiteTitle>
+</SiteTitle>
+<SiteKeywords>
+</SiteKeywords>
+<SiteDescription>
+</SiteDescription>
+<SiteVideo>
+</SiteVideo>
+</country_house>
+
+<country_house>
+<id>215</id>
+<date>19.02.2016</date>
+<actual>продается</actual>
+<aptp>участок</aptp>
+<optp>продажа</optp>
+<area>Московская область</area>
+<locality>Волоколамский район</locality>
+<town>Бражниково д</town>
+<highway>Новорижское шоссе</highway>
+<otMKAD>1000</otMKAD>
+<address>
+</address>
+<dom>
+</dom>
+<price currency="RUB">1150000</price>
+<prc_type>За всю площадь</prc_type>
+<flats>
+</flats>
+<sq pl_s="13.0"> </sq>
+<water>центральный</water>
+<gas>по границе</gas>
+<electro>есть</electro>
+<pmg>+</pmg>
+<ohrana>+</ohrana>
+<telefon>89055353888</telefon>
+<photos>http://lefortovo.roomle.ru/images/big/3623.JPG;http://lefortovo.roomle.ru/images/big/3624.JPG;http://lefortovo.roomle.ru/images/big/3625.JPG;http://lefortovo.roomle.ru/images/big/3626.JPG;http://lefortovo.roomle.ru/images/big/3627.JPG;http://lefortovo.roomle.ru/images/big/3628.jpg;</photos>
+<remark>
+<![CDATA[Лучшее предложение!  Дачный поселок &quot;Рузские дачи&quot; , участок с видом на водохранилище, экологически чистый красивейший уголок природы, коммуникации, газ по границе участка, электричество подключено.]]>
+</remark>
+<SiteTitle>
+</SiteTitle>
+<SiteKeywords>
+</SiteKeywords>
+<SiteDescription>
+</SiteDescription>
+<SiteVideo>
+</SiteVideo>
+</country_house>
+
+<country_house>
+<id>292</id>
+<date>25.04.2016</date>
+<actual>продается</actual>
+<aptp>участок</aptp>
+<optp>продажа</optp>
+<area>Московская область</area>
+<locality>Мытищинский район</locality>
+<town>Хлябово д</town>
+<highway>Дмитровское шоссе</highway>
+<otMKAD>250</otMKAD>
+<address>Магистральная</address>
+<dom>
+</dom>
+<price currency="RUB">8100000</price>
+<prc_type>За всю площадь</prc_type>
+<flats>
+</flats>
+<sq pl_s="24.0"> </sq>
+<water>центральный</water>
+<gas>магистральный</gas>
+<sewer>центральная</sewer>
+<electro>220 В</electro>
+<pmg>+</pmg>
+<ohrana>+</ohrana>
+<telefon>89035588636</telefon>
+<photos>http://lefortovo.roomle.ru/images/big/4302.jpg;http://lefortovo.roomle.ru/images/big/4287.jpg;http://lefortovo.roomle.ru/images/big/4288.jpg;http://lefortovo.roomle.ru/images/big/4289.jpg;http://lefortovo.roomle.ru/images/big/4290.jpg;http://lefortovo.roomle.ru/images/big/4291.jpg;http://lefortovo.roomle.ru/images/big/4292.jpg;http://lefortovo.roomle.ru/images/big/4293.jpg;http://lefortovo.roomle.ru/images/big/4294.jpg;http://lefortovo.roomle.ru/images/big/4295.jpg;http://lefortovo.roomle.ru/images/big/4296.jpg;http://lefortovo.roomle.ru/images/big/4298.jpg;http://lefortovo.roomle.ru/images/big/4299.jpg;http://lefortovo.roomle.ru/images/big/4305.jpg;http://lefortovo.roomle.ru/images/big/4307.jpg;http://lefortovo.roomle.ru/images/big/4343.jpg;</photos>
+<remark>
+<![CDATA[Мечтаете купить большой участок и построить свой дом? В таком месте, где красивая природа, берег водохранилища и рядом с Москвой? Чтобы была прекрасная инфраструктура и экология?
+
+Подготовлена обзорная видео-презентация, если хотите посмотреть - звоните - расскажем, как посмотреть! На видео с высоты птичьего полёта видно, какое это красивое место!
+
+Купите большой участок 24 сотки в КП «Немо». Добраться до места можно легко и быстро по реконструированному Дмитровскому шоссе, всего 25 км от МКАД. Кроме того, можно на электричке Савёловского направления доехать от центра Москвы за 50 минут. От ж/д платформы «Трудовая» до посёлка 15 минут пешком, ходят маршрутные такси.
+
+Посёлок находится на берегу крупного подмосковного водохранилища - Икшинского. Это идеальное место для любителей «большой» воды, особенно в жаркие летние дни. Свой благоустроенный чистый пляж - достоинство посёлка. Лесные массивы - отличная возможность погулять с детьми, покататься на велосипедах или выбраться с друзьями на пикник. Душистые ароматы лугов, полей и лесов наполняют воздух. Здесь можно «остановить время», забыть о суете города.
+
+В этом месте прекрасная экология. Удачная роза ветров. Без каких-либо техногенных объектов поблизости. Площадь посёлка 35 Га. 
+
+Благодаря инфраструктуре и продуманной планировке посёлка жить здесь комфортно и удобно круглый год: магазины, общественно-досуговый центр, детские площадки, пляж, причал для яхт и лодок. Дороги в посёлке широкие и вымощены красивой брусчаткой.
+
+Участок расположен в самой высокой точке посёлка, на холме. Отсюда открывается роскошный обзор на Икшинское водохранилище и просторы Дмитровских гор. За счёт удачной планировки и расположения участка соседние дома не мешают, а наоборот органично дополняют визуальную среду.
+
+Приезжайте посмотреть этот участок! Ощутите сами невероятную атмосферу места!
+
+В стоимость участка уже входит весь комплект коммуникаций: электричество 25 кВт, газ, вода, канализация, охрана]]>
+</remark>
+<SiteTitle>Купить участок Икшинское водохранилище, Московская область, Дмитровский район</SiteTitle>
+<SiteKeywords>купить участок Икша, купить участок дмитровка, купить участок КП Немо, купить участок рядом с Москвой, участки у воды, икшинское водохранилище,</SiteKeywords>
+<SiteDescription>Прекрасный большой участок на продажу. КП "Немо", 25 км от МКАД по Дмитровскому шоссе. Продажа участка 24 сотки.</SiteDescription>
+<SiteVideo>https://youtu.be/cJaTeOCbFdU</SiteVideo>
+</country_house>
+
+<country_house>
+<id>313</id>
+<date>16.05.2016</date>
+<actual>продается</actual>
+<aptp>таунхаус</aptp>
+<optp>продажа</optp>
+<area>Московская область</area>
+<locality>кв-л Клязьма</locality>
+<town>Химки </town>
+<highway>Ленинградское шоссе</highway>
+<otMKAD>110</otMKAD>
+<address>пр-д Набережный</address>
+<dom>11</dom>
+<price currency="RUB">10980000</price>
+<prc_type>За всю площадь</prc_type>
+<flats>
+</flats>
+<sq pl="130.2" pl_s="5.0"> </sq>
+<water>центральный</water>
+<gas>магистральный</gas>
+<sewer>центральная</sewer>
+<heat>центральное</heat>
+<electro>есть</electro>
+<pmg>+</pmg>
+<ohrana>+</ohrana>
+<telefon>89031613212</telefon>
+<photos>http://lefortovo.roomle.ru/images/big/4309.jpg;http://lefortovo.roomle.ru/images/big/4315.jpg;http://lefortovo.roomle.ru/images/big/4317.jpg;http://lefortovo.roomle.ru/images/big/4318.jpg;http://lefortovo.roomle.ru/images/big/4319.jpg;http://lefortovo.roomle.ru/images/big/4320.jpg;http://lefortovo.roomle.ru/images/big/4321.jpg;http://lefortovo.roomle.ru/images/big/4322.jpg;http://lefortovo.roomle.ru/images/big/4336.jpg;http://lefortovo.roomle.ru/images/big/4337.jpg;http://lefortovo.roomle.ru/images/big/4338.jpg;http://lefortovo.roomle.ru/images/big/4339.jpg;http://lefortovo.roomle.ru/images/big/4340.jpg;http://lefortovo.roomle.ru/images/big/4341.jpg;http://lefortovo.roomle.ru/images/big/4342.jpg;</photos>
+<remark>
+<![CDATA[Трехэтажный таунхаус с балконом и собственным, огороженным участком земли, расположен в тихой части комплекса с выходом в лес.Монолитный каркас, кирпичные стены. Два этажа + мансарда.Разработан архитектурный проект. отличное месторасположение, вид из окна на лес и во двор, Быстро можно добраться на машине по скоростной трассе Москва-Питер, маршрутное такси и автобусы до Речного вокзала, электрички и аэроэкспресс до центра Москвы всего за 35 минут, до ближайшей станции в Химках занимает 20-25 минут на маршрутном такси  
+Развитая инфраструктура. Собственные муниципальный детский сад и школа, 5 продуктовых магазинов, торговый центр, 2 ресторана, салоны красоты, фитнес, банк, аптека, центр раннего развития детей. Огороженная территория со шлагбаумом и охраной. Наземный и подземный паркинг. Собственный парк с хвойными и лиственными деревьями, красивая благоустроенная набережная с прогулочными дорожками, беседками и зонами для барбекю, спортивные и игровые площадки.Комплекс полностью заселён. Свободная продажа, 10980000рублей.]]>
+</remark>
+<SiteTitle>
+</SiteTitle>
+<SiteKeywords>
+</SiteKeywords>
+<SiteDescription>
+</SiteDescription>
+<SiteVideo>
+</SiteVideo>
+</country_house>
+
+<country_house>
+<id>383</id>
+<date>02.07.2016</date>
+<actual>продается</actual>
+<aptp>участок</aptp>
+<optp>продажа</optp>
+<area>Московская область</area>
+<locality>Мытищинский район</locality>
+<town>Троице-Сельцо п</town>
+<highway>Дмитровское шоссе</highway>
+<otMKAD>160</otMKAD>
+<address>Камышовая ул</address>
+<dom>
+</dom>
+<price currency="RUB">2500000</price>
+<prc_type>За всю площадь</prc_type>
+<flats>
+</flats>
+<sq pl_s="15.0"> </sq>
+<water>иное</water>
+<gas>рядом</gas>
+<sewer>септик</sewer>
+<electro>по границе</electro>
+<pmg>+</pmg>
+<ohrana>-</ohrana>
+<telefon>89035588636</telefon>
+<photos>http://lefortovo.roomle.ru/images/big/4945.jpg;http://lefortovo.roomle.ru/images/big/4940.jpg;http://lefortovo.roomle.ru/images/big/4949.jpg;http://lefortovo.roomle.ru/images/big/4950.jpg;http://lefortovo.roomle.ru/images/big/4951.jpg;</photos>
+<remark>
+<![CDATA[Купить участок рядом с Москвой с хорошей транспортной доступностью! Представляем участок в посёлке Луговая на Дмитровском шоссе всего в 20 км от МКАД. Участок ровный, открытый, с молодыми берёзками. Вокруг сложившаяся дачная жизнь и коттеджные посёлки. Очень уютно. Икшинское водохранилище с пляжами и зонами отдыха в 5 км. Можно доехать на машине, на велосипеде или 3 остановки на электричке! Рядом, на Дмитровском шоссе, крупные торговые центры: Леруа Мерлен, Азбука Вкуса, Каштан. 
+Есть возможность увеличения площади!]]>
+</remark>
+<SiteTitle>Купить Участок ИЖС Луговая</SiteTitle>
+<SiteKeywords>купить участок, ижс, Дмитровское шоссе, участки Дмитровское шоссе, участки Луговая, купить участок Лобня, загородка, миэль, миэль лефортово,</SiteKeywords>
+<SiteDescription>Продаётся участок 15 соток в пос.Луговая, Дмитровское шоссе. Всего 20 км от Москвы, ИЖС.</SiteDescription>
+<SiteVideo>
+</SiteVideo>
+</country_house>
+
+<country_house>
+<id>384</id>
+<date>02.07.2016</date>
+<actual>продается</actual>
+<aptp>участок</aptp>
+<optp>продажа</optp>
+<area>Московская область</area>
+<locality>Мытищинский район</locality>
+<town>Троице-Сельцо п</town>
+<highway>Дмитровское шоссе</highway>
+<otMKAD>160</otMKAD>
+<address>Камышовая ул</address>
+<dom>
+</dom>
+<price currency="RUB">7000000</price>
+<prc_type>За всю площадь</prc_type>
+<flats>
+</flats>
+<sq pl_s="45.0"> </sq>
+<water>скважина</water>
+<gas>по границе</gas>
+<sewer>септик</sewer>
+<heat>иное</heat>
+<electro>по границе</electro>
+<pmg>+</pmg>
+<ohrana>-</ohrana>
+<telefon>89035588636</telefon>
+<photos>http://lefortovo.roomle.ru/images/big/4952.jpg;http://lefortovo.roomle.ru/images/big/4953.jpg;http://lefortovo.roomle.ru/images/big/4954.jpg;http://lefortovo.roomle.ru/images/big/4955.jpg;http://lefortovo.roomle.ru/images/big/4956.jpg;http://lefortovo.roomle.ru/images/big/4957.jpg;http://lefortovo.roomle.ru/images/big/4959.jpg;http://lefortovo.roomle.ru/images/big/4962.jpg;</photos>
+<remark>
+<![CDATA[Мечтаете купить большой земельный участок вблизи от Москвы? С удобным транспортным сообщением? Построить дом мечты для себя и своей семьи? Хотите жить и отдыхать на природе, чтобы рядом была и цивилизация, и лесные массивы, красивые поляны, чистейшая природа?
+
+Предлагаем вам большой красивый видовой участок в посёлке Луговая в 20 км от Москвы.
+
+Рядом, всего в 5 км от участка находится большая вода Икшинского водохранилища. Можно доехать на машине, можно на велосипеде или 3 остановки на электричке (до платформы Трудовая).
+
+Удобно доехать от центра Москвы на электричке Савёловского направления за 35 минут. От ж/д платформы «Луговая» до участка - 15 минут неспешным пешком.
+
+Рядом есть озеро, где с утра можно посидеть с удочкой. Речки Раздериха и Уча. Лесные массивы.
+
+До Дмитровского шоссе 1,5 км. ТЦ &quot;Каштан&quot;, Леруа Мерлен, Азбука Вкуса.]]>
+</remark>
+<SiteTitle>Купить земельный участок ИЖС недорого, близко к Москве.</SiteTitle>
+<SiteKeywords>купить земельный участок, ижс, купить участок недорого, участки на Дмитровском шоссе, купить участок Луговая, миэль лефортово, миэль офис на авиамоторной, загородная недвижимость, риэлтор,</SiteKeywords>
+<SiteDescription>
+</SiteDescription>
+<SiteVideo>
+</SiteVideo>
+</country_house>
+
+</country_houses>

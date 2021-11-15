@@ -1,0 +1,41 @@
+Установка на новый сервер:
+
+- yum install uudeview
+- chmod -R a+rw /tmp/crm
+
+
+Установка новой копии CRM для клиента:
+
+    Установка нового домена:
+        - редактируем /etc/nginx/conf/аналог
+
+        - создаем файлы, диры:
+        # mkdir /var/log/nginx/demo.roomle.ru/
+        # touch /var/log/nginx/demo.roomle.ru/access.log
+        # touch /var/log/nginx/demo.roomle.ru/error.log
+        # mkdir /var/www/vhosts/demo.roomle.ru
+
+
+    Установка MySQL:
+
+        - PhpMyadmin: Добавить пользователя (Создать базу данных): fetch_lef
+          локального и любой хост.
+
+    Разное:
+        - добавить запуск сервиса xmlcreate в крон;
+        - юзер xmlcreate должен быть в группе создателя логов;
+
+
+    Настройка взаимодействия с почтой:
+        0) на сервере добавляем user'a fetch_lef с файлом .fetchmailrc в домашней дире. Содержание внутри:
+            defaults
+            poll pop.yandex.ru with protocol POP3:
+                    no dns, user fetchlef_EmailName password fetchlef_password is fetch_lef here;
+
+        1) в папку /etc/smrsh копируем файл: /Services/Mail/CrmMailPipe.php (только при первичной установке или после изменения этого файла);
+        2) /etc/aliases для должен выглядеть по примеру:
+            fetch_region-msk: "|CrmMailPipe.php /var/www/vhosts/region-msk.roomle.ru"
+            fetch_lef       : "|CrmMailPipe.php /var/www/vhosts/lefortovo.roomle.ru"
+
+        3) после редактирования /etc/aliases запустить '#newaliases'
+        4) #service sendmail restart

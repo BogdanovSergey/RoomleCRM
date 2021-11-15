@@ -1,0 +1,4679 @@
+<?xml version="1.0" ?>
+<Locations>
+	<Region Id="637640" Name="Москва">
+		<DirectionRoad Id="1" Name="Алтуфьевское шоссе"/>
+		<DirectionRoad Id="2" Name="Боровское шоссе"/>
+		<DirectionRoad Id="3" Name="Быковское шоссе"/>
+		<DirectionRoad Id="4" Name="Варшавское шоссе"/>
+		<DirectionRoad Id="5" Name="Волоколамское шоссе"/>
+		<DirectionRoad Id="6" Name="Горьковское шоссе"/>
+		<DirectionRoad Id="7" Name="Дмитровское шоссе"/>
+		<DirectionRoad Id="8" Name="Егорьевское шоссе"/>
+		<DirectionRoad Id="9" Name="Ильинское шоссе"/>
+		<DirectionRoad Id="10" Name="Калужское шоссе"/>
+		<DirectionRoad Id="11" Name="Каширское шоссе"/>
+		<DirectionRoad Id="12" Name="Киевское шоссе"/>
+		<DirectionRoad Id="13" Name="Куркинское шоссе"/>
+		<DirectionRoad Id="14" Name="Ленинградское шоссе"/>
+		<DirectionRoad Id="15" Name="Минское шоссе"/>
+		<DirectionRoad Id="16" Name="Можайское шоссе"/>
+		<DirectionRoad Id="17" Name="Новокаширское шоссе"/>
+		<DirectionRoad Id="18" Name="Новорижское шоссе"/>
+		<DirectionRoad Id="19" Name="Новорязанское шоссе"/>
+		<DirectionRoad Id="20" Name="Новосходненское шоссе"/>
+		<DirectionRoad Id="21" Name="Носовихинское шоссе"/>
+		<DirectionRoad Id="22" Name="Осташковское шоссе"/>
+		<DirectionRoad Id="23" Name="Пятницкое шоссе"/>
+		<DirectionRoad Id="24" Name="Рогачёвское шоссе"/>
+		<DirectionRoad Id="25" Name="Рублёво-Успенское шоссе"/>
+		<DirectionRoad Id="26" Name="Рублёвское шоссе"/>
+		<DirectionRoad Id="27" Name="Рязанское шоссе"/>
+		<DirectionRoad Id="28" Name="Симферопольское шоссе"/>
+		<DirectionRoad Id="29" Name="Сколковское шоссе"/>
+		<DirectionRoad Id="30" Name="Фряновское шоссе"/>
+		<DirectionRoad Id="31" Name="Щёлковское шоссе"/>
+		<DirectionRoad Id="32" Name="Ярославское шоссе"/>
+		<Subway Id="1" Name="Авиамоторная"/>
+		<Subway Id="2" Name="Автозаводская"/>
+		<Subway Id="3" Name="Академическая"/>
+		<Subway Id="4" Name="Александровский сад"/>
+		<Subway Id="151" Name="Алексеевская"/>
+		<Subway Id="2135" Name="Алма-Атинская"/>
+		<Subway Id="5" Name="Алтуфьево"/>
+		<Subway Id="148" Name="Аннино"/>
+		<Subway Id="6" Name="Арбатская"/>
+		<Subway Id="7" Name="Аэропорт"/>
+		<Subway Id="8" Name="Бабушкинская"/>
+		<Subway Id="9" Name="Багратионовская"/>
+		<Subway Id="10" Name="Баррикадная"/>
+		<Subway Id="11" Name="Бауманская"/>
+		<Subway Id="12" Name="Беговая"/>
+		<Subway Id="13" Name="Белорусская"/>
+		<Subway Id="14" Name="Беляево"/>
+		<Subway Id="15" Name="Бибирево"/>
+		<Subway Id="16" Name="Библиотека им. Ленина"/>
+		<Subway Id="2145" Name="Битцевский парк"/>
+		<Subway Id="215" Name="Борисово"/>
+		<Subway Id="18" Name="Боровицкая"/>
+		<Subway Id="19" Name="Ботанический сад"/>
+		<Subway Id="20" Name="Братиславская"/>
+		<Subway Id="1010" Name="Бульвар адмирала Ушакова"/>
+		<Subway Id="149" Name="Бульвар Дмитрия Донского"/>
+		<Subway Id="127" Name="Бульвар Рокоссовского"/>
+		<Subway Id="1012" Name="Бунинская аллея"/>
+		<Subway Id="22" Name="Варшавская"/>
+		<Subway Id="21" Name="ВДНХ"/>
+		<Subway Id="23" Name="Владыкино"/>
+		<Subway Id="24" Name="Водный стадион"/>
+		<Subway Id="25" Name="Войковская"/>
+		<Subway Id="26" Name="Волгоградский проспект"/>
+		<Subway Id="27" Name="Волжская"/>
+		<Subway Id="1003" Name="Волоколамская"/>
+		<Subway Id="28" Name="Воробьевы Горы"/>
+		<Subway Id="152" Name="Выставочная"/>
+		<Subway Id="29" Name="Выхино"/>
+		<Subway Id="2146" Name="Деловой центр"/>
+		<Subway Id="30" Name="Динамо"/>
+		<Subway Id="31" Name="Дмитровская"/>
+		<Subway Id="32" Name="Добрынинская"/>
+		<Subway Id="33" Name="Домодедовская"/>
+		<Subway Id="2001" Name="Достоевская"/>
+		<Subway Id="34" Name="Дубровка"/>
+		<Subway Id="2143" Name="Жулебино"/>
+		<Subway Id="217" Name="Зябликово"/>
+		<Subway Id="35" Name="Измайловская"/>
+		<Subway Id="37" Name="Калужская"/>
+		<Subway Id="38" Name="Кантемировская"/>
+		<Subway Id="39" Name="Каховская"/>
+		<Subway Id="40" Name="Каширская"/>
+		<Subway Id="41" Name="Киевская"/>
+		<Subway Id="42" Name="Китай-город"/>
+		<Subway Id="43" Name="Кожуховская"/>
+		<Subway Id="44" Name="Коломенская"/>
+		<Subway Id="45" Name="Комсомольская"/>
+		<Subway Id="46" Name="Коньково"/>
+		<Subway Id="2151" Name="Котельники"/>
+		<Subway Id="47" Name="Красногвардейская"/>
+		<Subway Id="48" Name="Краснопресненская"/>
+		<Subway Id="49" Name="Красносельская"/>
+		<Subway Id="50" Name="Красные ворота"/>
+		<Subway Id="51" Name="Крестьянская застава"/>
+		<Subway Id="52" Name="Кропоткинская"/>
+		<Subway Id="53" Name="Крылатское"/>
+		<Subway Id="54" Name="Кузнецкий мост"/>
+		<Subway Id="55" Name="Кузьминки"/>
+		<Subway Id="56" Name="Кунцевская"/>
+		<Subway Id="57" Name="Курская"/>
+		<Subway Id="58" Name="Кутузовская"/>
+		<Subway Id="59" Name="Ленинский проспект"/>
+		<Subway Id="2142" Name="Лермонтовский проспект"/>
+		<Subway Id="2144" Name="Лесопарковая"/>
+		<Subway Id="60" Name="Лубянка"/>
+		<Subway Id="61" Name="Люблино"/>
+		<Subway Id="62" Name="Марксистская"/>
+		<Subway Id="2002" Name="Марьина Роща"/>
+		<Subway Id="63" Name="Марьино"/>
+		<Subway Id="64" Name="Маяковская"/>
+		<Subway Id="65" Name="Медведково"/>
+		<Subway Id="1004" Name="Международная"/>
+		<Subway Id="66" Name="Менделеевская"/>
+		<Subway Id="1001" Name="Митино"/>
+		<Subway Id="67" Name="Молодежная"/>
+		<Subway Id="1002" Name="Мякинино"/>
+		<Subway Id="68" Name="Нагатинская"/>
+		<Subway Id="69" Name="Нагорная"/>
+		<Subway Id="70" Name="Нахимовский проспект"/>
+		<Subway Id="71" Name="Новогиреево"/>
+		<Subway Id="2133" Name="Новокосино"/>
+		<Subway Id="72" Name="Новокузнецкая"/>
+		<Subway Id="73" Name="Новослободская"/>
+		<Subway Id="17" Name="Новоясеневская"/>
+		<Subway Id="74" Name="Новые Черемушки"/>
+		<Subway Id="75" Name="Октябрьская"/>
+		<Subway Id="76" Name="Октябрьское поле"/>
+		<Subway Id="77" Name="Орехово"/>
+		<Subway Id="78" Name="Отрадное"/>
+		<Subway Id="79" Name="Охотный ряд"/>
+		<Subway Id="80" Name="Павелецкая"/>
+		<Subway Id="82" Name="Парк культуры"/>
+		<Subway Id="81" Name="Парк Победы"/>
+		<Subway Id="36" Name="Партизанская"/>
+		<Subway Id="83" Name="Первомайская"/>
+		<Subway Id="84" Name="Перово"/>
+		<Subway Id="85" Name="Петровско-Разумовская"/>
+		<Subway Id="86" Name="Печатники"/>
+		<Subway Id="87" Name="Пионерская"/>
+		<Subway Id="88" Name="Планерная"/>
+		<Subway Id="89" Name="Площадь Ильича"/>
+		<Subway Id="90" Name="Площадь революции"/>
+		<Subway Id="91" Name="Полежаевская"/>
+		<Subway Id="92" Name="Полянка"/>
+		<Subway Id="93" Name="Пражская"/>
+		<Subway Id="94" Name="Преображенская площадь"/>
+		<Subway Id="95" Name="Пролетарская"/>
+		<Subway Id="96" Name="Проспект Вернадского"/>
+		<Subway Id="97" Name="Проспект Мира"/>
+		<Subway Id="98" Name="Профсоюзная"/>
+		<Subway Id="99" Name="Пушкинская"/>
+		<Subway Id="2136" Name="Пятницкое шоссе"/>
+		<Subway Id="100" Name="Речной вокзал"/>
+		<Subway Id="101" Name="Рижская"/>
+		<Subway Id="102" Name="Римская"/>
+		<Subway Id="2149" Name="Румянцево"/>
+		<Subway Id="103" Name="Рязанский проспект"/>
+		<Subway Id="104" Name="Савеловская"/>
+		<Subway Id="2150" Name="Саларьево"/>
+		<Subway Id="105" Name="Свиблово"/>
+		<Subway Id="106" Name="Севастопольская"/>
+		<Subway Id="107" Name="Семеновская"/>
+		<Subway Id="108" Name="Серпуховская"/>
+		<Subway Id="1005" Name="Славянский бульвар"/>
+		<Subway Id="109" Name="Смоленская"/>
+		<Subway Id="110" Name="Сокол"/>
+		<Subway Id="111" Name="Сокольники"/>
+		<Subway Id="2147" Name="Спартак"/>
+		<Subway Id="112" Name="Спортивная"/>
+		<Subway Id="1007" Name="Сретенский бульвар"/>
+		<Subway Id="214" Name="Строгино"/>
+		<Subway Id="113" Name="Студенческая"/>
+		<Subway Id="114" Name="Сухаревская"/>
+		<Subway Id="115" Name="Сходненская"/>
+		<Subway Id="116" Name="Таганская"/>
+		<Subway Id="117" Name="Тверская"/>
+		<Subway Id="118" Name="Театральная"/>
+		<Subway Id="119" Name="Текстильщики"/>
+		<Subway Id="120" Name="Теплый стан"/>
+		<Subway Id="121" Name="Тимирязевская"/>
+		<Subway Id="122" Name="Третьяковская"/>
+		<Subway Id="2148" Name="Тропарево"/>
+		<Subway Id="1006" Name="Трубная"/>
+		<Subway Id="123" Name="Тульская"/>
+		<Subway Id="124" Name="Тургеневская"/>
+		<Subway Id="125" Name="Тушинская"/>
+		<Subway Id="126" Name="Улица 1905 года"/>
+		<Subway Id="128" Name="Улица академика Янгеля"/>
+		<Subway Id="1011" Name="Улица Горчакова"/>
+		<Subway Id="1009" Name="Улица Скобелевская"/>
+		<Subway Id="1008" Name="Улица Старокачаловская"/>
+		<Subway Id="129" Name="Университет"/>
+		<Subway Id="130" Name="Филевский парк"/>
+		<Subway Id="131" Name="Фили"/>
+		<Subway Id="132" Name="Фрунзенская"/>
+		<Subway Id="133" Name="Царицыно"/>
+		<Subway Id="134" Name="Цветной бульвар"/>
+		<Subway Id="135" Name="Черкизовская"/>
+		<Subway Id="136" Name="Чертановская"/>
+		<Subway Id="137" Name="Чеховская"/>
+		<Subway Id="138" Name="Чистые пруды"/>
+		<Subway Id="139" Name="Чкаловская"/>
+		<Subway Id="140" Name="Шаболовская"/>
+		<Subway Id="216" Name="Шипиловская"/>
+		<Subway Id="141" Name="Шоссе Энтузиастов"/>
+		<Subway Id="142" Name="Щелковская"/>
+		<Subway Id="143" Name="Щукинская"/>
+		<Subway Id="144" Name="Электрозаводская"/>
+		<Subway Id="145" Name="Юго-Западная"/>
+		<Subway Id="146" Name="Южная"/>
+		<Subway Id="147" Name="Ясенево"/>
+	</Region>
+	<Region Id="637680" Name="Московская область">
+		<City Id="637690" Name="Авсюнино"/>
+		<City Id="637710" Name="Андреевка"/>
+		<City Id="637720" Name="Апрелевка"/>
+		<City Id="637730" Name="Архангельское"/>
+		<City Id="637760" Name="Ашукино"/>
+		<City Id="637770" Name="Балашиха"/>
+		<City Id="637780" Name="Барвиха"/>
+		<City Id="637800" Name="Белоозёрский"/>
+		<City Id="637810" Name="Белоомут"/>
+		<City Id="637830" Name="Биокомбината"/>
+		<City Id="637840" Name="Богородское"/>
+		<City Id="637860" Name="Большевик"/>
+		<City Id="637870" Name="Большие Вяземы"/>
+		<City Id="637880" Name="Большие Дворы"/>
+		<City Id="637890" Name="Большое Буньково"/>
+		<City Id="637900" Name="Бронницы"/>
+		<City Id="637910" Name="Быково"/>
+		<City Id="637920" Name="Ватутинки"/>
+		<City Id="637930" Name="Вербилки"/>
+		<City Id="637940" Name="Верея"/>
+		<City Id="637950" Name="Видное"/>
+		<City Id="637970" Name="Володарского"/>
+		<City Id="637980" Name="Волоколамск"/>
+		<City Id="638370" Name="Воровского"/>
+		<City Id="637990" Name="Воскресенск"/>
+		<City Id="639190" Name="Воскресенское"/>
+		<City Id="638010" Name="Высоковск"/>
+		<City Id="638030" Name="Глебовский"/>
+		<City Id="638040" Name="Голицыно"/>
+		<City Id="638050" Name="Горки-10"/>
+		<City Id="638070" Name="Давыдово"/>
+		<City Id="638080" Name="Деденево"/>
+		<City Id="638090" Name="Дедовск"/>
+		<City Id="638100" Name="Демихово"/>
+		<City Id="638110" Name="Дзержинский"/>
+		<City Id="638120" Name="Дмитров"/>
+		<City Id="638130" Name="Долгопрудный"/>
+		<City Id="638150" Name="Домодедово"/>
+		<City Id="638160" Name="Дорохово"/>
+		<City Id="638170" Name="Дрезна"/>
+		<City Id="638180" Name="Дружба"/>
+		<City Id="638190" Name="Дубна"/>
+		<City Id="638200" Name="Дубовая Роща"/>
+		<City Id="638210" Name="Егорьевск"/>
+		<City Id="638220" Name="Железнодорожный"/>
+		<City Id="638240" Name="Жуковский"/>
+		<City Id="638270" Name="Загорянский"/>
+		<City Id="638280" Name="Запрудня"/>
+		<City Id="638290" Name="Зарайск"/>
+		<City Id="638300" Name="Заречье"/>
+		<City Id="638310" Name="Звенигород"/>
+		<City Id="638320" Name="Знамя Октября"/>
+		<City Id="638330" Name="Ивантеевка"/>
+		<City Id="638340" Name="Икша"/>
+		<City Id="638350" Name="Ильинский"/>
+		<City Id="638360" Name="Ильинское"/>
+		<City Id="638400" Name="Истра"/>
+		<City Id="638410" Name="Калининец"/>
+		<City Id="638420" Name="Кашира"/>
+		<City Id="638430" Name="Киевский"/>
+		<City Id="638440" Name="Климовск"/>
+		<City Id="638450" Name="Клин"/>
+		<City Id="638470" Name="Кокошкино"/>
+		<City Id="638480" Name="Коломна"/>
+		<City Id="638490" Name="Коммунарка"/>
+		<City Id="638500" Name="Константиново"/>
+		<City Id="638510" Name="Коренево"/>
+		<City Id="638520" Name="Королев"/>
+		<City Id="638530" Name="Котельники"/>
+		<City Id="638540" Name="Красково"/>
+		<City Id="638560" Name="Красноармейск"/>
+		<City Id="638570" Name="Красногорск"/>
+		<City Id="638580" Name="Краснозаводск"/>
+		<City Id="638590" Name="Краснознаменск"/>
+		<City Id="638610" Name="Кратово"/>
+		<City Id="638620" Name="Кубинка"/>
+		<City Id="638640" Name="Куровское"/>
+		<City Id="638650" Name="Лесной"/>
+		<City Id="638660" Name="Лесной Городок"/>
+		<City Id="638670" Name="Лесные Поляны"/>
+		<City Id="638680" Name="Ликино-Дулево"/>
+		<City Id="638690" Name="ЛМС"/>
+		<City Id="638700" Name="Лобня"/>
+		<City Id="638720" Name="Лосино-Петровский"/>
+		<City Id="638730" Name="Лотошино"/>
+		<City Id="638750" Name="Лунёво"/>
+		<City Id="638760" Name="Луховицы"/>
+		<City Id="638770" Name="Лыткарино"/>
+		<City Id="638780" Name="Львовский"/>
+		<City Id="638790" Name="Люберцы"/>
+		<City Id="638800" Name="Любучаны"/>
+		<City Id="638810" Name="Малаховка"/>
+		<City Id="638820" Name="Малино"/>
+		<City Id="638840" Name="Марфино"/>
+		<City Id="638850" Name="Менделеево"/>
+		<City Id="638860" Name="Мещерино"/>
+		<City Id="638870" Name="Михнево"/>
+		<City Id="638890" Name="Можайск"/>
+		<City Id="638900" Name="Монино"/>
+		<City Id="638910" Name="Московский"/>
+		<City Id="638260" Name="Мосрентген"/>
+		<City Id="638920" Name="Мытищи"/>
+		<City Id="638930" Name="Наро-Фоминск"/>
+		<City Id="638940" Name="Нахабино"/>
+		<City Id="638950" Name="Некрасовский"/>
+		<City Id="638970" Name="Новоивановское"/>
+		<City Id="638980" Name="Новопетровское"/>
+		<City Id="639000" Name="Новосиньково"/>
+		<City Id="639010" Name="Ногинск"/>
+		<City Id="639020" Name="Оболенск"/>
+		<City Id="639030" Name="Обухово"/>
+		<City Id="639040" Name="Одинцово"/>
+		<City Id="639050" Name="Ожерелье"/>
+		<City Id="639060" Name="Озёры"/>
+		<City Id="639070" Name="Октябрьский"/>
+		<City Id="639090" Name="Орехово-Зуево"/>
+		<City Id="639100" Name="Островцы"/>
+		<City Id="639110" Name="Павловская Слобода"/>
+		<City Id="639120" Name="Павловский Посад"/>
+		<City Id="639130" Name="Первомайский"/>
+		<City Id="639140" Name="Пересвет"/>
+		<City Id="639150" Name="Пески"/>
+		<City Id="639160" Name="Пироговский"/>
+		<City Id="639170" Name="Поварово"/>
+		<City Id="639180" Name="Подольск"/>
+		<City Id="639200" Name="Правдинский"/>
+		<City Id="639230" Name="Пролетарский"/>
+		<City Id="639240" Name="Протвино"/>
+		<City Id="639250" Name="Пушкино"/>
+		<City Id="639260" Name="Пущино"/>
+		<City Id="639270" Name="Развилка"/>
+		<City Id="639280" Name="Раменское"/>
+		<City Id="639290" Name="Реммаш"/>
+		<City Id="639300" Name="Реутов"/>
+		<City Id="639310" Name="Речицы"/>
+		<City Id="639320" Name="Решетниково"/>
+		<City Id="639330" Name="Ржавки"/>
+		<City Id="639340" Name="Рогачево"/>
+		<City Id="639350" Name="Родники"/>
+		<City Id="639360" Name="Рождествено"/>
+		<City Id="639370" Name="Рошаль"/>
+		<City Id="639380" Name="Руза"/>
+		<City Id="639410" Name="Свердловский"/>
+		<City Id="639430" Name="Селятино"/>
+		<City Id="639440" Name="Сергиев Посад"/>
+		<City Id="639460" Name="Серебряные Пруды"/>
+		<City Id="639470" Name="Серпухов"/>
+		<City Id="639480" Name="Скоропусковский"/>
+		<City Id="639490" Name="Снегири"/>
+		<City Id="639530" Name="Солнечногорск"/>
+		<City Id="639540" Name="Софрино"/>
+		<City Id="639550" Name="Старая Купавна"/>
+		<City Id="639560" Name="Старый Городок"/>
+		<City Id="639570" Name="Столбовая"/>
+		<City Id="639580" Name="Ступино"/>
+		<City Id="639600" Name="Сычево"/>
+		<City Id="639610" Name="Талдом"/>
+		<City Id="639630" Name="Томилино"/>
+		<City Id="639640" Name="Троицк"/>
+		<City Id="639650" Name="Троицкое"/>
+		<City Id="639660" Name="Тучково"/>
+		<City Id="639670" Name="Уваровка"/>
+		<City Id="639680" Name="Удельная"/>
+		<City Id="639690" Name="Узуново"/>
+		<City Id="639720" Name="Фрязино"/>
+		<City Id="639730" Name="Фряново"/>
+		<City Id="639740" Name="Химки"/>
+		<City Id="639750" Name="Хорлово"/>
+		<City Id="639760" Name="Хотьково"/>
+		<City Id="639790" Name="Черкизово"/>
+		<City Id="639800" Name="Черноголовка"/>
+		<City Id="639810" Name="Черное"/>
+		<City Id="639820" Name="Черусти"/>
+		<City Id="639830" Name="Чехов"/>
+		<City Id="639840" Name="Шатура"/>
+		<City Id="639850" Name="Шатурторф"/>
+		<City Id="639860" Name="Шаховская"/>
+		<City Id="639880" Name="Шишкин Лес"/>
+		<City Id="639900" Name="Щербинка"/>
+		<City Id="639910" Name="Щёлково"/>
+		<City Id="639920" Name="Электрогорск"/>
+		<City Id="639930" Name="Электроизолятор"/>
+		<City Id="639940" Name="Электросталь"/>
+		<City Id="639950" Name="Электроугли"/>
+		<City Id="639960" Name="Юбилейный"/>
+		<City Id="639970" Name="Яковлевское"/>
+		<City Id="639980" Name="Ям"/>
+		<City Id="639990" Name="Яхрома"/>
+	</Region>
+	<Region Id="653240" Name="Санкт-Петербург">
+		<DirectionRoad Id="33" Name="Александровское шоссе"/>
+		<DirectionRoad Id="34" Name="Аннинское шоссе"/>
+		<DirectionRoad Id="35" Name="Белоостровское шоссе"/>
+		<DirectionRoad Id="36" Name="Волхонское шоссе"/>
+		<DirectionRoad Id="37" Name="Выборгское шоссе"/>
+		<DirectionRoad Id="38" Name="Гатчинское шоссе"/>
+		<DirectionRoad Id="39" Name="Горское шоссе"/>
+		<DirectionRoad Id="40" Name="Зеленогорское шоссе"/>
+		<DirectionRoad Id="41" Name="Киевское шоссе"/>
+		<DirectionRoad Id="42" Name="Красносельское шоссе"/>
+		<DirectionRoad Id="43" Name="Левашовское шоссе"/>
+		<DirectionRoad Id="44" Name="Московское шоссе"/>
+		<DirectionRoad Id="51" Name="Мурманское шоссе"/>
+		<DirectionRoad Id="45" Name="Петрозаводское шоссе"/>
+		<DirectionRoad Id="46" Name="Приморское шоссе"/>
+		<DirectionRoad Id="47" Name="Приозерское шоссе"/>
+		<DirectionRoad Id="48" Name="Пулковское шоссе"/>
+		<DirectionRoad Id="49" Name="Ропшинское шоссе"/>
+		<DirectionRoad Id="50" Name="Рябовское шоссе"/>
+		<Subway Id="154" Name="Автово"/>
+		<Subway Id="2132" Name="Адмиралтейская"/>
+		<Subway Id="153" Name="Академическая"/>
+		<Subway Id="155" Name="Балтийская"/>
+		<Subway Id="2137" Name="Бухарестская"/>
+		<Subway Id="209" Name="Василеостровская"/>
+		<Subway Id="210" Name="Владимирская"/>
+		<Subway Id="1017" Name="Волковская"/>
+		<Subway Id="211" Name="Выборгская"/>
+		<Subway Id="164" Name="Горьковская"/>
+		<Subway Id="165" Name="Гостиный двор"/>
+		<Subway Id="166" Name="Гражданский проспект"/>
+		<Subway Id="159" Name="Девяткино"/>
+		<Subway Id="160" Name="Достоевская"/>
+		<Subway Id="162" Name="Елизаровская"/>
+		<Subway Id="212" Name="Звездная"/>
+		<Subway Id="1016" Name="Звенигородская"/>
+		<Subway Id="167" Name="Кировский завод"/>
+		<Subway Id="168" Name="Комендантский проспект"/>
+		<Subway Id="169" Name="Крестовский остров"/>
+		<Subway Id="170" Name="Купчино"/>
+		<Subway Id="171" Name="Ладожская"/>
+		<Subway Id="172" Name="Ленинский проспект"/>
+		<Subway Id="173" Name="Лесная"/>
+		<Subway Id="174" Name="Лиговский проспект"/>
+		<Subway Id="175" Name="Ломоносовская"/>
+		<Subway Id="176" Name="Маяковская"/>
+		<Subway Id="2138" Name="Международная"/>
+		<Subway Id="177" Name="Московская"/>
+		<Subway Id="178" Name="Московские ворота"/>
+		<Subway Id="179" Name="Нарвская"/>
+		<Subway Id="180" Name="Невский проспект"/>
+		<Subway Id="181" Name="Новочеркасская"/>
+		<Subway Id="2122" Name="Обводный канал"/>
+		<Subway Id="182" Name="Обухово"/>
+		<Subway Id="183" Name="Озерки"/>
+		<Subway Id="184" Name="Парк Победы"/>
+		<Subway Id="213" Name="Парнас"/>
+		<Subway Id="185" Name="Петроградская"/>
+		<Subway Id="186" Name="Пионерская"/>
+		<Subway Id="187" Name="Площадь А. Невского I"/>
+		<Subway Id="188" Name="Площадь А. Невского II"/>
+		<Subway Id="191" Name="Площадь Восстания"/>
+		<Subway Id="189" Name="Площадь Ленина"/>
+		<Subway Id="190" Name="Площадь Мужества"/>
+		<Subway Id="192" Name="Политехническая"/>
+		<Subway Id="194" Name="Приморская"/>
+		<Subway Id="195" Name="Пролетарская"/>
+		<Subway Id="196" Name="Проспект Большевиков"/>
+		<Subway Id="198" Name="Проспект Ветеранов"/>
+		<Subway Id="197" Name="Проспект Просвещения"/>
+		<Subway Id="199" Name="Пушкинская"/>
+		<Subway Id="200" Name="Рыбацкое"/>
+		<Subway Id="201" Name="Садовая"/>
+		<Subway Id="202" Name="Сенная площадь"/>
+		<Subway Id="1015" Name="Спасская"/>
+		<Subway Id="203" Name="Спортивная"/>
+		<Subway Id="204" Name="Старая деревня"/>
+		<Subway Id="205" Name="Технологический ин-т I"/>
+		<Subway Id="206" Name="Технологический ин-т II"/>
+		<Subway Id="207" Name="Удельная"/>
+		<Subway Id="208" Name="Улица Дыбенко"/>
+		<Subway Id="163" Name="Фрунзенская"/>
+		<Subway Id="156" Name="Черная речка"/>
+		<Subway Id="157" Name="Чернышевская"/>
+		<Subway Id="158" Name="Чкаловская"/>
+		<Subway Id="161" Name="Электросила"/>
+	</Region>
+	<Region Id="636370" Name="Ленинградская область">
+		<City Id="636380" Name="Агалатово"/>
+		<City Id="636390" Name="Аннино"/>
+		<City Id="636400" Name="Бегуницы"/>
+		<City Id="636410" Name="Бокситогорск"/>
+		<City Id="636420" Name="Большая Ижора"/>
+		<City Id="636430" Name="Большие Колпаны"/>
+		<City Id="636440" Name="Бугры"/>
+		<City Id="636450" Name="Будогощь"/>
+		<City Id="636460" Name="Виллози"/>
+		<City Id="636470" Name="Войсковицы"/>
+		<City Id="636480" Name="Волосово"/>
+		<City Id="636490" Name="Волхов"/>
+		<City Id="636500" Name="Всеволожск"/>
+		<City Id="636510" Name="Выборг"/>
+		<City Id="636520" Name="Вырица"/>
+		<City Id="636530" Name="Высоцк"/>
+		<City Id="636540" Name="Гарболово"/>
+		<City Id="636550" Name="Гатчина"/>
+		<City Id="636560" Name="Глебычево"/>
+		<City Id="636570" Name="Горбунки"/>
+		<City Id="636580" Name="Гостилицы"/>
+		<City Id="636590" Name="Дружная Горка"/>
+		<City Id="636600" Name="Дубровка"/>
+		<City Id="636610" Name="Елизаветино"/>
+		<City Id="636620" Name="Ефимовский"/>
+		<City Id="636630" Name="Ивангород"/>
+		<City Id="636660" Name="Каменка"/>
+		<City Id="636670" Name="Каменногорск"/>
+		<City Id="636680" Name="Кингисепп"/>
+		<City Id="636690" Name="Кипень"/>
+		<City Id="636700" Name="Кириши"/>
+		<City Id="636710" Name="Кировск"/>
+		<City Id="636720" Name="Коммунар"/>
+		<City Id="636730" Name="Красный Бор"/>
+		<City Id="636740" Name="Кузнечное"/>
+		<City Id="636750" Name="Кузьмоловский"/>
+		<City Id="636760" Name="Лаголово"/>
+		<City Id="636770" Name="Лебяжье"/>
+		<City Id="636780" Name="Лесколово"/>
+		<City Id="636790" Name="Лодейное Поле"/>
+		<City Id="636800" Name="Луга"/>
+		<City Id="636810" Name="Любань"/>
+		<City Id="636820" Name="Малое Верево"/>
+		<City Id="636830" Name="Мга"/>
+		<City Id="636640" Name="Морозова"/>
+		<City Id="636840" Name="Мурино"/>
+		<City Id="636850" Name="Назия"/>
+		<City Id="636860" Name="Никольское"/>
+		<City Id="636870" Name="Новая Ладога"/>
+		<City Id="636880" Name="Новое Девяткино"/>
+		<City Id="636890" Name="Новый Свет"/>
+		<City Id="636900" Name="Нурма"/>
+		<City Id="636910" Name="Отрадное"/>
+		<City Id="636920" Name="Павлово"/>
+		<City Id="636930" Name="Первомайское"/>
+		<City Id="636940" Name="Пикалево"/>
+		<City Id="636950" Name="Подпорожье"/>
+		<City Id="636960" Name="Приладожский"/>
+		<City Id="636970" Name="Приморск"/>
+		<City Id="636980" Name="Приозерск"/>
+		<City Id="636990" Name="Рахья"/>
+		<City Id="637000" Name="Романовка"/>
+		<City Id="637010" Name="Рощино"/>
+		<City Id="637020" Name="Русско-Высоцкое"/>
+		<City Id="637030" Name="Рябово"/>
+		<City Id="637040" Name="Саперное"/>
+		<City Id="636650" Name="Свердлова"/>
+		<City Id="637050" Name="Светогорск"/>
+		<City Id="637060" Name="Сертолово"/>
+		<City Id="637070" Name="Сиверский"/>
+		<City Id="637080" Name="Синявино"/>
+		<City Id="637090" Name="Сланцы"/>
+		<City Id="637100" Name="Советский"/>
+		<City Id="637110" Name="Сосново"/>
+		<City Id="637120" Name="Сосновый Бор"/>
+		<City Id="637130" Name="Старая"/>
+		<City Id="637140" Name="Сясьстрой"/>
+		<City Id="636613" Name="Тайцы"/>
+		<City Id="637150" Name="Тельмана"/>
+		<City Id="637160" Name="Тихвин"/>
+		<City Id="637170" Name="Токсово"/>
+		<City Id="637180" Name="Толмачево"/>
+		<City Id="637190" Name="Тосно"/>
+		<City Id="637200" Name="Ульяновка"/>
+		<City Id="637210" Name="Федоровское"/>
+		<City Id="637220" Name="Форносово"/>
+		<City Id="637230" Name="Шлиссельбург"/>
+		<City Id="637240" Name="Щеглово"/>
+		<City Id="637250" Name="Янино-1"/>
+	</Region>
+	<Region Id="645530" Name="Адыгея">
+		<City Id="645660" Name="Майкоп"/>
+		<City Id="645540" Name="Абадзехская"/>
+		<City Id="645550" Name="Адыгейск"/>
+		<City Id="645560" Name="Белое"/>
+		<City Id="645570" Name="Блечепсин"/>
+		<City Id="645580" Name="Вольное"/>
+		<City Id="645590" Name="Гиагинская"/>
+		<City Id="645600" Name="Дондуковская"/>
+		<City Id="645610" Name="Каменномостский"/>
+		<City Id="645620" Name="Кошехабль"/>
+		<City Id="645630" Name="Красногвардейское"/>
+		<City Id="645640" Name="Краснооктябрьский"/>
+		<City Id="645650" Name="Кужорская"/>
+		<City Id="645670" Name="Натырбово"/>
+		<City Id="645680" Name="Понежукай"/>
+		<City Id="645690" Name="Северо-Восточные Сады"/>
+		<City Id="645700" Name="Тахтамукай"/>
+		<City Id="645710" Name="Тлюстенхабль"/>
+		<City Id="645720" Name="Тульский"/>
+		<City Id="645730" Name="Хакуринохабль"/>
+		<City Id="645740" Name="Ханская"/>
+		<City Id="645750" Name="Хатукай"/>
+		<City Id="645760" Name="Ходзь"/>
+		<City Id="645770" Name="Энем"/>
+		<City Id="645780" Name="Яблоновский"/>
+	</Region>
+	<Region Id="621590" Name="Алтайский край">
+		<City Id="621630" Name="Барнаул">
+			<District Id="167" Name="Железнодорожный"/>
+			<District Id="168" Name="Индустриальный"/>
+			<District Id="169" Name="Ленинский"/>
+			<District Id="170" Name="Октябрьский"/>
+			<District Id="171" Name="Центральный"/>
+		</City>
+		<City Id="621600" Name="Алейск"/>
+		<City Id="621610" Name="Алтайское"/>
+		<City Id="621620" Name="Баево"/>
+		<City Id="621640" Name="Белокуриха"/>
+		<City Id="621650" Name="Белоярск"/>
+		<City Id="621660" Name="Березовка"/>
+		<City Id="621670" Name="Бийск">
+			<District Id="496" Name="АБ"/>
+			<District Id="495" Name="Вокзал"/>
+			<District Id="494" Name="Восточный"/>
+			<District Id="493" Name="Детский мир"/>
+			<District Id="492" Name="Заречье"/>
+			<District Id="491" Name="Зеленый клин"/>
+			<District Id="490" Name="Нефтебаза"/>
+			<District Id="489" Name="Переезд"/>
+			<District Id="488" Name="Приобье"/>
+			<District Id="487" Name="Трест"/>
+			<District Id="486" Name="Центр"/>
+		</City>
+		<City Id="621680" Name="Благовещенка"/>
+		<City Id="621690" Name="Боровиха"/>
+		<City Id="621700" Name="Бурла"/>
+		<City Id="621710" Name="Быстрый Исток"/>
+		<City Id="621720" Name="Верх-Катунское"/>
+		<City Id="621740" Name="Власиха"/>
+		<City Id="621750" Name="Волчиха"/>
+		<City Id="621760" Name="Горняк"/>
+		<City Id="621770" Name="Ельцовка"/>
+		<City Id="621780" Name="Завьялово"/>
+		<City Id="621790" Name="Залесово"/>
+		<City Id="621800" Name="Заринск"/>
+		<City Id="621820" Name="Змеиногорск"/>
+		<City Id="621830" Name="Зональное"/>
+		<City Id="621840" Name="Зудилово"/>
+		<City Id="621850" Name="Калманка"/>
+		<City Id="621860" Name="Камень-на-Оби"/>
+		<City Id="621870" Name="Ключи"/>
+		<City Id="621880" Name="Косиха"/>
+		<City Id="621890" Name="Красногорское"/>
+		<City Id="621900" Name="Краснощеково"/>
+		<City Id="621910" Name="Крутиха"/>
+		<City Id="621920" Name="Кулунда"/>
+		<City Id="621930" Name="Курья"/>
+		<City Id="621940" Name="Кытманово"/>
+		<City Id="621950" Name="Лебяжье"/>
+		<City Id="621960" Name="Леньки"/>
+		<City Id="621970" Name="Малиновое Озеро"/>
+		<City Id="621980" Name="Мамонтово"/>
+		<City Id="621990" Name="Михайловское"/>
+		<City Id="622010" Name="Налобиха"/>
+		<City Id="622020" Name="Новичиха"/>
+		<City Id="622030" Name="Новоалтайск"/>
+		<City Id="622040" Name="Новоегорьевское"/>
+		<City Id="622060" Name="Новые Зори"/>
+		<City Id="622070" Name="Озерки"/>
+		<City Id="622080" Name="Павловск"/>
+		<City Id="622090" Name="Панкрушиха"/>
+		<City Id="622100" Name="Первомайское"/>
+		<City Id="622120" Name="Поспелиха"/>
+		<City Id="622140" Name="Ребриха"/>
+		<City Id="622150" Name="Родино"/>
+		<City Id="622160" Name="Романово"/>
+		<City Id="622170" Name="Рубцовск"/>
+		<City Id="622180" Name="Сибирский"/>
+		<City Id="622190" Name="Славгород"/>
+		<City Id="622210" Name="Смоленское"/>
+		<City Id="622220" Name="Советское"/>
+		<City Id="622230" Name="Соколово"/>
+		<City Id="622240" Name="Солонешное"/>
+		<City Id="622250" Name="Солтон"/>
+		<City Id="622270" Name="Сростки"/>
+		<City Id="622280" Name="Староалейское"/>
+		<City Id="622290" Name="Степное Озеро"/>
+		<City Id="622300" Name="Табуны"/>
+		<City Id="622310" Name="Тальменка"/>
+		<City Id="622320" Name="Тогул"/>
+		<City Id="622330" Name="Топчиха"/>
+		<City Id="622340" Name="Троицкое"/>
+		<City Id="622350" Name="Тюменцево"/>
+		<City Id="622360" Name="Угловское"/>
+		<City Id="622370" Name="Усть-Калманка"/>
+		<City Id="622380" Name="Усть-Чарышская Пристань"/>
+		<City Id="622390" Name="Хабары"/>
+		<City Id="622400" Name="Целинное"/>
+		<City Id="622410" Name="Чарышское"/>
+		<City Id="622420" Name="Черемное"/>
+		<City Id="622430" Name="Шелаболиха"/>
+		<City Id="622440" Name="Шипуново"/>
+		<City Id="622450" Name="Южный"/>
+		<City Id="622460" Name="Яровое"/>
+	</Region>
+	<Region Id="622470" Name="Амурская область">
+		<City Id="622500" Name="Благовещенск"/>
+		<City Id="622480" Name="Архара"/>
+		<City Id="622490" Name="Белогорск"/>
+		<City Id="622510" Name="Возжаевка"/>
+		<City Id="622520" Name="Екатеринославка"/>
+		<City Id="622530" Name="Завитинск"/>
+		<City Id="622540" Name="Зея"/>
+		<City Id="622550" Name="Магдагачи"/>
+		<City Id="622560" Name="Новобурейский"/>
+		<City Id="622570" Name="Прогресс"/>
+		<City Id="622580" Name="Райчихинск"/>
+		<City Id="622590" Name="Свободный"/>
+		<City Id="622600" Name="Серышево"/>
+		<City Id="622610" Name="Сковородино"/>
+		<City Id="622620" Name="Тамбовка"/>
+		<City Id="622630" Name="Тында"/>
+		<City Id="622640" Name="Шимановск"/>
+	</Region>
+	<Region Id="622650" Name="Архангельская область">
+		<City Id="622660" Name="Архангельск">
+			<District Id="220" Name="Варавино-Фактория"/>
+			<District Id="221" Name="Исакогорский"/>
+			<District Id="222" Name="Ломоносовский"/>
+			<District Id="223" Name="Маймаксанский"/>
+			<District Id="225" Name="Майская горка"/>
+			<District Id="224" Name="Октябрьский"/>
+			<District Id="226" Name="Северный"/>
+			<District Id="227" Name="Соломбальский"/>
+			<District Id="228" Name="Цигломенский"/>
+		</City>
+		<City Id="622670" Name="Березник"/>
+		<City Id="622680" Name="Вельск"/>
+		<City Id="622690" Name="Верхняя Тойма"/>
+		<City Id="622700" Name="Вычегодский"/>
+		<City Id="622710" Name="Двинской"/>
+		<City Id="622720" Name="Ерцево"/>
+		<City Id="622730" Name="Ильинско-Подомское"/>
+		<City Id="622740" Name="Искателей"/>
+		<City Id="622750" Name="Каменка"/>
+		<City Id="622760" Name="Каргополь"/>
+		<City Id="622770" Name="Карпогоры"/>
+		<City Id="622780" Name="Катунино"/>
+		<City Id="622790" Name="Кизема"/>
+		<City Id="622800" Name="Конево"/>
+		<City Id="622810" Name="Коноша"/>
+		<City Id="622820" Name="Коряжма"/>
+		<City Id="622830" Name="Котлас"/>
+		<City Id="622840" Name="Красноборск"/>
+		<City Id="622850" Name="Кулой"/>
+		<City Id="622860" Name="Лешуконское"/>
+		<City Id="622870" Name="Малошуйка"/>
+		<City Id="622880" Name="Мезень"/>
+		<City Id="622890" Name="Мирный"/>
+		<City Id="622910" Name="Новодвинск"/>
+		<City Id="622920" Name="Няндома"/>
+		<City Id="622930" Name="Обозерский"/>
+		<City Id="622940" Name="Октябрьский"/>
+		<City Id="622950" Name="Онега"/>
+		<City Id="622960" Name="Пинега"/>
+		<City Id="622970" Name="Плесецк"/>
+		<City Id="622980" Name="Подюга"/>
+		<City Id="622990" Name="Приводино"/>
+		<City Id="623000" Name="Савинский"/>
+		<City Id="623010" Name="Северодвинск">
+			<District Id="399" Name="Кварталы"/>
+			<District Id="400" Name="Новый город"/>
+			<District Id="401" Name="Старый Город"/>
+			<District Id="402" Name="Центр"/>
+			<District Id="403" Name="Ягры"/>
+		</City>
+		<City Id="623020" Name="Североонежск"/>
+		<City Id="623030" Name="Сольвычегодск"/>
+		<City Id="623040" Name="Талажский Авиагородок"/>
+		<City Id="623050" Name="Уемский"/>
+		<City Id="623060" Name="Урдома"/>
+		<City Id="623070" Name="Холмогоры"/>
+		<City Id="623080" Name="Шенкурск"/>
+		<City Id="623090" Name="Шипицыно"/>
+		<City Id="623100" Name="Яренск"/>
+	</Region>
+	<Region Id="623110" Name="Астраханская область">
+		<City Id="623130" Name="Астрахань">
+			<District Id="188" Name="Кировский"/>
+			<District Id="189" Name="Ленинский"/>
+			<District Id="190" Name="Советский"/>
+			<District Id="191" Name="Трусовский"/>
+		</City>
+		<City Id="623120" Name="Аксарайский"/>
+		<City Id="623140" Name="Ахтубинск"/>
+		<City Id="623150" Name="Верхний Баскунчак"/>
+		<City Id="623160" Name="Володарский"/>
+		<City Id="623170" Name="Енотаевка"/>
+		<City Id="623180" Name="Зензели"/>
+		<City Id="623190" Name="Знаменск"/>
+		<City Id="623200" Name="Икряное"/>
+		<City Id="623210" Name="Ильинка"/>
+		<City Id="623220" Name="Камызяк"/>
+		<City Id="623230" Name="Капустин Яр"/>
+		<City Id="623240" Name="Красные Баррикады"/>
+		<City Id="623250" Name="Красный Яр"/>
+		<City Id="623260" Name="Лиман"/>
+		<City Id="623270" Name="Марфино"/>
+		<City Id="623280" Name="Нариманов"/>
+		<City Id="623290" Name="Началово"/>
+		<City Id="623300" Name="Нижний Баскунчак"/>
+		<City Id="623310" Name="Никольское"/>
+		<City Id="623320" Name="Оранжереи"/>
+		<City Id="623330" Name="Сасыколи"/>
+		<City Id="623340" Name="Солянка"/>
+		<City Id="623350" Name="Старокучергановка"/>
+		<City Id="623360" Name="Тамбовка"/>
+		<City Id="623370" Name="Харабали"/>
+		<City Id="623380" Name="Черный Яр"/>
+		<City Id="623390" Name="Яксатово"/>
+		<City Id="623400" Name="Яндыки"/>
+	</Region>
+	<Region Id="645790" Name="Башкортостан">
+		<City Id="646600" Name="Уфа">
+			<District Id="70" Name="Дёмский"/>
+			<District Id="71" Name="Калининский"/>
+			<District Id="72" Name="Кировский"/>
+			<District Id="73" Name="Ленинский"/>
+			<District Id="74" Name="Октябрьский"/>
+			<District Id="75" Name="Орджоникидзевский"/>
+			<District Id="76" Name="Советский"/>
+		</City>
+		<City Id="645800" Name="Авдон"/>
+		<City Id="645810" Name="Агидель"/>
+		<City Id="645820" Name="Аксаково"/>
+		<City Id="645830" Name="Акъяр"/>
+		<City Id="645840" Name="Алексеевка"/>
+		<City Id="645850" Name="Алкино-2"/>
+		<City Id="645860" Name="Амзя"/>
+		<City Id="645870" Name="Архангельское"/>
+		<City Id="645880" Name="Аскарово"/>
+		<City Id="645890" Name="Аскино"/>
+		<City Id="645900" Name="Баймак"/>
+		<City Id="645910" Name="Бакалы"/>
+		<City Id="645920" Name="Белебей"/>
+		<City Id="645930" Name="Белорецк"/>
+		<City Id="645940" Name="Бижбуляк"/>
+		<City Id="645950" Name="Бирск"/>
+		<City Id="645960" Name="Благовещенск"/>
+		<City Id="645970" Name="Большеустьикинское"/>
+		<City Id="645980" Name="Буздяк"/>
+		<City Id="645990" Name="Бураево"/>
+		<City Id="646000" Name="Верхнеяркеево"/>
+		<City Id="646010" Name="Верхние Киги"/>
+		<City Id="646020" Name="Верхние Татышлы"/>
+		<City Id="646030" Name="Давлеканово"/>
+		<City Id="646040" Name="Дмитриевка"/>
+		<City Id="646050" Name="Дуван"/>
+		<City Id="646060" Name="Дюртюли"/>
+		<City Id="646070" Name="Ермекеево"/>
+		<City Id="646080" Name="Ермолаево"/>
+		<City Id="646090" Name="Зилаир"/>
+		<City Id="646100" Name="Зирган"/>
+		<City Id="646110" Name="Иглино"/>
+		<City Id="646120" Name="Инзер"/>
+		<City Id="646130" Name="Исянгулово"/>
+		<City Id="646140" Name="Ишимбай"/>
+		<City Id="646150" Name="Кабаково"/>
+		<City Id="646160" Name="Калтасы"/>
+		<City Id="646170" Name="Кандры"/>
+		<City Id="646180" Name="Караидель"/>
+		<City Id="646190" Name="Кармаскалы"/>
+		<City Id="646200" Name="Киргиз-Мияки"/>
+		<City Id="646210" Name="Красная Горка"/>
+		<City Id="646220" Name="Красноусольский"/>
+		<City Id="646230" Name="Краснохолмский"/>
+		<City Id="646240" Name="Кумертау"/>
+		<City Id="646250" Name="Кушнаренково"/>
+		<City Id="646260" Name="Куяново"/>
+		<City Id="646270" Name="Ломовка"/>
+		<City Id="646280" Name="Малояз"/>
+		<City Id="646290" Name="Маячный"/>
+		<City Id="646300" Name="Межгорье"/>
+		<City Id="646310" Name="Мелеуз"/>
+		<City Id="646320" Name="Месягутово"/>
+		<City Id="646330" Name="Михайловка"/>
+		<City Id="646340" Name="Мишкино"/>
+		<City Id="646350" Name="Мраково"/>
+		<City Id="646360" Name="Нефтекамск"/>
+		<City Id="646370" Name="Нижнетроицкий"/>
+		<City Id="646380" Name="Николо-Березовка"/>
+		<City Id="646390" Name="Новобелокатай"/>
+		<City Id="646400" Name="Октябрьский"/>
+		<City Id="646410" Name="Павловка"/>
+		<City Id="646420" Name="Прибельский"/>
+		<City Id="646430" Name="Приютово"/>
+		<City Id="646440" Name="Раевский"/>
+		<City Id="646450" Name="Салават"/>
+		<City Id="646460" Name="Семилетка"/>
+		<City Id="646470" Name="Серафимовский"/>
+		<City Id="646480" Name="Сибай"/>
+		<City Id="646490" Name="Старобалтачево"/>
+		<City Id="646500" Name="Старосубхангулово"/>
+		<City Id="646510" Name="Стерлибашево"/>
+		<City Id="646520" Name="Стерлитамак">
+			<District Id="292" Name="Ашкадарский"/>
+			<District Id="293" Name="Железнодорожный"/>
+			<District Id="294" Name="Коммунистический"/>
+			<District Id="295" Name="Комсомольский"/>
+			<District Id="296" Name="Краснознаменский"/>
+			<District Id="297" Name="Курчатовский"/>
+			<District Id="298" Name="Ленинский"/>
+			<District Id="299" Name="Михайловский"/>
+			<District Id="300" Name="Нахимовский"/>
+			<District Id="301" Name="Первомайский"/>
+			<District Id="302" Name="Северный"/>
+			<District Id="303" Name="Советский"/>
+			<District Id="304" Name="Солнечный"/>
+			<District Id="305" Name="Уральский"/>
+			<District Id="306" Name="Шахтау"/>
+			<District Id="307" Name="Южный"/>
+		</City>
+		<City Id="646530" Name="Субханкулово"/>
+		<City Id="646540" Name="Темясово"/>
+		<City Id="646550" Name="Тирлянский"/>
+		<City Id="646560" Name="Толбазы"/>
+		<City Id="646570" Name="Туймазы"/>
+		<City Id="646580" Name="Улукулево"/>
+		<City Id="646590" Name="Улу-Теляк"/>
+		<City Id="646620" Name="Учалы"/>
+		<City Id="646630" Name="Федоровка"/>
+		<City Id="646640" Name="Чекмагуш"/>
+		<City Id="646650" Name="Чишмы"/>
+		<City Id="646660" Name="Шаран"/>
+		<City Id="646670" Name="Энергетик"/>
+		<City Id="646680" Name="Юмагузино"/>
+		<City Id="646690" Name="Языково"/>
+		<City Id="646700" Name="Янаул"/>
+	</Region>
+	<Region Id="623410" Name="Белгородская область">
+		<City Id="623430" Name="Белгород">
+			<District Id="466" Name="Восточный"/>
+			<District Id="467" Name="Западный"/>
+		</City>
+		<City Id="623420" Name="Алексеевка"/>
+		<City Id="623440" Name="Бессоновка"/>
+		<City Id="623450" Name="Бехтеевка"/>
+		<City Id="623600" Name="Бирюч"/>
+		<City Id="623460" Name="Борисовка"/>
+		<City Id="623470" Name="Валуйки"/>
+		<City Id="623480" Name="Вейделевка"/>
+		<City Id="623490" Name="Волоконовка"/>
+		<City Id="623500" Name="Головчино"/>
+		<City Id="623510" Name="Городище"/>
+		<City Id="623520" Name="Грайворон"/>
+		<City Id="623530" Name="Губкин"/>
+		<City Id="623540" Name="Дубовое"/>
+		<City Id="623550" Name="Засосна"/>
+		<City Id="623560" Name="Ивня"/>
+		<City Id="623570" Name="Иловка"/>
+		<City Id="623580" Name="Короча"/>
+		<City Id="623590" Name="Красная Яруга"/>
+		<City Id="623610" Name="Ливенка"/>
+		<City Id="623620" Name="Майский"/>
+		<City Id="623630" Name="Маслова Пристань"/>
+		<City Id="623640" Name="Новая Таволжанка"/>
+		<City Id="623650" Name="Новый Оскол"/>
+		<City Id="623660" Name="Октябрьский"/>
+		<City Id="623670" Name="Пролетарский"/>
+		<City Id="623680" Name="Прохоровка"/>
+		<City Id="623690" Name="Пятницкое"/>
+		<City Id="623700" Name="Разумное"/>
+		<City Id="623710" Name="Ракитное"/>
+		<City Id="623720" Name="Ровеньки"/>
+		<City Id="623730" Name="Роговатое"/>
+		<City Id="623740" Name="Северный"/>
+		<City Id="623750" Name="Скородное"/>
+		<City Id="623760" Name="Старый Оскол"/>
+		<City Id="623770" Name="Стрелецкое"/>
+		<City Id="623780" Name="Строитель"/>
+		<City Id="623790" Name="Томаровка"/>
+		<City Id="623800" Name="Троицкий"/>
+		<City Id="623810" Name="Уразово"/>
+		<City Id="623820" Name="Чернянка"/>
+		<City Id="623830" Name="Шебекино"/>
+	</Region>
+	<Region Id="623840" Name="Брянская область">
+		<City Id="623880" Name="Брянск">
+			<District Id="201" Name="Бежицкий"/>
+			<District Id="202" Name="Володарский"/>
+			<District Id="203" Name="Советский"/>
+			<District Id="204" Name="Фокинский"/>
+		</City>
+		<City Id="623850" Name="Белая Березка"/>
+		<City Id="623860" Name="Белые Берега"/>
+		<City Id="623870" Name="Большое Полпино"/>
+		<City Id="623890" Name="Бытошь"/>
+		<City Id="623900" Name="Выгоничи"/>
+		<City Id="623910" Name="Глинищево"/>
+		<City Id="623920" Name="Гордеевка"/>
+		<City Id="623930" Name="Добрунь"/>
+		<City Id="623940" Name="Дубровка"/>
+		<City Id="623950" Name="Дятьково"/>
+		<City Id="623960" Name="Жуковка"/>
+		<City Id="623970" Name="Займище"/>
+		<City Id="623980" Name="Злынка"/>
+		<City Id="623990" Name="Ивот"/>
+		<City Id="624000" Name="Карачев"/>
+		<City Id="624010" Name="Клетня"/>
+		<City Id="624020" Name="Климово"/>
+		<City Id="624030" Name="Клинцы"/>
+		<City Id="624040" Name="Кокино"/>
+		<City Id="624050" Name="Комаричи"/>
+		<City Id="624060" Name="Красная Гора"/>
+		<City Id="624070" Name="Локоть"/>
+		<City Id="624080" Name="Любохна"/>
+		<City Id="624090" Name="Мглин"/>
+		<City Id="624100" Name="Навля"/>
+		<City Id="624110" Name="Новозыбков"/>
+		<City Id="624120" Name="Погар"/>
+		<City Id="624130" Name="Почеп"/>
+		<City Id="624140" Name="Путевка"/>
+		<City Id="624150" Name="Радица-Крыловка"/>
+		<City Id="624160" Name="Ржаница"/>
+		<City Id="624170" Name="Рогнедино"/>
+		<City Id="624180" Name="Свень"/>
+		<City Id="624190" Name="Севск"/>
+		<City Id="624200" Name="Сельцо"/>
+		<City Id="624210" Name="Сеща"/>
+		<City Id="624220" Name="Стародуб"/>
+		<City Id="624230" Name="Старь"/>
+		<City Id="624240" Name="Суземка"/>
+		<City Id="624250" Name="Супонево"/>
+		<City Id="624260" Name="Сураж"/>
+		<City Id="624270" Name="Трубчевск"/>
+		<City Id="624280" Name="Унеча"/>
+		<City Id="624290" Name="Фокино"/>
+	</Region>
+	<Region Id="623845" Name="Бурятия">
+		<City Id="653271" Name="Улан-Удэ">
+			<District Id="217" Name="Железнодорожный"/>
+			<District Id="218" Name="Октябрьский"/>
+			<District Id="219" Name="Советский"/>
+		</City>
+		<City Id="653273" Name="Баргузин"/>
+		<City Id="653274" Name="Бичура"/>
+		<City Id="653275" Name="Выдрино"/>
+		<City Id="653276" Name="Гусиноозерск"/>
+		<City Id="653277" Name="Заиграево"/>
+		<City Id="653278" Name="Закаменск"/>
+		<City Id="653280" Name="Иволгинск"/>
+		<City Id="653281" Name="Кабанск"/>
+		<City Id="653282" Name="Каменск"/>
+		<City Id="653283" Name="Кижинга"/>
+		<City Id="653284" Name="Курумкан"/>
+		<City Id="653285" Name="Кырен"/>
+		<City Id="653286" Name="Кяхта"/>
+		<City Id="653287" Name="Мухоршибирь"/>
+		<City Id="653288" Name="Нижнеангарск"/>
+		<City Id="653289" Name="Новоильинск"/>
+		<City Id="653290" Name="Онохой"/>
+		<City Id="653291" Name="Петропавловка"/>
+		<City Id="653272" Name="Северобайкальск"/>
+		<City Id="653292" Name="Селенгинск"/>
+		<City Id="653294" Name="Сосново-Озерское"/>
+		<City Id="653295" Name="Таксимо"/>
+		<City Id="653296" Name="Турунтаево"/>
+		<City Id="653297" Name="Усть-Баргузин"/>
+		<City Id="653298" Name="Хоринск"/>
+	</Region>
+	<Region Id="624300" Name="Владимирская область">
+		<City Id="624360" Name="Владимир">
+			<District Id="229" Name="Ленинский"/>
+			<District Id="230" Name="Октябрьский"/>
+			<District Id="231" Name="Фрунзенский"/>
+		</City>
+		<City Id="624310" Name="Александров"/>
+		<City Id="624320" Name="Андреево"/>
+		<City Id="624330" Name="Бавлены"/>
+		<City Id="624340" Name="Балакирево"/>
+		<City Id="624350" Name="Боголюбово"/>
+		<City Id="624370" Name="Вольгинский"/>
+		<City Id="624380" Name="Вязники"/>
+		<City Id="624390" Name="Головино"/>
+		<City Id="624400" Name="Городищи"/>
+		<City Id="624410" Name="Гороховец"/>
+		<City Id="624420" Name="Гусевский"/>
+		<City Id="624430" Name="Гусь-Хрустальный"/>
+		<City Id="624440" Name="Золотково"/>
+		<City Id="624450" Name="Камешково"/>
+		<City Id="624460" Name="Карабаново"/>
+		<City Id="624470" Name="Киржач"/>
+		<City Id="624480" Name="Ковров"/>
+		<City Id="624490" Name="Кольчугино"/>
+		<City Id="624510" Name="Костерево"/>
+		<City Id="624520" Name="Красная Горбатка"/>
+		<City Id="624540" Name="Курлово"/>
+		<City Id="624550" Name="Лакинск"/>
+		<City Id="624570" Name="Меленки"/>
+		<City Id="624580" Name="Мелехово"/>
+		<City Id="624590" Name="Мстера"/>
+		<City Id="624600" Name="Муром"/>
+		<City Id="624610" Name="Муромцево"/>
+		<City Id="624620" Name="Никологоры"/>
+		<City Id="624650" Name="Петушки"/>
+		<City Id="624660" Name="Покров"/>
+		<City Id="624670" Name="Радужный"/>
+		<City Id="624680" Name="Собинка"/>
+		<City Id="624690" Name="Ставрово"/>
+		<City Id="624700" Name="Струнино"/>
+		<City Id="624710" Name="Судогда"/>
+		<City Id="624720" Name="Суздаль"/>
+		<City Id="624730" Name="Уршельский"/>
+		<City Id="624760" Name="Юрьев-Польский"/>
+	</Region>
+	<Region Id="624770" Name="Волгоградская область">
+		<City Id="624840" Name="Волгоград">
+			<District Id="2" Name="Ворошиловский"/>
+			<District Id="3" Name="Дзержинский"/>
+			<District Id="4" Name="Кировский"/>
+			<District Id="5" Name="Красноармейский"/>
+			<District Id="6" Name="Краснооктябрьский"/>
+			<District Id="7" Name="Советский"/>
+			<District Id="8" Name="Тракторозаводский"/>
+			<District Id="9" Name="Центральный"/>
+		</City>
+		<City Id="624780" Name="Алексеевская"/>
+		<City Id="624790" Name="Антиповка"/>
+		<City Id="624800" Name="Береславка"/>
+		<City Id="624810" Name="Большие Чапурники"/>
+		<City Id="624820" Name="Быково"/>
+		<City Id="624850" Name="Волжский">
+			<District Id="473" Name="Новый Город"/>
+			<District Id="474" Name="Старый Город"/>
+		</City>
+		<City Id="624860" Name="Городище"/>
+		<City Id="624890" Name="Даниловка"/>
+		<City Id="624900" Name="Дубовка"/>
+		<City Id="624910" Name="Елань"/>
+		<City Id="624920" Name="Ерзовка"/>
+		<City Id="624930" Name="Жирновск"/>
+		<City Id="624940" Name="Заплавное"/>
+		<City Id="624950" Name="Иловля"/>
+		<City Id="624960" Name="Калач-на-Дону"/>
+		<City Id="624970" Name="Камышин"/>
+		<City Id="624980" Name="Клетская"/>
+		<City Id="624990" Name="Котельниково"/>
+		<City Id="625000" Name="Котово"/>
+		<City Id="625010" Name="Краснооктябрьский"/>
+		<City Id="625020" Name="Краснослободск"/>
+		<City Id="625030" Name="Красный Яр"/>
+		<City Id="625040" Name="Кумылженская"/>
+		<City Id="625050" Name="Ленинск"/>
+		<City Id="625060" Name="Линево"/>
+		<City Id="625070" Name="Лог"/>
+		<City Id="625080" Name="Михайловка"/>
+		<City Id="625090" Name="Нехаевская"/>
+		<City Id="625100" Name="Нижний Чир"/>
+		<City Id="625110" Name="Николаевск"/>
+		<City Id="625120" Name="Новоаннинский"/>
+		<City Id="625130" Name="Новониколаевский"/>
+		<City Id="625140" Name="Новый Рогачик"/>
+		<City Id="625160" Name="Октябрьский"/>
+		<City Id="625170" Name="Ольховка"/>
+		<City Id="625180" Name="Палласовка"/>
+		<City Id="625190" Name="Петров Вал"/>
+		<City Id="625200" Name="Преображенская"/>
+		<City Id="625210" Name="Приморск"/>
+		<City Id="625220" Name="Рудня"/>
+		<City Id="625230" Name="Савинка"/>
+		<City Id="625240" Name="Светлый Яр"/>
+		<City Id="625250" Name="Себрово"/>
+		<City Id="625260" Name="Серафимович"/>
+		<City Id="625270" Name="Средняя Ахтуба"/>
+		<City Id="625280" Name="Старая Полтавка"/>
+		<City Id="625290" Name="Суровикино"/>
+		<City Id="625300" Name="Урюпинск"/>
+		<City Id="625310" Name="Фролово"/>
+		<City Id="625320" Name="Чернышковский"/>
+	</Region>
+	<Region Id="625330" Name="Вологодская область">
+		<City Id="625390" Name="Вологда">
+			<District Id="485" Name="5 микрорайон"/>
+			<District Id="484" Name="6 микрорайон"/>
+			<District Id="483" Name="Бывалово"/>
+			<District Id="482" Name="Водники"/>
+			<District Id="481" Name="Завокзальный"/>
+			<District Id="480" Name="Заречье"/>
+			<District Id="479" Name="Лукьяново"/>
+			<District Id="478" Name="Льнокомбинат"/>
+			<District Id="476" Name="Подшипниковый завод"/>
+			<District Id="477" Name="Тепличный"/>
+			<District Id="475" Name="Центр"/>
+		</City>
+		<City Id="625340" Name="Бабаево"/>
+		<City Id="625430" Name="Бабушкино"/>
+		<City Id="625350" Name="Белозерск"/>
+		<City Id="625360" Name="Великий Устюг"/>
+		<City Id="625370" Name="Верховажье"/>
+		<City Id="625380" Name="Вожега"/>
+		<City Id="625400" Name="Вохтога"/>
+		<City Id="625410" Name="Вытегра"/>
+		<City Id="625420" Name="Грязовец"/>
+		<City Id="625440" Name="Кадников"/>
+		<City Id="625450" Name="Кадуй"/>
+		<City Id="625460" Name="Кириллов"/>
+		<City Id="625470" Name="Кичменгский Городок"/>
+		<City Id="625480" Name="Красавино"/>
+		<City Id="625490" Name="Липин Бор"/>
+		<City Id="625500" Name="Молочное"/>
+		<City Id="625510" Name="Никольск"/>
+		<City Id="625520" Name="Нюксеница"/>
+		<City Id="625530" Name="Сазоново"/>
+		<City Id="625540" Name="Сокол"/>
+		<City Id="625550" Name="Суда"/>
+		<City Id="625560" Name="Сямжа"/>
+		<City Id="625570" Name="Тарногский Городок"/>
+		<City Id="625580" Name="Тоншалово"/>
+		<City Id="625590" Name="Тотьма"/>
+		<City Id="625600" Name="Устье"/>
+		<City Id="625610" Name="Устюжна"/>
+		<City Id="625620" Name="Федотово"/>
+		<City Id="625630" Name="Харовск"/>
+		<City Id="625640" Name="Чагода"/>
+		<City Id="625650" Name="Череповец">
+			<District Id="277" Name="Зашекснинский"/>
+			<District Id="278" Name="Заягорбский"/>
+			<District Id="279" Name="Индустриальный"/>
+			<District Id="280" Name="Северный"/>
+		</City>
+		<City Id="625660" Name="Шексна"/>
+	</Region>
+	<Region Id="625670" Name="Воронежская область">
+		<City Id="625810" Name="Воронеж">
+			<District Id="149" Name="Железнодорожный"/>
+			<District Id="150" Name="Коминтерновский"/>
+			<District Id="151" Name="Левобережный"/>
+			<District Id="152" Name="Ленинский"/>
+			<District Id="153" Name="Советский"/>
+			<District Id="154" Name="Центральный"/>
+		</City>
+		<City Id="625700" Name="Абрамовка"/>
+		<City Id="625710" Name="Анна"/>
+		<City Id="625720" Name="Бобров"/>
+		<City Id="625730" Name="Богучар"/>
+		<City Id="625740" Name="Борисоглебск"/>
+		<City Id="625750" Name="Бутурлиновка"/>
+		<City Id="625760" Name="Верхний Мамон"/>
+		<City Id="625770" Name="Верхняя Тишанка"/>
+		<City Id="625780" Name="Верхняя Хава"/>
+		<City Id="625790" Name="Воля"/>
+		<City Id="625800" Name="Воробьевка"/>
+		<City Id="625820" Name="Воронцовка"/>
+		<City Id="625830" Name="Гремячье"/>
+		<City Id="625840" Name="Грибановский"/>
+		<City Id="625850" Name="Давыдовка"/>
+		<City Id="625860" Name="Девица"/>
+		<City Id="625870" Name="Дракино"/>
+		<City Id="625880" Name="Елань-Колено"/>
+		<City Id="625920" Name="Землянск"/>
+		<City Id="625930" Name="Калач"/>
+		<City Id="625940" Name="Каменка"/>
+		<City Id="625950" Name="Кантемировка"/>
+		<City Id="625960" Name="Каширское"/>
+		<City Id="625970" Name="Козловка"/>
+		<City Id="625980" Name="Колодезный"/>
+		<City Id="626000" Name="Латная"/>
+		<City Id="626010" Name="Лиски"/>
+		<City Id="626020" Name="Лосево"/>
+		<City Id="626040" Name="Митрофановка"/>
+		<City Id="626050" Name="Нижний Кисляй"/>
+		<City Id="626060" Name="Нижний Мамон"/>
+		<City Id="626070" Name="Никольское"/>
+		<City Id="626080" Name="Новая Усмань"/>
+		<City Id="626090" Name="Новая Чигла"/>
+		<City Id="626100" Name="Нововоронеж"/>
+		<City Id="626110" Name="Новохоперск"/>
+		<City Id="626120" Name="Новохоперский"/>
+		<City Id="626130" Name="Ольховатка"/>
+		<City Id="626140" Name="Орлово"/>
+		<City Id="626150" Name="Острогожск"/>
+		<City Id="626160" Name="Отрадное"/>
+		<City Id="626170" Name="Павловск"/>
+		<City Id="626180" Name="Панино"/>
+		<City Id="626190" Name="Перелешино"/>
+		<City Id="626200" Name="Перелешинский"/>
+		<City Id="626210" Name="Пески"/>
+		<City Id="626220" Name="Петропавловка"/>
+		<City Id="626230" Name="Поворино"/>
+		<City Id="626240" Name="Подгоренский"/>
+		<City Id="626260" Name="Подгорное"/>
+		<City Id="626270" Name="Подклетное"/>
+		<City Id="626280" Name="Пригородный"/>
+		<City Id="626290" Name="Придонский"/>
+		<City Id="626300" Name="Рамонь"/>
+		<City Id="626310" Name="Репьевка"/>
+		<City Id="626320" Name="Россошь"/>
+		<City Id="626330" Name="Садовое"/>
+		<City Id="626340" Name="Семилуки"/>
+		<City Id="626350" Name="Слобода"/>
+		<City Id="626360" Name="Сомово"/>
+		<City Id="626370" Name="Средний Икорец"/>
+		<City Id="626380" Name="Стрелица"/>
+		<City Id="626390" Name="Таловая"/>
+		<City Id="626400" Name="Терновка"/>
+		<City Id="626410" Name="Углянец"/>
+		<City Id="626420" Name="Хохол"/>
+		<City Id="626430" Name="Хохольский"/>
+		<City Id="626440" Name="Хреновое"/>
+		<City Id="626460" Name="Эртиль"/>
+	</Region>
+	<Region Id="646710" Name="Дагестан">
+		<City Id="647420" Name="Махачкала">
+			<District Id="383" Name="Кировский"/>
+			<District Id="384" Name="Ленинский"/>
+			<District Id="385" Name="Советский"/>
+		</City>
+		<City Id="646740" Name="Аксай"/>
+		<City Id="646750" Name="Акуша"/>
+		<City Id="646760" Name="Альбурикент"/>
+		<City Id="646770" Name="Анди"/>
+		<City Id="646780" Name="Ансалта"/>
+		<City Id="646790" Name="Ахты"/>
+		<City Id="646800" Name="Бабаюрт"/>
+		<City Id="646870" Name="Белиджи"/>
+		<City Id="646880" Name="Ботлих"/>
+		<City Id="646890" Name="Буйнакск"/>
+		<City Id="646920" Name="Верхнее Казанище"/>
+		<City Id="646950" Name="Геджух"/>
+		<City Id="646970" Name="Гергебиль"/>
+		<City Id="647000" Name="Губден"/>
+		<City Id="647020" Name="Дагестанские Огни"/>
+		<City Id="647030" Name="Дербент"/>
+		<City Id="647050" Name="Дубки"/>
+		<City Id="647070" Name="Дылым"/>
+		<City Id="647080" Name="Зубутли-Миатли"/>
+		<City Id="647090" Name="Избербаш"/>
+		<City Id="647100" Name="Кака-Шура"/>
+		<City Id="647120" Name="Карабудахкент"/>
+		<City Id="647150" Name="Каспийск"/>
+		<City Id="647160" Name="Касумкент"/>
+		<City Id="647180" Name="Каякент"/>
+		<City Id="647190" Name="Кизилюрт"/>
+		<City Id="647200" Name="Кизляр"/>
+		<City Id="647230" Name="Комсомольское"/>
+		<City Id="647240" Name="Коркмаскала"/>
+		<City Id="647260" Name="Кочубей"/>
+		<City Id="647310" Name="Куруш"/>
+		<City Id="647320" Name="Кяхулай"/>
+		<City Id="647330" Name="Леваши"/>
+		<City Id="647350" Name="Ленинкент"/>
+		<City Id="647370" Name="Магарамкент"/>
+		<City Id="647380" Name="Маджалис"/>
+		<City Id="647390" Name="Мамедкала"/>
+		<City Id="647400" Name="Манаскент"/>
+		<City Id="647480" Name="Нечаевка"/>
+		<City Id="647490" Name="Нижнее Казанище"/>
+		<City Id="647500" Name="Нижний Дженгутай"/>
+		<City Id="647510" Name="Новая Мака"/>
+		<City Id="647530" Name="Новокаякент"/>
+		<City Id="647540" Name="Новолакское"/>
+		<City Id="647560" Name="Новый Кяхулай"/>
+		<City Id="647570" Name="Новый Сулак"/>
+		<City Id="647580" Name="Новый Хушет"/>
+		<City Id="647590" Name="Новый Чиркей"/>
+		<City Id="647620" Name="Первомайское"/>
+		<City Id="647670" Name="Семендер"/>
+		<City Id="647680" Name="Сергокала"/>
+		<City Id="647740" Name="Сулак"/>
+		<City Id="647760" Name="Тарки"/>
+		<City Id="647770" Name="Тарумовка"/>
+		<City Id="647790" Name="Терекли-Мектеб"/>
+		<City Id="647800" Name="Тюбе"/>
+		<City Id="647860" Name="Усиша"/>
+		<City Id="647940" Name="Хасавюрт"/>
+		<City Id="647990" Name="Чонтаул"/>
+		<City Id="648000" Name="Шамилькала"/>
+		<City Id="648010" Name="Шамхал"/>
+		<City Id="648060" Name="Южно-Сухокумск"/>
+	</Region>
+	<Region Id="626470" Name="Еврейская АО">
+		<City Id="626740" Name="Биробиджан"/>
+		<City Id="626590" Name="Амурзет"/>
+		<City Id="626490" Name="Бабстово"/>
+		<City Id="626500" Name="Бира"/>
+		<City Id="626510" Name="Биракан"/>
+		<City Id="626520" Name="Ленинское"/>
+		<City Id="626530" Name="Николаевка"/>
+		<City Id="626540" Name="Облучье"/>
+		<City Id="626550" Name="Приамурский"/>
+		<City Id="626570" Name="Смидович"/>
+		<City Id="626580" Name="Теплоозёрск"/>
+	</Region>
+	<Region Id="661460" Name="Забайкальский край">
+		<City Id="661950" Name="Чита">
+			<District Id="408" Name="Железнодорожный"/>
+			<District Id="409" Name="Ингодинский"/>
+			<District Id="410" Name="Центральный"/>
+			<District Id="411" Name="Черновский"/>
+		</City>
+		<City Id="661470" Name="Агинское"/>
+		<City Id="661480" Name="Аксеново-Зиловское"/>
+		<City Id="661490" Name="Акша"/>
+		<City Id="661500" Name="Атамановка"/>
+		<City Id="661510" Name="Бада"/>
+		<City Id="661520" Name="Балей"/>
+		<City Id="661530" Name="Баляга"/>
+		<City Id="661540" Name="Борзя"/>
+		<City Id="661550" Name="Букачача"/>
+		<City Id="661560" Name="Вершино-Дарасунский"/>
+		<City Id="661570" Name="Горный"/>
+		<City Id="661580" Name="Дарасун"/>
+		<City Id="661590" Name="Домна"/>
+		<City Id="661600" Name="Дровяная"/>
+		<City Id="661485" Name="Дульдурга"/>
+		<City Id="661620" Name="Жирекен"/>
+		<City Id="661630" Name="Забайкальск"/>
+		<City Id="661640" Name="Калга"/>
+		<City Id="661650" Name="Карымское"/>
+		<City Id="661660" Name="Кокуй"/>
+		<City Id="661670" Name="Краснокаменск"/>
+		<City Id="661680" Name="Красный Чикой"/>
+		<City Id="661690" Name="Ксеньевка"/>
+		<City Id="661700" Name="Курорт-Дарасун"/>
+		<City Id="661710" Name="Кыра"/>
+		<City Id="661720" Name="Маккавеево"/>
+		<City Id="661730" Name="Могзон"/>
+		<City Id="661495" Name="Могойтуй"/>
+		<City Id="661750" Name="Могоча"/>
+		<City Id="661760" Name="Нерчинск"/>
+		<City Id="661770" Name="Нерчинский Завод"/>
+		<City Id="661780" Name="Нижний Цасучей"/>
+		<City Id="661790" Name="Новая Чара"/>
+		<City Id="661800" Name="Новокручининский"/>
+		<City Id="661810" Name="Новопавловка"/>
+		<City Id="661820" Name="Оловянная"/>
+		<City Id="661830" Name="Первомайский"/>
+		<City Id="661840" Name="Петровск-Забайкальский"/>
+		<City Id="661850" Name="Приаргунск"/>
+		<City Id="661890" Name="Смоленка"/>
+		<City Id="661900" Name="Сретенск"/>
+		<City Id="661910" Name="Улеты"/>
+		<City Id="661920" Name="Урульга"/>
+		<City Id="661930" Name="Хилок"/>
+		<City Id="661940" Name="Чернышевск"/>
+		<City Id="661960" Name="Шелопугино"/>
+		<City Id="661970" Name="Шерловая Гора"/>
+		<City Id="661980" Name="Шилка"/>
+		<City Id="661990" Name="Ясногорск"/>
+	</Region>
+	<Region Id="628450" Name="Ивановская область">
+		<City Id="628500" Name="Иваново">
+			<District Id="232" Name="Ленинский"/>
+			<District Id="233" Name="Октябрьский"/>
+			<District Id="234" Name="Советский"/>
+			<District Id="235" Name="Фрунзенский"/>
+		</City>
+		<City Id="628460" Name="Богородское"/>
+		<City Id="628470" Name="Вичуга"/>
+		<City Id="628480" Name="Гаврилов Посад"/>
+		<City Id="628490" Name="Заволжск"/>
+		<City Id="628510" Name="Ильинско-Хованское"/>
+		<City Id="628520" Name="Каменка"/>
+		<City Id="628530" Name="Кинешма"/>
+		<City Id="628540" Name="Китово"/>
+		<City Id="628550" Name="Колобово"/>
+		<City Id="628560" Name="Комсомольск"/>
+		<City Id="628570" Name="Кохма"/>
+		<City Id="628580" Name="Лежнево"/>
+		<City Id="628590" Name="Лух"/>
+		<City Id="628600" Name="Наволоки"/>
+		<City Id="628610" Name="Новописцово"/>
+		<City Id="628620" Name="Ново-Талицы"/>
+		<City Id="628630" Name="Новые Горки"/>
+		<City Id="628640" Name="Палех"/>
+		<City Id="628650" Name="Пестяки"/>
+		<City Id="628660" Name="Плес"/>
+		<City Id="628670" Name="Приволжск"/>
+		<City Id="628680" Name="Пучеж"/>
+		<City Id="628690" Name="Родники"/>
+		<City Id="628700" Name="Савино"/>
+		<City Id="628710" Name="Старая Вичуга"/>
+		<City Id="628720" Name="Талицы"/>
+		<City Id="628730" Name="Тейково"/>
+		<City Id="628740" Name="Фурманов"/>
+		<City Id="628750" Name="Шуя"/>
+		<City Id="628760" Name="Южа"/>
+		<City Id="628770" Name="Юрьевец"/>
+	</Region>
+	<Region Id="628455" Name="Ингушетия">
+		<City Id="653323" Name="Магас"/>
+		<City Id="653312" Name="Долаково"/>
+		<City Id="653313" Name="Кантышево"/>
+		<City Id="653314" Name="Карабулак"/>
+		<City Id="653315" Name="Малгобек"/>
+		<City Id="653311" Name="Назрань"/>
+		<City Id="653316" Name="Нестеровская"/>
+		<City Id="653317" Name="Орджоникидзевская"/>
+		<City Id="653318" Name="Сагопши"/>
+		<City Id="653319" Name="Сурхахи"/>
+		<City Id="653320" Name="Троицкая"/>
+		<City Id="653321" Name="Экажево"/>
+		<City Id="653322" Name="Яндаре"/>
+	</Region>
+	<Region Id="628780" Name="Иркутская область">
+		<City Id="628970" Name="Иркутск">
+			<District Id="390" Name="Ленинский"/>
+			<District Id="391" Name="Октябрьский"/>
+			<District Id="392" Name="Правобережный"/>
+			<District Id="393" Name="Свердловский"/>
+		</City>
+		<City Id="628790" Name="Алексеевск"/>
+		<City Id="628800" Name="Алзамай"/>
+		<City Id="628810" Name="Ангарск">
+			<District Id="445" Name="Байкальск"/>
+			<District Id="446" Name="Зелёный остров"/>
+			<District Id="447" Name="Квартал"/>
+			<District Id="448" Name="Кирова"/>
+			<District Id="449" Name="Китой"/>
+			<District Id="450" Name="Микрорайоны"/>
+			<District Id="451" Name="Новый-4"/>
+			<District Id="452" Name="Северный"/>
+			<District Id="453" Name="Старица"/>
+			<District Id="454" Name="Строитель"/>
+			<District Id="455" Name="Суховская"/>
+			<District Id="456" Name="Цемпоселок"/>
+			<District Id="457" Name="Центр"/>
+			<District Id="458" Name="Шеститысячник"/>
+		</City>
+		<City Id="628820" Name="Байкальск"/>
+		<City Id="628830" Name="Балаганск"/>
+		<City Id="628840" Name="Белореченский"/>
+		<City Id="628850" Name="Бирюсинск"/>
+		<City Id="628860" Name="Бодайбо"/>
+		<City Id="628870" Name="Большой Луг"/>
+		<City Id="628880" Name="Бохан"/>
+		<City Id="628890" Name="Братск"/>
+		<City Id="628900" Name="Вихоревка"/>
+		<City Id="628910" Name="Еланцы"/>
+		<City Id="628920" Name="Железногорск-Илимский"/>
+		<City Id="628930" Name="Железнодорожный"/>
+		<City Id="628940" Name="Жигалово"/>
+		<City Id="628950" Name="Залари"/>
+		<City Id="628960" Name="Зима"/>
+		<City Id="628980" Name="Качуг"/>
+		<City Id="628990" Name="Квиток"/>
+		<City Id="629000" Name="Киренск"/>
+		<City Id="629020" Name="Куйтун"/>
+		<City Id="629030" Name="Култук"/>
+		<City Id="629040" Name="Кутулик"/>
+		<City Id="629050" Name="Лесогорск"/>
+		<City Id="629060" Name="Магистральный"/>
+		<City Id="629070" Name="Мама"/>
+		<City Id="629080" Name="Маркова"/>
+		<City Id="629090" Name="Мегет"/>
+		<City Id="629100" Name="Михайловка"/>
+		<City Id="629110" Name="Мишелевка"/>
+		<City Id="629120" Name="Нижнеудинск"/>
+		<City Id="629130" Name="Новая Игирма"/>
+		<City Id="629140" Name="Новобирюсинский"/>
+		<City Id="629150" Name="Новонукутский"/>
+		<City Id="629160" Name="Оек"/>
+		<City Id="629170" Name="Октябрьский"/>
+		<City Id="629180" Name="Оса"/>
+		<City Id="629200" Name="Рудногорск"/>
+		<City Id="629210" Name="Саянск"/>
+		<City Id="629220" Name="Свирск"/>
+		<City Id="629230" Name="Слюдянка"/>
+		<City Id="629250" Name="Средний"/>
+		<City Id="629260" Name="Тайтурка"/>
+		<City Id="629270" Name="Тайшет"/>
+		<City Id="629280" Name="Тельма"/>
+		<City Id="629290" Name="Тулун"/>
+		<City Id="629300" Name="Тыреть 1-я"/>
+		<City Id="629310" Name="Улькан"/>
+		<City Id="629320" Name="Усолье-Сибирское"/>
+		<City Id="629330" Name="Усть-Илимск"/>
+		<City Id="629340" Name="Усть-Кут"/>
+		<City Id="629350" Name="Усть-Ордынский"/>
+		<City Id="629360" Name="Усть-Уда"/>
+		<City Id="629370" Name="Хомутово"/>
+		<City Id="629380" Name="Черемхово"/>
+		<City Id="629390" Name="Чунский"/>
+		<City Id="629400" Name="Шелехов"/>
+		<City Id="629420" Name="Юрты"/>
+	</Region>
+	<Region Id="629430" Name="Кабардино-Балкария">
+		<City Id="629770" Name="Нальчик">
+			<District Id="326" Name="Адиюх"/>
+			<District Id="327" Name="Александровка"/>
+			<District Id="328" Name="Аэропорт"/>
+			<District Id="329" Name="Богданка"/>
+			<District Id="330" Name="Вольный Аул"/>
+			<District Id="331" Name="Горная"/>
+			<District Id="332" Name="Долинск"/>
+			<District Id="333" Name="Дубки"/>
+			<District Id="334" Name="Затишье"/>
+			<District Id="335" Name="Искож"/>
+			<District Id="337" Name="Кенже"/>
+			<District Id="336" Name="Колонка"/>
+			<District Id="338" Name="СКЭП"/>
+			<District Id="339" Name="Стрелка"/>
+			<District Id="340" Name="Телемеханика"/>
+			<District Id="341" Name="Университет"/>
+			<District Id="342" Name="Центр"/>
+		</City>
+		<City Id="629450" Name="Алтуд"/>
+		<City Id="629460" Name="Анзорей"/>
+		<City Id="629470" Name="Аргудан"/>
+		<City Id="629490" Name="Баксан"/>
+		<City Id="629500" Name="Баксаненок"/>
+		<City Id="629560" Name="Дугулубгей"/>
+		<City Id="629570" Name="Екатериноградская"/>
+		<City Id="629590" Name="Залукокоаже"/>
+		<City Id="629600" Name="Заюково"/>
+		<City Id="629610" Name="Исламей"/>
+		<City Id="629620" Name="Каменка"/>
+		<City Id="629640" Name="Карагач"/>
+		<City Id="629660" Name="Кашхатау"/>
+		<City Id="629680" Name="Кенже"/>
+		<City Id="629690" Name="Кишпек"/>
+		<City Id="629710" Name="Куба"/>
+		<City Id="629750" Name="Майский"/>
+		<City Id="629760" Name="Малка"/>
+		<City Id="629780" Name="Нартан"/>
+		<City Id="629790" Name="Нарткала"/>
+		<City Id="629840" Name="Прохладный"/>
+		<City Id="629860" Name="Сармаково"/>
+		<City Id="629870" Name="Солдатская"/>
+		<City Id="629900" Name="Терек"/>
+		<City Id="629910" Name="Тырныауз"/>
+		<City Id="629940" Name="Хасанья"/>
+		<City Id="629950" Name="Чегем"/>
+		<City Id="629960" Name="Чегем Второй"/>
+		<City Id="629970" Name="Шалушка"/>
+		<City Id="629980" Name="Эльбрус"/>
+	</Region>
+	<Region Id="629990" Name="Калининградская область">
+		<City Id="630090" Name="Калининград">
+			<District Id="257" Name="Балтийский"/>
+			<District Id="258" Name="Ленинградский"/>
+			<District Id="259" Name="Московский"/>
+			<District Id="260" Name="Октябрьский"/>
+			<District Id="261" Name="Центральный"/>
+		</City>
+		<City Id="630000" Name="Багратионовск"/>
+		<City Id="630010" Name="Балтийск"/>
+		<City Id="630020" Name="Васильково"/>
+		<City Id="630030" Name="Гвардейск"/>
+		<City Id="630040" Name="Гурьевск"/>
+		<City Id="630050" Name="Гусев"/>
+		<City Id="630060" Name="Донское"/>
+		<City Id="630070" Name="Зеленоградск"/>
+		<City Id="630080" Name="Знаменск"/>
+		<City Id="630100" Name="Краснознаменск"/>
+		<City Id="630110" Name="Ладушкин"/>
+		<City Id="630120" Name="Мамоново"/>
+		<City Id="630130" Name="Неман"/>
+		<City Id="630140" Name="Нестеров"/>
+		<City Id="630150" Name="Озерск"/>
+		<City Id="630160" Name="Пионерский"/>
+		<City Id="630170" Name="Полесск"/>
+		<City Id="630180" Name="Правдинск"/>
+		<City Id="630190" Name="Приморск"/>
+		<City Id="630200" Name="Светлогорск"/>
+		<City Id="630210" Name="Светлый"/>
+		<City Id="630220" Name="Славск"/>
+		<City Id="630230" Name="Советск"/>
+		<City Id="630240" Name="Черняховск"/>
+		<City Id="630250" Name="Южный"/>
+		<City Id="630260" Name="Янтарный"/>
+	</Region>
+	<Region Id="629995" Name="Калмыкия">
+		<City Id="653341" Name="Элиста"/>
+		<City Id="653342" Name="Большой Царын"/>
+		<City Id="653343" Name="Городовиковск"/>
+		<City Id="653344" Name="Лагань"/>
+		<City Id="653345" Name="Малые Дербеты"/>
+		<City Id="653346" Name="Приютное"/>
+		<City Id="653347" Name="Садовое"/>
+		<City Id="653348" Name="Троицкое"/>
+		<City Id="653349" Name="Цаган-Аман"/>
+		<City Id="653350" Name="Яшкуль"/>
+	</Region>
+	<Region Id="630270" Name="Калужская область">
+		<City Id="630410" Name="Калуга">
+			<District Id="270" Name="Ленинский"/>
+			<District Id="271" Name="Московский"/>
+			<District Id="272" Name="Октябрьский"/>
+		</City>
+		<City Id="630280" Name="Бабынино"/>
+		<City Id="630290" Name="Балабаново"/>
+		<City Id="630310" Name="Белоусово"/>
+		<City Id="630300" Name="Бетлица"/>
+		<City Id="630320" Name="Боровск"/>
+		<City Id="630330" Name="Воротынск"/>
+		<City Id="630340" Name="Детчино"/>
+		<City Id="630350" Name="Думиничи"/>
+		<City Id="630360" Name="Ермолино"/>
+		<City Id="630370" Name="Жиздра"/>
+		<City Id="630380" Name="Жилетово"/>
+		<City Id="630390" Name="Жуков"/>
+		<City Id="630420" Name="Киров"/>
+		<City Id="630430" Name="Козельск"/>
+		<City Id="630440" Name="Кондрово"/>
+		<City Id="630450" Name="Кременки"/>
+		<City Id="630460" Name="Кудиново"/>
+		<City Id="630480" Name="Людиново"/>
+		<City Id="630490" Name="Малоярославец"/>
+		<City Id="630500" Name="Медынь"/>
+		<City Id="630510" Name="Мещовск"/>
+		<City Id="630520" Name="Мосальск"/>
+		<City Id="630530" Name="Обнинск"/>
+		<City Id="630540" Name="Перемышль"/>
+		<City Id="630550" Name="Полотняный Завод"/>
+		<City Id="630560" Name="Пятовский"/>
+		<City Id="630570" Name="Сосенский"/>
+		<City Id="630580" Name="Спас-Деменск"/>
+		<City Id="630590" Name="Сухиничи"/>
+		<City Id="630600" Name="Таруса"/>
+		<City Id="630610" Name="Товарково"/>
+		<City Id="630620" Name="Ульяново"/>
+		<City Id="630630" Name="Ферзиково"/>
+		<City Id="630640" Name="Хвастовичи"/>
+		<City Id="630650" Name="Юхнов"/>
+	</Region>
+	<Region Id="630660" Name="Камчатский край">
+		<City Id="630730" Name="Петропавловск-Камчатский"/>
+		<City Id="630670" Name="Вилючинск"/>
+		<City Id="630680" Name="Елизово"/>
+		<City Id="630690" Name="Ключи"/>
+		<City Id="630700" Name="Мильково"/>
+		<City Id="630710" Name="Моховая"/>
+		<City Id="630720" Name="Палана"/>
+		<City Id="630693" Name="Усть-Большерецк"/>
+		<City Id="630740" Name="Усть-Камчатск"/>
+	</Region>
+	<Region Id="630750" Name="Карачаево-Черкесия">
+		<City Id="631060" Name="Черкесск"/>
+		<City Id="630760" Name="Адыге-Хабль"/>
+		<City Id="630770" Name="Али-Бердуковский"/>
+		<City Id="630800" Name="Зеленчукская"/>
+		<City Id="630810" Name="Икон-Халк"/>
+		<City Id="630820" Name="Исправная"/>
+		<City Id="630840" Name="Карачаевск"/>
+		<City Id="630850" Name="Кардоникская"/>
+		<City Id="630870" Name="Красный Курган"/>
+		<City Id="630880" Name="Кумыш"/>
+		<City Id="630890" Name="Курджиново"/>
+		<City Id="630920" Name="Медногорский"/>
+		<City Id="630940" Name="Орджоникидзевский"/>
+		<City Id="630950" Name="Первомайское"/>
+		<City Id="630960" Name="Преградная"/>
+		<City Id="630970" Name="Псыж"/>
+		<City Id="630980" Name="Сары-Тюз"/>
+		<City Id="630990" Name="Сторожевая"/>
+		<City Id="631000" Name="Теберда"/>
+		<City Id="631010" Name="Терезе"/>
+		<City Id="631020" Name="Усть-Джегута"/>
+		<City Id="631030" Name="Учкекен"/>
+		<City Id="631040" Name="Хабез"/>
+		<City Id="631050" Name="Чапаевское"/>
+		<City Id="631070" Name="Эркин-Шахар"/>
+	</Region>
+	<Region Id="648070" Name="Карелия">
+		<City Id="648220" Name="Петрозаводск">
+			<District Id="513" Name="Голиковка"/>
+			<District Id="512" Name="Древлянка"/>
+			<District Id="511" Name="Зарека"/>
+			<District Id="509" Name="Ключевая"/>
+			<District Id="510" Name="Кукковка"/>
+			<District Id="508" Name="Октябрьский"/>
+			<District Id="506" Name="Первомайский"/>
+			<District Id="507" Name="Перевалка"/>
+			<District Id="505" Name="Птицефабрика"/>
+			<District Id="504" Name="Соломенное"/>
+			<District Id="503" Name="Сулажгора"/>
+			<District Id="502" Name="Центр"/>
+		</City>
+		<City Id="648080" Name="Беломорск"/>
+		<City Id="648090" Name="Вяртсиля"/>
+		<City Id="648100" Name="Ильинский"/>
+		<City Id="648110" Name="Калевала"/>
+		<City Id="648120" Name="Кемь"/>
+		<City Id="648130" Name="Кондопога"/>
+		<City Id="648140" Name="Костомукша"/>
+		<City Id="648150" Name="Лахденпохья"/>
+		<City Id="648160" Name="Лоухи"/>
+		<City Id="648170" Name="Ляскеля"/>
+		<City Id="648180" Name="Медвежьегорск"/>
+		<City Id="648190" Name="Муезерский"/>
+		<City Id="648200" Name="Надвоицы"/>
+		<City Id="648210" Name="Олонец"/>
+		<City Id="648230" Name="Пиндуши"/>
+		<City Id="648240" Name="Питкяранта"/>
+		<City Id="648250" Name="Поросозеро"/>
+		<City Id="648260" Name="Пряжа"/>
+		<City Id="648270" Name="Пудож"/>
+		<City Id="648280" Name="Сегежа"/>
+		<City Id="648290" Name="Сортавала"/>
+		<City Id="648300" Name="Суоярви"/>
+		<City Id="648320" Name="Чупа"/>
+		<City Id="648330" Name="Шуя"/>
+	</Region>
+	<Region Id="631080" Name="Кемеровская область">
+		<City Id="631270" Name="Кемерово">
+			<District Id="374" Name="Заводский"/>
+			<District Id="375" Name="Кировский"/>
+			<District Id="376" Name="Ленинский"/>
+			<District Id="377" Name="Рудничный"/>
+			<District Id="378" Name="Центральный"/>
+		</City>
+		<City Id="631090" Name="Анжеро-Судженск"/>
+		<City Id="631100" Name="Артышта"/>
+		<City Id="631110" Name="Бачатский"/>
+		<City Id="631120" Name="Белово"/>
+		<City Id="631130" Name="Белогорск"/>
+		<City Id="631140" Name="Березовский"/>
+		<City Id="631160" Name="Верх-Чебула"/>
+		<City Id="631170" Name="Грамотеино"/>
+		<City Id="631180" Name="Гурьевск"/>
+		<City Id="631190" Name="Зеленогорский"/>
+		<City Id="631200" Name="Ижморский"/>
+		<City Id="631210" Name="Инской"/>
+		<City Id="631220" Name="Итатский"/>
+		<City Id="631230" Name="Каз"/>
+		<City Id="631240" Name="Калтан"/>
+		<City Id="631250" Name="Карагайлинский"/>
+		<City Id="631260" Name="Кедровка"/>
+		<City Id="631280" Name="Киселевск"/>
+		<City Id="631290" Name="Крапивинский"/>
+		<City Id="631300" Name="Краснобродский"/>
+		<City Id="631310" Name="Красногорский"/>
+		<City Id="631330" Name="Кузедеево"/>
+		<City Id="631340" Name="Ленинск-Кузнецкий"/>
+		<City Id="631360" Name="Малиновка"/>
+		<City Id="631370" Name="Мариинск"/>
+		<City Id="631380" Name="Междуреченск"/>
+		<City Id="631410" Name="Мундыбаш"/>
+		<City Id="631420" Name="Мыски"/>
+		<City Id="631430" Name="Новокузнецк">
+			<District Id="182" Name="Заводской"/>
+			<District Id="183" Name="Кузнецкий"/>
+			<District Id="184" Name="Куйбышевский"/>
+			<District Id="185" Name="Новоильинский"/>
+			<District Id="186" Name="Орджоникидзевский"/>
+			<District Id="187" Name="Центральный"/>
+		</City>
+		<City Id="631440" Name="Новый Городок"/>
+		<City Id="631450" Name="Осинники"/>
+		<City Id="631470" Name="Плотниково"/>
+		<City Id="631480" Name="Полысаево"/>
+		<City Id="631500" Name="Прокопьевск"/>
+		<City Id="631510" Name="Промышленная"/>
+		<City Id="631540" Name="Салаир"/>
+		<City Id="631550" Name="Старобачаты"/>
+		<City Id="631560" Name="Старопестерево"/>
+		<City Id="631580" Name="Тайга"/>
+		<City Id="631590" Name="Тайжина"/>
+		<City Id="631600" Name="Таштагол"/>
+		<City Id="631610" Name="Темиртау"/>
+		<City Id="631620" Name="Тисуль"/>
+		<City Id="631630" Name="Топки"/>
+		<City Id="631640" Name="Трудармейский"/>
+		<City Id="631650" Name="Тяжинский"/>
+		<City Id="631660" Name="Чистогорский"/>
+		<City Id="631670" Name="Шерегеш"/>
+		<City Id="631680" Name="Юрга"/>
+		<City Id="631700" Name="Ясногорский"/>
+		<City Id="631710" Name="Яшкино"/>
+		<City Id="631720" Name="Яя"/>
+	</Region>
+	<Region Id="631730" Name="Кировская область">
+		<City Id="631870" Name="Киров">
+			<District Id="262" Name="Ленинский"/>
+			<District Id="263" Name="Нововятский"/>
+			<District Id="264" Name="Октябрьский"/>
+			<District Id="265" Name="Первомайский"/>
+		</City>
+		<City Id="631740" Name="Арбаж"/>
+		<City Id="631750" Name="Афанасьево"/>
+		<City Id="631760" Name="Белая Холуница"/>
+		<City Id="631770" Name="Богородское"/>
+		<City Id="631780" Name="Вахруши"/>
+		<City Id="631790" Name="Верхошижемье"/>
+		<City Id="631800" Name="Восточный"/>
+		<City Id="631810" Name="Вятские Поляны"/>
+		<City Id="631820" Name="Даровской"/>
+		<City Id="631830" Name="Демьяново"/>
+		<City Id="631840" Name="Зуевка"/>
+		<City Id="631850" Name="Кикнур"/>
+		<City Id="631860" Name="Кильмезь"/>
+		<City Id="631880" Name="Кирово-Чепецк"/>
+		<City Id="631890" Name="Кирс"/>
+		<City Id="631910" Name="Котельнич"/>
+		<City Id="631920" Name="Красная Поляна"/>
+		<City Id="631930" Name="Кумены"/>
+		<City Id="631940" Name="Лальск"/>
+		<City Id="631950" Name="Лебяжье"/>
+		<City Id="631960" Name="Ленинское"/>
+		<City Id="631970" Name="Лесной"/>
+		<City Id="631980" Name="Луза"/>
+		<City Id="632000" Name="Малмыж"/>
+		<City Id="632010" Name="Мирный"/>
+		<City Id="632020" Name="Мураши"/>
+		<City Id="632030" Name="Мурыгино"/>
+		<City Id="632040" Name="Нагорск"/>
+		<City Id="632050" Name="Нема"/>
+		<City Id="632060" Name="Нолинск"/>
+		<City Id="632070" Name="Омутнинск"/>
+		<City Id="632080" Name="Опарино"/>
+		<City Id="632090" Name="Оричи"/>
+		<City Id="632100" Name="Орлов"/>
+		<City Id="632120" Name="Первомайский"/>
+		<City Id="632130" Name="Песковка"/>
+		<City Id="632140" Name="Пижанка"/>
+		<City Id="632150" Name="Подосиновец"/>
+		<City Id="632170" Name="Рудничный"/>
+		<City Id="632180" Name="Санчурск"/>
+		<City Id="632190" Name="Светлополянск"/>
+		<City Id="632200" Name="Свеча"/>
+		<City Id="632210" Name="Слободской"/>
+		<City Id="632220" Name="Советск"/>
+		<City Id="632230" Name="Сосновка"/>
+		<City Id="632240" Name="Стрижи"/>
+		<City Id="632260" Name="Уни"/>
+		<City Id="632270" Name="Уржум"/>
+		<City Id="632280" Name="Фаленки"/>
+		<City Id="632290" Name="Юрья"/>
+		<City Id="632300" Name="Яранск"/>
+	</Region>
+	<Region Id="648340" Name="Коми">
+		<City Id="648630" Name="Сыктывкар"/>
+		<City Id="648350" Name="Айкино"/>
+		<City Id="648360" Name="Верхняя Максаковка"/>
+		<City Id="648370" Name="Визинга"/>
+		<City Id="648380" Name="Водный"/>
+		<City Id="648390" Name="Войвож"/>
+		<City Id="648400" Name="Воргашор"/>
+		<City Id="648410" Name="Воркута"/>
+		<City Id="648420" Name="Вуктыл"/>
+		<City Id="648430" Name="Выльгорт"/>
+		<City Id="648440" Name="Емва"/>
+		<City Id="648450" Name="Жешарт"/>
+		<City Id="648460" Name="Заполярный"/>
+		<City Id="648470" Name="Зеленец"/>
+		<City Id="648480" Name="Ижма"/>
+		<City Id="648490" Name="Инта"/>
+		<City Id="648500" Name="Кожва"/>
+		<City Id="648510" Name="Койгородок"/>
+		<City Id="648530" Name="Корткерос"/>
+		<City Id="648540" Name="Краснозатонский"/>
+		<City Id="648550" Name="Летка"/>
+		<City Id="648560" Name="Микунь"/>
+		<City Id="648570" Name="Нижний Одес"/>
+		<City Id="648580" Name="Объячево"/>
+		<City Id="648590" Name="Печора"/>
+		<City Id="648600" Name="Северный"/>
+		<City Id="648610" Name="Синдор"/>
+		<City Id="648620" Name="Сосногорск"/>
+		<City Id="648640" Name="Троицко-Печорск"/>
+		<City Id="648650" Name="Усинск"/>
+		<City Id="648660" Name="Усогорск"/>
+		<City Id="648670" Name="Усть-Кулом"/>
+		<City Id="648680" Name="Усть-Цильма"/>
+		<City Id="648690" Name="Ухта"/>
+		<City Id="648700" Name="Шудаяг"/>
+		<City Id="648720" Name="Ярега"/>
+	</Region>
+	<Region Id="632390" Name="Костромская область">
+		<City Id="632490" Name="Кострома">
+			<District Id="266" Name="Заволжский"/>
+			<District Id="267" Name="Ленинский"/>
+			<District Id="268" Name="Свердловский"/>
+			<District Id="269" Name="Центральный"/>
+		</City>
+		<City Id="632400" Name="Антропово"/>
+		<City Id="632410" Name="Буй"/>
+		<City Id="632420" Name="Ветлужский"/>
+		<City Id="632430" Name="Волгореченск"/>
+		<City Id="632440" Name="Вохма"/>
+		<City Id="632450" Name="Галич"/>
+		<City Id="632460" Name="Кадый"/>
+		<City Id="632470" Name="Караваево"/>
+		<City Id="632480" Name="Кологрив"/>
+		<City Id="632500" Name="Красное-на-Волге"/>
+		<City Id="632510" Name="Макарьев"/>
+		<City Id="632520" Name="Мантурово"/>
+		<City Id="632530" Name="Нерехта"/>
+		<City Id="632540" Name="Нея"/>
+		<City Id="632550" Name="Никольское"/>
+		<City Id="632560" Name="Островское"/>
+		<City Id="632570" Name="Павино"/>
+		<City Id="632580" Name="Поназырево"/>
+		<City Id="632590" Name="Пыщуг"/>
+		<City Id="632600" Name="Солигалич"/>
+		<City Id="632610" Name="Судиславль"/>
+		<City Id="632620" Name="Сусанино"/>
+		<City Id="632630" Name="Чистые Боры"/>
+		<City Id="632640" Name="Чухлома"/>
+		<City Id="632650" Name="Шарья"/>
+	</Region>
+	<Region Id="632660" Name="Краснодарский край">
+		<City Id="633540" Name="Краснодар">
+			<District Id="359" Name="Западный"/>
+			<District Id="360" Name="Карасунский"/>
+			<District Id="361" Name="Прикубанский"/>
+			<District Id="362" Name="Центральный"/>
+		</City>
+		<City Id="632670" Name="Абинск"/>
+		<City Id="632680" Name="Абрау-Дюрсо"/>
+		<City Id="634743" Name="Агой"/>
+		<City Id="632690" Name="Агроном"/>
+		<City Id="634746" Name="Адагум"/>
+		<City Id="632700" Name="Азовская"/>
+		<City Id="634749" Name="Александровская"/>
+		<City Id="632710" Name="Алексеевская"/>
+		<City Id="632720" Name="Анапа"/>
+		<City Id="632730" Name="Анапская"/>
+		<City Id="632740" Name="Анастасиевская"/>
+		<City Id="634752" Name="Андрюки"/>
+		<City Id="632750" Name="Апшеронск"/>
+		<City Id="632760" Name="Армавир"/>
+		<City Id="632770" Name="Архангельская"/>
+		<City Id="632780" Name="Архипо-Осиповка"/>
+		<City Id="632790" Name="Атаманская"/>
+		<City Id="632800" Name="Афипский"/>
+		<City Id="632810" Name="Ахтанизовская"/>
+		<City Id="632820" Name="Ахтарский"/>
+		<City Id="632830" Name="Ахтырский"/>
+		<City Id="634755" Name="Баговская"/>
+		<City Id="632840" Name="Батуринская"/>
+		<City Id="632850" Name="Белая Глина"/>
+		<City Id="632860" Name="Белозерный"/>
+		<City Id="632870" Name="Белореченск"/>
+		<City Id="632880" Name="Березанская"/>
+		<City Id="632890" Name="Березовый"/>
+		<City Id="632900" Name="Бесскорбная"/>
+		<City Id="632910" Name="Бриньковская"/>
+		<City Id="632920" Name="Брюховецкая"/>
+		<City Id="632930" Name="Варениковская"/>
+		<City Id="632940" Name="Васюринская"/>
+		<City Id="632950" Name="Великовечное"/>
+		<City Id="632960" Name="Венцы"/>
+		<City Id="632970" Name="Верхнебаканский"/>
+		<City Id="632980" Name="Веселое"/>
+		<City Id="632990" Name="Виноградный"/>
+		<City Id="633000" Name="Витязево"/>
+		<City Id="633010" Name="Владимирская"/>
+		<City Id="633020" Name="Вознесенская"/>
+		<City Id="633030" Name="Воронежская"/>
+		<City Id="633040" Name="Выселки"/>
+		<City Id="633050" Name="Высокое"/>
+		<City Id="633060" Name="Вышестеблиевская"/>
+		<City Id="633070" Name="Гайдук"/>
+		<City Id="633080" Name="Геленджик"/>
+		<City Id="633090" Name="Гирей"/>
+		<City Id="634758" Name="Глебовка"/>
+		<City Id="633100" Name="Глубокий"/>
+		<City Id="633110" Name="Голубицкая"/>
+		<City Id="633120" Name="Горное Лоо"/>
+		<City Id="633130" Name="Горячий Ключ"/>
+		<City Id="633140" Name="Гостагаевская"/>
+		<City Id="633150" Name="Гривенская"/>
+		<City Id="634761" Name="Григорьевская"/>
+		<City Id="633160" Name="Губская"/>
+		<City Id="633170" Name="Гулькевичи"/>
+		<City Id="633180" Name="Двубратский"/>
+		<City Id="633190" Name="Джигинка"/>
+		<City Id="633200" Name="Джубга кп"/>
+		<City Id="633210" Name="Дивноморское"/>
+		<City Id="633220" Name="Динская"/>
+		<City Id="633230" Name="Дмитриевская"/>
+		<City Id="633240" Name="Днепровская"/>
+		<City Id="633250" Name="Должанская"/>
+		<City Id="633260" Name="Дядьковская"/>
+		<City Id="633270" Name="Ейск"/>
+		<City Id="634764" Name="Екатериновка"/>
+		<City Id="633280" Name="Елизаветинская"/>
+		<City Id="633290" Name="Заветный"/>
+		<City Id="633300" Name="Ивановская"/>
+		<City Id="633310" Name="Ильинская"/>
+		<City Id="633320" Name="Ильский"/>
+		<City Id="633330" Name="Индустриальный"/>
+		<City Id="633340" Name="Кабардинка"/>
+		<City Id="633350" Name="Кавказская"/>
+		<City Id="633360" Name="Казанская"/>
+		<City Id="633380" Name="Калининская"/>
+		<City Id="633390" Name="Калниболотская"/>
+		<City Id="634767" Name="Калужская"/>
+		<City Id="633400" Name="Камышеватская"/>
+		<City Id="633410" Name="Каневская"/>
+		<City Id="633420" Name="Канеловская"/>
+		<City Id="633430" Name="Киевское"/>
+		<City Id="633440" Name="Кирпильская"/>
+		<City Id="633450" Name="Кисляковская"/>
+		<City Id="633460" Name="Ковалевское"/>
+		<City Id="633470" Name="Коноково"/>
+		<City Id="633480" Name="Константиновская"/>
+		<City Id="633490" Name="Копанская"/>
+		<City Id="633500" Name="Кореновск"/>
+		<City Id="633510" Name="Коржевский"/>
+		<City Id="633530" Name="Красная Поляна"/>
+		<City Id="633550" Name="Красное"/>
+		<City Id="633560" Name="Красносельский"/>
+		<City Id="633570" Name="Кропоткин"/>
+		<City Id="633590" Name="Крыловская"/>
+		<City Id="633600" Name="Крымск"/>
+		<City Id="633610" Name="Кубанский"/>
+		<City Id="633620" Name="Курганинск"/>
+		<City Id="633630" Name="Курчанская"/>
+		<City Id="633640" Name="Кущевская"/>
+		<City Id="633650" Name="Лабинск"/>
+		<City Id="633660" Name="Ладожская"/>
+		<City Id="633670" Name="Ленина"/>
+		<City Id="633680" Name="Ленинградская"/>
+		<City Id="633690" Name="Львовское"/>
+		<City Id="633700" Name="Майкопское"/>
+		<City Id="633710" Name="Марьянская"/>
+		<City Id="633720" Name="Медведовская"/>
+		<City Id="633730" Name="Мингрельская"/>
+		<City Id="633740" Name="Мирской"/>
+		<City Id="633750" Name="Михайловская"/>
+		<City Id="633760" Name="Мостовской"/>
+		<City Id="633770" Name="Мысхако"/>
+		<City Id="633780" Name="Натухаевская"/>
+		<City Id="633790" Name="Небуг"/>
+		<City Id="633800" Name="Незамаевская"/>
+		<City Id="633810" Name="Некрасовская"/>
+		<City Id="633820" Name="Нефтегорск"/>
+		<City Id="633830" Name="Нижнебаканская"/>
+		<City Id="633840" Name="Нижнешиловское"/>
+		<City Id="633850" Name="Новоалексеевская"/>
+		<City Id="633860" Name="Новобейсугская"/>
+		<City Id="633870" Name="Нововеличковская"/>
+		<City Id="633880" Name="Новодеревянковская"/>
+		<City Id="633890" Name="Новоджерелиевская"/>
+		<City Id="633900" Name="Новодмитриевская"/>
+		<City Id="633910" Name="Новокорсунская"/>
+		<City Id="633920" Name="Новокубанск"/>
+		<City Id="633930" Name="Новолабинская"/>
+		<City Id="633940" Name="Новолеушковская"/>
+		<City Id="633950" Name="Новомалороссийская"/>
+		<City Id="633960" Name="Новоминская"/>
+		<City Id="633970" Name="Новомихайловский кп"/>
+		<City Id="633980" Name="Новомышастовская"/>
+		<City Id="633990" Name="Новониколаевская"/>
+		<City Id="634000" Name="Новоплатнировская"/>
+		<City Id="634010" Name="Новопокровская"/>
+		<City Id="634020" Name="Новорождественская"/>
+		<City Id="634030" Name="Новороссийск"/>
+		<City Id="634040" Name="Новотитаровская"/>
+		<City Id="634050" Name="Новоукраинский"/>
+		<City Id="634060" Name="Новоукраинское"/>
+		<City Id="634070" Name="Новощербиновская"/>
+		<City Id="634080" Name="Октябрьская"/>
+		<City Id="634090" Name="Ольгинская"/>
+		<City Id="634100" Name="Орел-Изумруд"/>
+		<City Id="634110" Name="Отрадная"/>
+		<City Id="634120" Name="Отрадо-Кубанское"/>
+		<City Id="634130" Name="Отрадо-Ольгинское"/>
+		<City Id="634140" Name="Павловская"/>
+		<City Id="634150" Name="Парковый"/>
+		<City Id="634170" Name="Передовая"/>
+		<City Id="634180" Name="Переправная"/>
+		<City Id="634190" Name="Переясловская"/>
+		<City Id="634200" Name="Петровская"/>
+		<City Id="634210" Name="Петропавловская"/>
+		<City Id="634220" Name="Пластуновская"/>
+		<City Id="634230" Name="Платнировская"/>
+		<City Id="634240" Name="Полтавская"/>
+		<City Id="634250" Name="Попутная"/>
+		<City Id="634260" Name="Привольная"/>
+		<City Id="634270" Name="Прикубанский"/>
+		<City Id="634280" Name="Приморско-Ахтарск"/>
+		<City Id="634290" Name="Прочноокопская"/>
+		<City Id="634300" Name="Псебай"/>
+		<City Id="634310" Name="Пшехская"/>
+		<City Id="634320" Name="Раевская"/>
+		<City Id="634330" Name="Раздольная"/>
+		<City Id="634340" Name="Роговская"/>
+		<City Id="634350" Name="Родниковская"/>
+		<City Id="634360" Name="Рязанская"/>
+		<City Id="634370" Name="Саратовская"/>
+		<City Id="634380" Name="Северская"/>
+		<City Id="634390" Name="Сенной"/>
+		<City Id="634400" Name="Славянск-на-Кубани"/>
+		<City Id="634410" Name="Смоленская"/>
+		<City Id="634420" Name="Советская"/>
+		<City Id="634430" Name="Совхозный"/>
+		<City Id="634440" Name="Соколовское"/>
+		<City Id="634450" Name="Сочи">
+			<District Id="208" Name="Адлерский"/>
+			<District Id="209" Name="Лазаревский"/>
+			<District Id="210" Name="Хостинский"/>
+			<District Id="211" Name="Центральный"/>
+		</City>
+		<City Id="634460" Name="Спокойная"/>
+		<City Id="634470" Name="Старая Станица"/>
+		<City Id="634480" Name="Старовеличковская"/>
+		<City Id="634490" Name="Стародеревянковская"/>
+		<City Id="634500" Name="Староджерелиевская"/>
+		<City Id="634510" Name="Старокорсунская"/>
+		<City Id="634520" Name="Старолеушковская"/>
+		<City Id="634530" Name="Староминская"/>
+		<City Id="634540" Name="Старомышастовская"/>
+		<City Id="634550" Name="Старонижестеблиевская"/>
+		<City Id="634560" Name="Старотитаровская"/>
+		<City Id="634570" Name="Старощербиновская"/>
+		<City Id="634580" Name="Стрелка"/>
+		<City Id="634590" Name="Супсех"/>
+		<City Id="634600" Name="Тамань"/>
+		<City Id="634610" Name="Тбилисская"/>
+		<City Id="634620" Name="Темижбекская"/>
+		<City Id="634630" Name="Темиргоевская"/>
+		<City Id="634640" Name="Темрюк"/>
+		<City Id="634650" Name="Терновская"/>
+		<City Id="634660" Name="Тимашевск"/>
+		<City Id="634670" Name="Тихорецк"/>
+		<City Id="634680" Name="Троицкая"/>
+		<City Id="634690" Name="Трудобеликовский"/>
+		<City Id="634700" Name="Туапсе"/>
+		<City Id="634710" Name="Удобная"/>
+		<City Id="634720" Name="Упорная"/>
+		<City Id="634730" Name="Успенская"/>
+		<City Id="634740" Name="Успенское"/>
+		<City Id="634750" Name="Усть-Лабинск"/>
+		<City Id="634760" Name="Фастовецкая"/>
+		<City Id="634770" Name="Хадыженск"/>
+		<City Id="634780" Name="Холмская"/>
+		<City Id="634790" Name="Цибанобалка"/>
+		<City Id="634800" Name="Чамлыкская"/>
+		<City Id="634810" Name="Челбасская"/>
+		<City Id="634820" Name="Черноерковская"/>
+		<City Id="634830" Name="Черноморский"/>
+		<City Id="634840" Name="Шедок"/>
+		<City Id="634850" Name="Шепси"/>
+		<City Id="634860" Name="Широчанка"/>
+		<City Id="634870" Name="Шкуринская"/>
+		<City Id="634880" Name="Южный"/>
+		<City Id="634900" Name="Юровка"/>
+		<City Id="634910" Name="Ярославская"/>
+		<City Id="634920" Name="Ясенская"/>
+	</Region>
+	<Region Id="634930" Name="Красноярский край">
+		<City Id="635320" Name="Красноярск">
+			<District Id="113" Name="Железнодорожный"/>
+			<District Id="114" Name="Кировский"/>
+			<District Id="115" Name="Ленинский"/>
+			<District Id="116" Name="Октябрьский"/>
+			<District Id="117" Name="Свердловский"/>
+			<District Id="118" Name="Советский"/>
+			<District Id="119" Name="Центральный"/>
+		</City>
+		<City Id="634940" Name="Абан"/>
+		<City Id="634950" Name="Агинское"/>
+		<City Id="634960" Name="Ачинск"/>
+		<City Id="634970" Name="Байкит"/>
+		<City Id="634980" Name="Балахта"/>
+		<City Id="634990" Name="Березовка"/>
+		<City Id="635000" Name="Боготол"/>
+		<City Id="635010" Name="Богучаны"/>
+		<City Id="635020" Name="Большая Ирба"/>
+		<City Id="635030" Name="Большая Мурта"/>
+		<City Id="635040" Name="Большой Улуй"/>
+		<City Id="635050" Name="Бородино"/>
+		<City Id="635060" Name="Ванавара"/>
+		<City Id="635070" Name="Дзержинское"/>
+		<City Id="635080" Name="Дивногорск"/>
+		<City Id="635100" Name="Дудинка"/>
+		<City Id="635110" Name="Емельяново"/>
+		<City Id="635120" Name="Енисейск"/>
+		<City Id="635130" Name="Ермаковское"/>
+		<City Id="635140" Name="Железногорск"/>
+		<City Id="635150" Name="Заозерный"/>
+		<City Id="635160" Name="Зеленогорск"/>
+		<City Id="635170" Name="Зыково"/>
+		<City Id="635180" Name="Игарка"/>
+		<City Id="635190" Name="Идринское"/>
+		<City Id="635200" Name="Иланский"/>
+		<City Id="635210" Name="Ирбейское"/>
+		<City Id="635220" Name="Казачинское"/>
+		<City Id="635240" Name="Канск"/>
+		<City Id="635250" Name="Каратузское"/>
+		<City Id="635260" Name="Кедровый"/>
+		<City Id="635270" Name="Кодинск"/>
+		<City Id="635280" Name="Козулька"/>
+		<City Id="635290" Name="Кошурниково"/>
+		<City Id="635300" Name="Краснокаменск"/>
+		<City Id="635310" Name="Краснотуранск"/>
+		<City Id="635330" Name="Курагино"/>
+		<City Id="635340" Name="Лесосибирск"/>
+		<City Id="635350" Name="Минусинск"/>
+		<City Id="635360" Name="Мотыгино"/>
+		<City Id="635370" Name="Назарово"/>
+		<City Id="635380" Name="Нижний Ингаш"/>
+		<City Id="635390" Name="Нижняя Пойма"/>
+		<City Id="635400" Name="Новобирилюссы"/>
+		<City Id="635410" Name="Новоселово"/>
+		<City Id="635420" Name="Новочернореченский"/>
+		<City Id="635430" Name="Норильск"/>
+		<City Id="635440" Name="Овсянка"/>
+		<City Id="635450" Name="Октябрьский"/>
+		<City Id="635460" Name="Памяти 13 Борцов"/>
+		<City Id="635470" Name="Партизанское"/>
+		<City Id="635480" Name="Пировское"/>
+		<City Id="635490" Name="Подгорный"/>
+		<City Id="635500" Name="Подтесово"/>
+		<City Id="635510" Name="Рассвет"/>
+		<City Id="635520" Name="Саянский"/>
+		<City Id="635530" Name="Северо-Енисейский"/>
+		<City Id="635550" Name="Сосновоборск"/>
+		<City Id="635570" Name="Сухобузимское"/>
+		<City Id="635580" Name="Таежный"/>
+		<City Id="635590" Name="Талнах"/>
+		<City Id="635600" Name="Тасеево"/>
+		<City Id="635610" Name="Тинской"/>
+		<City Id="635620" Name="Тура"/>
+		<City Id="635630" Name="Туруханск"/>
+		<City Id="635640" Name="Тюхтет"/>
+		<City Id="635650" Name="Ужур"/>
+		<City Id="635660" Name="Уяр"/>
+		<City Id="635670" Name="Филимоново"/>
+		<City Id="635680" Name="Хатанга"/>
+		<City Id="635690" Name="Чунояр"/>
+		<City Id="635700" Name="Шалинское"/>
+		<City Id="635710" Name="Шарыпово"/>
+		<City Id="635720" Name="Шушенское"/>
+	</Region>
+	<Region Id="621550" Name="Крым">
+		<City Id="621565" Name="Симферополь"/>
+		<City Id="621583" Name="Алупка"/>
+		<City Id="621554" Name="Алушта"/>
+		<City Id="621568" Name="Армянск"/>
+		<City Id="621555" Name="Бахчисарай"/>
+		<City Id="621569" Name="Белогорск"/>
+		<City Id="621578" Name="Гаспра"/>
+		<City Id="621573" Name="Гвардейское"/>
+		<City Id="621580" Name="Грэсовский"/>
+		<City Id="621552" Name="Джанкой"/>
+		<City Id="621581" Name="Евпатория"/>
+		<City Id="621586" Name="Жаворонки"/>
+		<City Id="621574" Name="Инкерман"/>
+		<City Id="621559" Name="Каховское"/>
+		<City Id="621560" Name="Керчь"/>
+		<City Id="621582" Name="Красногвардейское"/>
+		<City Id="621553" Name="Красноперекопск"/>
+		<City Id="621561" Name="Кубанское"/>
+		<City Id="621562" Name="Морская"/>
+		<City Id="621567" Name="Новый Свет"/>
+		<City Id="621575" Name="Октябрьское"/>
+		<City Id="621563" Name="Ореанда"/>
+		<City Id="621572" Name="Приморский"/>
+		<City Id="621557" Name="Саки"/>
+		<City Id="621585" Name="Севастополь"/>
+		<City Id="621564" Name="Северная"/>
+		<City Id="621566" Name="Симоненко"/>
+		<City Id="621584" Name="Старый Крым"/>
+		<City Id="621570" Name="Судак"/>
+		<City Id="621571" Name="Украинка"/>
+		<City Id="621556" Name="Феодосия"/>
+		<City Id="621558" Name="Ферсманово"/>
+		<City Id="621579" Name="Черноморское"/>
+		<City Id="621551" Name="Чистенькая"/>
+		<City Id="621577" Name="Щёлкино"/>
+		<City Id="621576" Name="Ялта"/>
+	</Region>
+	<Region Id="635730" Name="Курганская область">
+		<City Id="635860" Name="Курган">
+			<District Id="236" Name="Вороновка"/>
+			<District Id="237" Name="Восточный"/>
+			<District Id="238" Name="Заозерный"/>
+			<District Id="239" Name="Западный"/>
+			<District Id="240" Name="Малое Чаусово"/>
+			<District Id="241" Name="Рябково"/>
+			<District Id="242" Name="Северный"/>
+			<District Id="243" Name="Центральный"/>
+			<District Id="244" Name="Энергетики"/>
+		</City>
+		<City Id="635740" Name="Альменево"/>
+		<City Id="635750" Name="Белозерское"/>
+		<City Id="635760" Name="Варгаши"/>
+		<City Id="635770" Name="Введенское"/>
+		<City Id="635780" Name="Глядянское"/>
+		<City Id="635790" Name="Далматово"/>
+		<City Id="635800" Name="Звериноголовское"/>
+		<City Id="635810" Name="Иковка"/>
+		<City Id="635820" Name="Каргаполье"/>
+		<City Id="635830" Name="Катайск"/>
+		<City Id="635840" Name="Кетово"/>
+		<City Id="635850" Name="Красный Октябрь"/>
+		<City Id="635870" Name="Куртамыш"/>
+		<City Id="635880" Name="Лебяжье"/>
+		<City Id="635890" Name="Лесниково"/>
+		<City Id="635900" Name="Макушино"/>
+		<City Id="635910" Name="Мишкино"/>
+		<City Id="635920" Name="Мокроусово"/>
+		<City Id="635930" Name="Петухово"/>
+		<City Id="635940" Name="Половинное"/>
+		<City Id="635950" Name="Просвет"/>
+		<City Id="635960" Name="Сафакулево"/>
+		<City Id="635970" Name="Целинное"/>
+		<City Id="635980" Name="Шадринск"/>
+		<City Id="635990" Name="Шатрово"/>
+		<City Id="636000" Name="Шумиха"/>
+		<City Id="636010" Name="Щучье"/>
+		<City Id="636020" Name="Юргамыш"/>
+	</Region>
+	<Region Id="636030" Name="Курская область">
+		<City Id="636160" Name="Курск">
+			<District Id="245" Name="Железнодорожный"/>
+			<District Id="246" Name="Сеймский"/>
+			<District Id="247" Name="Центральный"/>
+		</City>
+		<City Id="636040" Name="Ворошнево"/>
+		<City Id="636050" Name="Глушково"/>
+		<City Id="636060" Name="Горшечное"/>
+		<City Id="636070" Name="Дмитриев-Льговский"/>
+		<City Id="636080" Name="Дьяконово"/>
+		<City Id="636090" Name="Железногорск"/>
+		<City Id="636100" Name="Золотухино"/>
+		<City Id="636110" Name="Карла Либкнехта"/>
+		<City Id="636120" Name="Касторное"/>
+		<City Id="636130" Name="Кировский"/>
+		<City Id="636140" Name="Конышевка"/>
+		<City Id="636150" Name="Коренево"/>
+		<City Id="636170" Name="Курчатов"/>
+		<City Id="636180" Name="Кшенский"/>
+		<City Id="636190" Name="Льгов"/>
+		<City Id="636200" Name="Маршала Жукова"/>
+		<City Id="636210" Name="Медвенка"/>
+		<City Id="636220" Name="Обоянь"/>
+		<City Id="636230" Name="Олымский"/>
+		<City Id="636240" Name="Поныри"/>
+		<City Id="636250" Name="Пристень"/>
+		<City Id="636260" Name="Прямицыно"/>
+		<City Id="636270" Name="Рыльск"/>
+		<City Id="636280" Name="Солнцево"/>
+		<City Id="636290" Name="Суджа"/>
+		<City Id="636300" Name="Теткино"/>
+		<City Id="636310" Name="Тим"/>
+		<City Id="636320" Name="Фатеж"/>
+		<City Id="636330" Name="Хомутовка"/>
+		<City Id="636340" Name="Черемисиново"/>
+		<City Id="636350" Name="Черницыно"/>
+		<City Id="636360" Name="Щигры"/>
+	</Region>
+	<Region Id="637260" Name="Липецкая область">
+		<City Id="637440" Name="Липецк">
+			<District Id="368" Name="Левобережный"/>
+			<District Id="369" Name="Октябрьский"/>
+			<District Id="367" Name="Правобережный"/>
+			<District Id="366" Name="Советский"/>
+		</City>
+		<City Id="637270" Name="Боринское"/>
+		<City Id="637280" Name="Волово"/>
+		<City Id="637290" Name="Грязи"/>
+		<City Id="637300" Name="Данков"/>
+		<City Id="637310" Name="Добринка"/>
+		<City Id="637320" Name="Доброе"/>
+		<City Id="637330" Name="Долгоруково"/>
+		<City Id="637340" Name="Донское"/>
+		<City Id="637350" Name="Елец"/>
+		<City Id="637360" Name="Задонск"/>
+		<City Id="637370" Name="Измалково"/>
+		<City Id="637380" Name="Казаки"/>
+		<City Id="637390" Name="Каликино"/>
+		<City Id="637400" Name="Красное"/>
+		<City Id="637410" Name="Кривополянье"/>
+		<City Id="637420" Name="Лебедянь"/>
+		<City Id="637430" Name="Лев Толстой"/>
+		<City Id="637450" Name="Плавица"/>
+		<City Id="637470" Name="Становое"/>
+		<City Id="637490" Name="Тербуны"/>
+		<City Id="637500" Name="Усмань"/>
+		<City Id="637510" Name="Хлевное"/>
+		<City Id="637520" Name="Чаплыгин"/>
+	</Region>
+	<Region Id="637530" Name="Магаданская область">
+		<City Id="637540" Name="Магадан"/>
+		<City Id="637550" Name="Ола"/>
+		<City Id="637560" Name="Омсукчан"/>
+		<City Id="637570" Name="Палатка"/>
+		<City Id="637580" Name="Сеймчан"/>
+		<City Id="637590" Name="Синегорье"/>
+		<City Id="637600" Name="Сокол"/>
+		<City Id="637610" Name="Сусуман"/>
+		<City Id="637620" Name="Усть-Омчуг"/>
+		<City Id="637630" Name="Ягодное"/>
+	</Region>
+	<Region Id="648730" Name="Марий Эл">
+		<City Id="648760" Name="Йошкар-Ола"/>
+		<City Id="648740" Name="Волжск"/>
+		<City Id="648750" Name="Звенигово"/>
+		<City Id="648770" Name="Килемары"/>
+		<City Id="648780" Name="Козьмодемьянск"/>
+		<City Id="648790" Name="Красногорский"/>
+		<City Id="648800" Name="Краснооктябрьский"/>
+		<City Id="648810" Name="Куженер"/>
+		<City Id="648820" Name="Мари-Турек"/>
+		<City Id="648830" Name="Медведево"/>
+		<City Id="648840" Name="Морки"/>
+		<City Id="648850" Name="Новый Торъял"/>
+		<City Id="648860" Name="Оршанка"/>
+		<City Id="648870" Name="Параньга"/>
+		<City Id="648880" Name="Приволжский"/>
+		<City Id="648890" Name="Руэм"/>
+		<City Id="648900" Name="Семеновка"/>
+		<City Id="648910" Name="Сернур"/>
+		<City Id="648920" Name="Советский"/>
+		<City Id="648930" Name="Сурок"/>
+		<City Id="648940" Name="Суслонгер"/>
+		<City Id="648950" Name="Юрино"/>
+	</Region>
+	<Region Id="648960" Name="Мордовия">
+		<City Id="649210" Name="Саранск">
+			<District Id="286" Name="Ленинский"/>
+			<District Id="287" Name="Октябрьский"/>
+			<District Id="288" Name="Пролетарский"/>
+		</City>
+		<City Id="648970" Name="Ардатов"/>
+		<City Id="648980" Name="Атемар"/>
+		<City Id="648990" Name="Атюрьево"/>
+		<City Id="649000" Name="Атяшево"/>
+		<City Id="649010" Name="Барашево"/>
+		<City Id="649020" Name="Большая Елховка"/>
+		<City Id="649030" Name="Большие Березники"/>
+		<City Id="649040" Name="Дубенки"/>
+		<City Id="649050" Name="Ельники"/>
+		<City Id="649060" Name="Зубова Поляна"/>
+		<City Id="649070" Name="Инсар"/>
+		<City Id="649080" Name="Кадошкино"/>
+		<City Id="649090" Name="Кемля"/>
+		<City Id="649100" Name="Ковылкино"/>
+		<City Id="649110" Name="Комсомольский"/>
+		<City Id="649120" Name="Кочкурово"/>
+		<City Id="649130" Name="Краснослободск"/>
+		<City Id="649150" Name="Лямбирь"/>
+		<City Id="649160" Name="Николаевка"/>
+		<City Id="649180" Name="Потьма"/>
+		<City Id="649190" Name="Ромоданово"/>
+		<City Id="649200" Name="Рузаевка"/>
+		<City Id="649220" Name="Сосновка"/>
+		<City Id="649230" Name="Старое Шайгово"/>
+		<City Id="649250" Name="Темников"/>
+		<City Id="649260" Name="Теньгушево"/>
+		<City Id="649270" Name="Торбеево"/>
+		<City Id="649280" Name="Тургенево"/>
+		<City Id="649300" Name="Чамзинка"/>
+		<City Id="649310" Name="Явас"/>
+		<City Id="649320" Name="Ялга"/>
+	</Region>
+	<Region Id="640000" Name="Мурманская область">
+		<City Id="640160" Name="Мурманск">
+			<District Id="254" Name="Ленинский"/>
+			<District Id="255" Name="Октябрьский"/>
+			<District Id="256" Name="Первомайский"/>
+		</City>
+		<City Id="640010" Name="Алакуртти"/>
+		<City Id="640020" Name="Апатиты"/>
+		<City Id="640030" Name="Видяево"/>
+		<City Id="640040" Name="Высокий"/>
+		<City Id="640050" Name="Гаджиево"/>
+		<City Id="640060" Name="Заозерск"/>
+		<City Id="640070" Name="Заполярный"/>
+		<City Id="640080" Name="Зеленоборский"/>
+		<City Id="640090" Name="Кандалакша"/>
+		<City Id="640100" Name="Кировск"/>
+		<City Id="640110" Name="Ковдор"/>
+		<City Id="640120" Name="Кола"/>
+		<City Id="640130" Name="Ловозеро"/>
+		<City Id="640140" Name="Молочный"/>
+		<City Id="640150" Name="Мончегорск"/>
+		<City Id="640170" Name="Мурмаши"/>
+		<City Id="640180" Name="Никель"/>
+		<City Id="640190" Name="Оленегорск"/>
+		<City Id="640200" Name="Островной"/>
+		<City Id="640210" Name="Печенга"/>
+		<City Id="640220" Name="Полярные Зори"/>
+		<City Id="640230" Name="Полярный"/>
+		<City Id="640240" Name="Ревда"/>
+		<City Id="640250" Name="Росляково"/>
+		<City Id="640260" Name="Сафоново"/>
+		<City Id="640270" Name="Североморск"/>
+		<City Id="640280" Name="Североморск-3"/>
+		<City Id="640290" Name="Снежногорск"/>
+		<City Id="640300" Name="Умба"/>
+	</Region>
+	<Region Id="640001" Name="Ненецкий АО">
+		<City Id="653371" Name="Нарьян-Мар"/>
+		<City Id="653372" Name="Поселок искателей"/>
+	</Region>
+	<Region Id="640310" Name="Нижегородская область">
+		<City Id="640860" Name="Нижний Новгород">
+			<DirectionRoad Id="69" Name="Казанское шоссе"/>
+			<DirectionRoad Id="70" Name="Московское шоссе"/>
+			<Subway Id="2009" Name="Автозаводская"/>
+			<Subway Id="2016" Name="Буревестник"/>
+			<Subway Id="2015" Name="Бурнаковская"/>
+			<Subway Id="2134" Name="Горьковская"/>
+			<Subway Id="2007" Name="Двигатель Революции"/>
+			<Subway Id="2006" Name="Заречная"/>
+			<Subway Id="2014" Name="Канавинская"/>
+			<Subway Id="2011" Name="Кировская"/>
+			<Subway Id="2010" Name="Комсомольская"/>
+			<Subway Id="2005" Name="Ленинская"/>
+			<Subway Id="2003" Name="Московская"/>
+			<Subway Id="2012" Name="Парк Культуры"/>
+			<Subway Id="2008" Name="Пролетарская"/>
+			<Subway Id="2004" Name="Чкаловская"/>
+		</City>
+		<City Id="640320" Name="Ардатов"/>
+		<City Id="640330" Name="Арзамас"/>
+		<City Id="640340" Name="Арья"/>
+		<City Id="640350" Name="Афонино"/>
+		<City Id="640360" Name="Балахна"/>
+		<City Id="640370" Name="Богородск"/>
+		<City Id="640380" Name="Большое Болдино"/>
+		<City Id="640390" Name="Большое Козино"/>
+		<City Id="640400" Name="Большое Мурашкино"/>
+		<City Id="640410" Name="Бор"/>
+		<City Id="640420" Name="Буревестник"/>
+		<City Id="640430" Name="Бутурлино"/>
+		<City Id="640440" Name="Вад"/>
+		<City Id="640450" Name="Варнавино"/>
+		<City Id="640460" Name="Вахтан"/>
+		<City Id="640470" Name="Вача"/>
+		<City Id="640480" Name="Ветлуга"/>
+		<City Id="640490" Name="Ветлужский"/>
+		<City Id="640500" Name="Виля"/>
+		<City Id="640510" Name="Вознесенское"/>
+		<City Id="640520" Name="Володарск"/>
+		<City Id="640530" Name="Воротынец"/>
+		<City Id="640540" Name="Ворсма"/>
+		<City Id="640550" Name="Воскресенское"/>
+		<City Id="640560" Name="Выездное"/>
+		<City Id="640570" Name="Выкса"/>
+		<City Id="640580" Name="Гагино"/>
+		<City Id="640590" Name="Гидроторф"/>
+		<City Id="640600" Name="Горбатов"/>
+		<City Id="640610" Name="Горбатовка"/>
+		<City Id="640620" Name="Городец"/>
+		<City Id="640630" Name="Гремячево"/>
+		<City Id="640640" Name="Дальнее Константиново"/>
+		<City Id="640650" Name="Дзержинск"/>
+		<City Id="640660" Name="Дивеево"/>
+		<City Id="640670" Name="Досчатое"/>
+		<City Id="640680" Name="Дружба"/>
+		<City Id="640690" Name="Ждановский"/>
+		<City Id="640700" Name="Заволжье"/>
+		<City Id="640710" Name="Ильиногорск"/>
+		<City Id="640730" Name="Княгинино"/>
+		<City Id="640740" Name="Ковернино"/>
+		<City Id="640750" Name="Красные Баки"/>
+		<City Id="640760" Name="Кстово"/>
+		<City Id="640770" Name="Кулебаки"/>
+		<City Id="640780" Name="Линда"/>
+		<City Id="640790" Name="Лукино"/>
+		<City Id="640800" Name="Лукоянов"/>
+		<City Id="640810" Name="Лысково"/>
+		<City Id="640820" Name="Мулино"/>
+		<City Id="640830" Name="Мухтолово"/>
+		<City Id="640840" Name="Навашино"/>
+		<City Id="640870" Name="Новосмолинский"/>
+		<City Id="640890" Name="Павлово"/>
+		<City Id="640900" Name="Память Парижской Коммуны"/>
+		<City Id="640910" Name="Первомайск"/>
+		<City Id="640920" Name="Перевоз"/>
+		<City Id="640930" Name="Пижма"/>
+		<City Id="640940" Name="Пильна"/>
+		<City Id="640950" Name="Починки"/>
+		<City Id="640970" Name="Решетиха"/>
+		<City Id="640980" Name="Саваслейка"/>
+		<City Id="640990" Name="Саров"/>
+		<City Id="641000" Name="Сатис"/>
+		<City Id="641010" Name="Семенов"/>
+		<City Id="641020" Name="Сергач"/>
+		<City Id="641030" Name="Сеченово"/>
+		<City Id="641040" Name="Сокольское"/>
+		<City Id="641050" Name="Сосновское"/>
+		<City Id="641060" Name="Спасское"/>
+		<City Id="640720" Name="Степана Разина"/>
+		<City Id="641070" Name="Суроватиха"/>
+		<City Id="641080" Name="Сухобезводное"/>
+		<City Id="641090" Name="Сява"/>
+		<City Id="641110" Name="Тонкино"/>
+		<City Id="641120" Name="Тоншаево"/>
+		<City Id="641130" Name="Тумботино"/>
+		<City Id="641150" Name="Урень"/>
+		<City Id="641160" Name="Центральный"/>
+		<City Id="641170" Name="Чернуха"/>
+		<City Id="641180" Name="Чкаловск"/>
+		<City Id="641190" Name="Шаранга"/>
+		<City Id="641200" Name="Шатки"/>
+		<City Id="641210" Name="Шахунья"/>
+		<City Id="641220" Name="Шиморское"/>
+		<City Id="641230" Name="Юганец"/>
+	</Region>
+	<Region Id="641240" Name="Новгородская область">
+		<City Id="641270" Name="Великий Новгород">
+			<District Id="501" Name="Западный"/>
+			<District Id="500" Name="Псковский"/>
+			<District Id="499" Name="Северный"/>
+			<District Id="497" Name="Торговая сторона"/>
+			<District Id="498" Name="Центральный"/>
+		</City>
+		<City Id="641250" Name="Боровичи"/>
+		<City Id="641260" Name="Валдай"/>
+		<City Id="641290" Name="Демянск"/>
+		<City Id="641300" Name="Крестцы"/>
+		<City Id="641320" Name="Кулотино"/>
+		<City Id="641330" Name="Любытино"/>
+		<City Id="641340" Name="Малая Вишера"/>
+		<City Id="641350" Name="Окуловка"/>
+		<City Id="641360" Name="Панковка"/>
+		<City Id="641370" Name="Парфино"/>
+		<City Id="641380" Name="Пестово"/>
+		<City Id="641390" Name="Пролетарий"/>
+		<City Id="641400" Name="Сольцы"/>
+		<City Id="641410" Name="Старая Русса"/>
+		<City Id="641420" Name="Угловка"/>
+		<City Id="641430" Name="Хвойная"/>
+		<City Id="641440" Name="Холм"/>
+		<City Id="641450" Name="Чудово"/>
+		<City Id="641460" Name="Шимск"/>
+	</Region>
+	<Region Id="641470" Name="Новосибирская область">
+		<City Id="641780" Name="Новосибирск">
+			<DirectionRoad Id="56" Name="Бердское шоссе"/>
+			<DirectionRoad Id="57" Name="Гусинобродское шоссе"/>
+			<DirectionRoad Id="53" Name="Дачное шоссе"/>
+			<DirectionRoad Id="55" Name="Краснояровское шоссе"/>
+			<DirectionRoad Id="54" Name="Мочищенское шоссе"/>
+			<DirectionRoad Id="52" Name="Ордынское  шоссе"/>
+			<DirectionRoad Id="58" Name="Советское шоссе"/>
+			<Subway Id="2028" Name="Берёзовая роща"/>
+			<Subway Id="2018" Name="Гагаринская"/>
+			<Subway Id="2017" Name="Заельцовская"/>
+			<Subway Id="2029" Name="Золотая Нива"/>
+			<Subway Id="2019" Name="Красный проспект"/>
+			<Subway Id="2027" Name="Маршала Покрышкина"/>
+			<Subway Id="2021" Name="Октябрьская"/>
+			<Subway Id="2025" Name="Площадь Гарина-Михайловского"/>
+			<Subway Id="2020" Name="Площадь Ленина"/>
+			<Subway Id="2024" Name="Площадь Маркса"/>
+			<Subway Id="2022" Name="Речной вокзал"/>
+			<Subway Id="2026" Name="Сибирская"/>
+			<Subway Id="2023" Name="Студенческая"/>
+		</City>
+		<City Id="641480" Name="Баган"/>
+		<City Id="641490" Name="Барабинск"/>
+		<City Id="641500" Name="Барышево"/>
+		<City Id="641510" Name="Бердск"/>
+		<City Id="641520" Name="Болотное"/>
+		<City Id="641530" Name="Венгерово"/>
+		<City Id="641540" Name="Верх-Ирмень"/>
+		<City Id="641550" Name="Верх-Тула"/>
+		<City Id="641560" Name="Горный"/>
+		<City Id="641570" Name="Довольное"/>
+		<City Id="641580" Name="Дорогино"/>
+		<City Id="641590" Name="Здвинск"/>
+		<City Id="641600" Name="Искитим"/>
+		<City Id="641610" Name="Карасук"/>
+		<City Id="641620" Name="Каргат"/>
+		<City Id="641630" Name="Колывань"/>
+		<City Id="641640" Name="Кольцово"/>
+		<City Id="641650" Name="Коченево"/>
+		<City Id="641660" Name="Кочки"/>
+		<City Id="641670" Name="Краснозерское"/>
+		<City Id="641680" Name="Краснообск"/>
+		<City Id="641690" Name="Криводановка"/>
+		<City Id="641700" Name="Кудряшовский"/>
+		<City Id="641710" Name="Куйбышев"/>
+		<City Id="641720" Name="Купино"/>
+		<City Id="641730" Name="Кыштовка"/>
+		<City Id="641740" Name="Линево"/>
+		<City Id="641750" Name="Маслянино"/>
+		<City Id="641760" Name="Мошково"/>
+		<City Id="641770" Name="Новолуговое"/>
+		<City Id="641790" Name="Обь"/>
+		<City Id="641800" Name="Ордынское"/>
+		<City Id="641820" Name="Посевная"/>
+		<City Id="641840" Name="Северное"/>
+		<City Id="641850" Name="Сокур"/>
+		<City Id="641860" Name="Станционно-Ояшинский"/>
+		<City Id="641890" Name="Сузун"/>
+		<City Id="641900" Name="Татарск"/>
+		<City Id="641910" Name="Ташара"/>
+		<City Id="641920" Name="Тогучин"/>
+		<City Id="641930" Name="Толмачево"/>
+		<City Id="641940" Name="Убинское"/>
+		<City Id="641950" Name="Усть-Тарка"/>
+		<City Id="641960" Name="Чаны"/>
+		<City Id="641970" Name="Черепаново"/>
+		<City Id="641980" Name="Чик"/>
+		<City Id="641990" Name="Чистоозерное"/>
+		<City Id="642000" Name="Чулым"/>
+		<City Id="642010" Name="Ярково"/>
+	</Region>
+	<Region Id="642020" Name="Омская область">
+		<City Id="642320" Name="Омск">
+			<DirectionRoad Id="80" Name="Красноярский тракт"/>
+			<DirectionRoad Id="79" Name="Новосибирский тракт"/>
+			<DirectionRoad Id="78" Name="Пушкинский тракт"/>
+			<DirectionRoad Id="77" Name="Тюкалинский тракт"/>
+			<DirectionRoad Id="81" Name="Черлакский тракт"/>
+			<District Id="23" Name="Кировский"/>
+			<District Id="17" Name="Куйбышевский"/>
+			<District Id="22" Name="Ленинский"/>
+			<District Id="21" Name="Октябрьский"/>
+			<District Id="18" Name="Первомайский"/>
+			<District Id="20" Name="Советский"/>
+			<District Id="19" Name="Центральный"/>
+		</City>
+		<City Id="642030" Name="Азово"/>
+		<City Id="642050" Name="Большегривское"/>
+		<City Id="642060" Name="Большеречье"/>
+		<City Id="642070" Name="Большие Уки"/>
+		<City Id="642090" Name="Горьковское"/>
+		<City Id="642100" Name="Знаменское"/>
+		<City Id="642120" Name="Исилькуль"/>
+		<City Id="642130" Name="Калачинск"/>
+		<City Id="642150" Name="Колосовка"/>
+		<City Id="642160" Name="Кормиловка"/>
+		<City Id="642170" Name="Красноярка"/>
+		<City Id="642180" Name="Красный Яр"/>
+		<City Id="642200" Name="Крутинка"/>
+		<City Id="642210" Name="Лузино"/>
+		<City Id="642220" Name="Любинский"/>
+		<City Id="642230" Name="Марьяновка"/>
+		<City Id="642240" Name="Москаленки"/>
+		<City Id="642250" Name="Муромцево"/>
+		<City Id="642260" Name="Называевск"/>
+		<City Id="642270" Name="Нижняя Омка"/>
+		<City Id="642280" Name="Нововаршавка"/>
+		<City Id="642290" Name="Новоомский"/>
+		<City Id="642300" Name="Одесское"/>
+		<City Id="642310" Name="Оконешниково"/>
+		<City Id="642330" Name="Павлоградка"/>
+		<City Id="642340" Name="Полтавка"/>
+		<City Id="642350" Name="Ростовка"/>
+		<City Id="642360" Name="Русская Поляна"/>
+		<City Id="642370" Name="Саргатское"/>
+		<City Id="642380" Name="Седельниково"/>
+		<City Id="642400" Name="Таврическое"/>
+		<City Id="642410" Name="Тара"/>
+		<City Id="642420" Name="Тевриз"/>
+		<City Id="642440" Name="Тюкалинск"/>
+		<City Id="642450" Name="Усть-Ишим"/>
+		<City Id="642460" Name="Черлак"/>
+		<City Id="642470" Name="Шербакуль"/>
+	</Region>
+	<Region Id="642480" Name="Оренбургская область">
+		<City Id="642790" Name="Оренбург">
+			<District Id="178" Name="Дзержинский"/>
+			<District Id="179" Name="Ленинский"/>
+			<District Id="180" Name="Промышленный"/>
+			<District Id="181" Name="Центральный"/>
+		</City>
+		<City Id="642490" Name="Абдулино"/>
+		<City Id="642500" Name="Адамовка"/>
+		<City Id="642510" Name="Акбулак"/>
+		<City Id="642520" Name="Александровка"/>
+		<City Id="642530" Name="Асекеево"/>
+		<City Id="642540" Name="Беляевка"/>
+		<City Id="642550" Name="Бугуруслан"/>
+		<City Id="642560" Name="Бузулук"/>
+		<City Id="642570" Name="Гай"/>
+		<City Id="642580" Name="Грачёвка"/>
+		<City Id="642590" Name="Домбаровский"/>
+		<City Id="642600" Name="Илек"/>
+		<City Id="642610" Name="Кардаилово"/>
+		<City Id="642620" Name="Кваркено"/>
+		<City Id="642630" Name="Колтубановский"/>
+		<City Id="642640" Name="Комаровский"/>
+		<City Id="642650" Name="Красногвардеец"/>
+		<City Id="642660" Name="Краснохолм"/>
+		<City Id="642670" Name="Красноярский"/>
+		<City Id="642680" Name="Красный Коммунар"/>
+		<City Id="642690" Name="Кувандык"/>
+		<City Id="642700" Name="Курманаевка"/>
+		<City Id="642710" Name="Матвеевка"/>
+		<City Id="642720" Name="Медногорск"/>
+		<City Id="642730" Name="Нежинка"/>
+		<City Id="642750" Name="Новоорск"/>
+		<City Id="642760" Name="Новосергиевка"/>
+		<City Id="642770" Name="Новотроицк"/>
+		<City Id="642780" Name="Октябрьское"/>
+		<City Id="642800" Name="Орск"/>
+		<City Id="642820" Name="Первомайский"/>
+		<City Id="642830" Name="Переволоцкий"/>
+		<City Id="642840" Name="Плешаново"/>
+		<City Id="642850" Name="Подгородняя Покровка"/>
+		<City Id="642860" Name="Пономарёвка"/>
+		<City Id="642870" Name="Пригородный"/>
+		<City Id="642880" Name="Сакмара"/>
+		<City Id="642890" Name="Саракташ"/>
+		<City Id="642900" Name="Светлый"/>
+		<City Id="642910" Name="Северное"/>
+		<City Id="642920" Name="Соль-Илецк"/>
+		<City Id="642930" Name="Сорочинск"/>
+		<City Id="642940" Name="Татарская Каргала"/>
+		<City Id="642950" Name="Ташла"/>
+		<City Id="642960" Name="Тоцкое"/>
+		<City Id="642970" Name="Тоцкое Второе"/>
+		<City Id="642980" Name="Тюльган"/>
+		<City Id="642990" Name="Чебеньки"/>
+		<City Id="643000" Name="Шарлык"/>
+		<City Id="643010" Name="Энергетик"/>
+		<City Id="643020" Name="Ясный"/>
+	</Region>
+	<Region Id="643030" Name="Орловская область">
+		<City Id="643190" Name="Орел">
+			<District Id="273" Name="Железнодорожный"/>
+			<District Id="274" Name="Заводской"/>
+			<District Id="275" Name="Северный"/>
+			<District Id="276" Name="Советский"/>
+		</City>
+		<City Id="643040" Name="Болхов"/>
+		<City Id="643050" Name="Верховье"/>
+		<City Id="643060" Name="Глазуновка"/>
+		<City Id="643070" Name="Дмитровск"/>
+		<City Id="643080" Name="Долгое"/>
+		<City Id="643090" Name="Залегощь"/>
+		<City Id="643100" Name="Змиевка"/>
+		<City Id="643110" Name="Знаменка"/>
+		<City Id="643120" Name="Колпны"/>
+		<City Id="643130" Name="Кромы"/>
+		<City Id="643140" Name="Ливны"/>
+		<City Id="643150" Name="Малоархангельск"/>
+		<City Id="643160" Name="Мценск"/>
+		<City Id="643170" Name="Нарышкино"/>
+		<City Id="643180" Name="Новосиль"/>
+		<City Id="643200" Name="Отрадинское"/>
+		<City Id="643210" Name="Покровское"/>
+		<City Id="643220" Name="Хомутово"/>
+		<City Id="643230" Name="Хотынец"/>
+		<City Id="643240" Name="Шаблыкино"/>
+	</Region>
+	<Region Id="643250" Name="Пензенская область">
+		<City Id="643560" Name="Пенза">
+			<District Id="192" Name="Железнодорожный"/>
+			<District Id="193" Name="Ленинский"/>
+			<District Id="194" Name="Октябрьский"/>
+			<District Id="195" Name="Первомайский"/>
+		</City>
+		<City Id="643260" Name="Башмаково"/>
+		<City Id="643280" Name="Беково"/>
+		<City Id="643290" Name="Белинский"/>
+		<City Id="643300" Name="Бессоновка"/>
+		<City Id="643310" Name="Богословка"/>
+		<City Id="643320" Name="Вадинск"/>
+		<City Id="643330" Name="Верхний Ломов"/>
+		<City Id="643340" Name="Городище"/>
+		<City Id="643350" Name="Грабово"/>
+		<City Id="643360" Name="Евлашево"/>
+		<City Id="643370" Name="Заречный"/>
+		<City Id="643380" Name="Засечное"/>
+		<City Id="643390" Name="Земетчино"/>
+		<City Id="643400" Name="Индерка"/>
+		<City Id="643410" Name="Исса"/>
+		<City Id="643420" Name="Каменка"/>
+		<City Id="643430" Name="Колышлей"/>
+		<City Id="643440" Name="Кондоль"/>
+		<City Id="643450" Name="Кузнецк"/>
+		<City Id="643460" Name="Лопатино"/>
+		<City Id="643470" Name="Лунино"/>
+		<City Id="643480" Name="Малая Сердоба"/>
+		<City Id="643490" Name="Махалино"/>
+		<City Id="643500" Name="Мокшан"/>
+		<City Id="643510" Name="Наровчат"/>
+		<City Id="643520" Name="Неверкино"/>
+		<City Id="643530" Name="Нижний Ломов"/>
+		<City Id="643540" Name="Никольск"/>
+		<City Id="643550" Name="Пачелма"/>
+		<City Id="643570" Name="Поим"/>
+		<City Id="643580" Name="Поселки"/>
+		<City Id="643600" Name="Русский Камешкир"/>
+		<City Id="643610" Name="Сердобск"/>
+		<City Id="643620" Name="Сосновоборск"/>
+		<City Id="643270" Name="Спасск"/>
+		<City Id="643630" Name="Средняя Елюзань"/>
+		<City Id="643640" Name="Старая Каменка"/>
+		<City Id="643650" Name="Сурск"/>
+		<City Id="643660" Name="Тамала"/>
+		<City Id="643670" Name="Чаадаевка"/>
+		<City Id="643680" Name="Чемодановка"/>
+		<City Id="643690" Name="Шемышейка"/>
+	</Region>
+	<Region Id="643700" Name="Пермский край">
+		<City Id="644200" Name="Пермь">
+			<DirectionRoad Id="87" Name="Лядовский тракт"/>
+			<DirectionRoad Id="88" Name="Нестюковский тракт"/>
+			<DirectionRoad Id="86" Name="Сибирский тракт"/>
+			<District Id="62" Name="Дзержинский"/>
+			<District Id="63" Name="Индустриальный"/>
+			<District Id="64" Name="Кировский"/>
+			<District Id="65" Name="Ленинский"/>
+			<District Id="66" Name="Мотовилихинский"/>
+			<District Id="69" Name="Новые Ляды"/>
+			<District Id="67" Name="Орджоникидзевский"/>
+			<District Id="68" Name="Свердловский"/>
+		</City>
+		<City Id="643710" Name="Александровск"/>
+		<City Id="643720" Name="Барда"/>
+		<City Id="643730" Name="Березники"/>
+		<City Id="643740" Name="Березовка"/>
+		<City Id="643750" Name="Бершеть"/>
+		<City Id="643760" Name="Большая Соснова"/>
+		<City Id="643770" Name="Верещагино"/>
+		<City Id="643780" Name="Всеволодо-Вильва"/>
+		<City Id="643790" Name="Гайны"/>
+		<City Id="643800" Name="Гамово"/>
+		<City Id="643810" Name="Горнозаводск"/>
+		<City Id="643820" Name="Гремячинск"/>
+		<City Id="643830" Name="Губаха"/>
+		<City Id="643840" Name="Добрянка"/>
+		<City Id="643850" Name="Елово"/>
+		<City Id="643860" Name="Звездный"/>
+		<City Id="643870" Name="Зюкайка"/>
+		<City Id="643880" Name="Ильинский"/>
+		<City Id="643890" Name="Карагай"/>
+		<City Id="643900" Name="Керчевский"/>
+		<City Id="643910" Name="Кизел"/>
+		<City Id="643920" Name="Комсомольский"/>
+		<City Id="643930" Name="Кондратово"/>
+		<City Id="643725" Name="Кочево"/>
+		<City Id="643950" Name="Красновишерск"/>
+		<City Id="643960" Name="Краснокамск"/>
+		<City Id="643735" Name="Кудымкар"/>
+		<City Id="643980" Name="Куеда"/>
+		<City Id="643990" Name="Кукуштан"/>
+		<City Id="644000" Name="Култаево"/>
+		<City Id="644010" Name="Кунгур"/>
+		<City Id="644020" Name="Лобаново"/>
+		<City Id="644030" Name="Лысьва"/>
+		<City Id="644040" Name="Лямино"/>
+		<City Id="644050" Name="Майкор"/>
+		<City Id="644060" Name="Майский"/>
+		<City Id="644070" Name="Марковский"/>
+		<City Id="644080" Name="Новоильинский"/>
+		<City Id="644100" Name="Ныроб"/>
+		<City Id="644110" Name="Нытва"/>
+		<City Id="644120" Name="Оверята"/>
+		<City Id="644130" Name="Октябрьский"/>
+		<City Id="644140" Name="Орда"/>
+		<City Id="644150" Name="Оса"/>
+		<City Id="644160" Name="Оханск"/>
+		<City Id="644170" Name="Очер"/>
+		<City Id="644180" Name="Павловский"/>
+		<City Id="644190" Name="Пашия"/>
+		<City Id="643755" Name="Пожва"/>
+		<City Id="644220" Name="Полазна"/>
+		<City Id="644230" Name="Сарс"/>
+		<City Id="644240" Name="Сива"/>
+		<City Id="644250" Name="Соликамск"/>
+		<City Id="644290" Name="Суксун"/>
+		<City Id="644300" Name="Сылва"/>
+		<City Id="644310" Name="Теплая Гора"/>
+		<City Id="644320" Name="Углеуральский"/>
+		<City Id="644330" Name="Уинское"/>
+		<City Id="644340" Name="Уральский"/>
+		<City Id="644350" Name="Усолье"/>
+		<City Id="644360" Name="Усть-Качка"/>
+		<City Id="644370" Name="Усть-Кишерть"/>
+		<City Id="644380" Name="Фоки"/>
+		<City Id="644390" Name="Чайковский"/>
+		<City Id="644400" Name="Частые"/>
+		<City Id="644410" Name="Чердынь"/>
+		<City Id="644420" Name="Чермоз"/>
+		<City Id="644430" Name="Чернушка"/>
+		<City Id="644440" Name="Чусовой"/>
+		<City Id="644450" Name="Юго-Камский"/>
+		<City Id="643765" Name="Юрла"/>
+		<City Id="643775" Name="Юсьва"/>
+		<City Id="644480" Name="Яйва"/>
+	</Region>
+	<Region Id="644490" Name="Приморский край">
+		<City Id="644560" Name="Владивосток">
+			<District Id="394" Name="Ленинский"/>
+			<District Id="395" Name="Первомайский"/>
+			<District Id="396" Name="Первореченский"/>
+			<District Id="397" Name="Советский"/>
+			<District Id="398" Name="Фрунзенский"/>
+		</City>
+		<City Id="644500" Name="Анучино"/>
+		<City Id="644510" Name="Арсеньев"/>
+		<City Id="644520" Name="Артем"/>
+		<City Id="644540" Name="Барабаш"/>
+		<City Id="644550" Name="Большой Камень"/>
+		<City Id="644570" Name="Владимиро-Александровское"/>
+		<City Id="644580" Name="Воздвиженка"/>
+		<City Id="644590" Name="Волчанец"/>
+		<City Id="644600" Name="Вольно-Надеждинское"/>
+		<City Id="644610" Name="Восток"/>
+		<City Id="644630" Name="Галёнки"/>
+		<City Id="644640" Name="Горнореченский"/>
+		<City Id="644650" Name="Горные Ключи"/>
+		<City Id="644660" Name="Дальнегорск"/>
+		<City Id="644670" Name="Дальнереченск"/>
+		<City Id="644680" Name="Дунай"/>
+		<City Id="644690" Name="Екатериновка"/>
+		<City Id="644710" Name="Зарубино"/>
+		<City Id="644730" Name="Кавалерово"/>
+		<City Id="644740" Name="Камень-Рыболов"/>
+		<City Id="644750" Name="Кировский"/>
+		<City Id="644760" Name="Кневичи"/>
+		<City Id="644770" Name="Краскино"/>
+		<City Id="644800" Name="Лазо"/>
+		<City Id="644810" Name="Лесозаводск"/>
+		<City Id="644830" Name="Липовцы"/>
+		<City Id="644840" Name="Лучегорск"/>
+		<City Id="644850" Name="Михайловка"/>
+		<City Id="644870" Name="Находка"/>
+		<City Id="644880" Name="Николаевка"/>
+		<City Id="644900" Name="Новопокровка"/>
+		<City Id="644910" Name="Новосысоевка"/>
+		<City Id="644920" Name="Новошахтинский"/>
+		<City Id="644930" Name="Новый"/>
+		<City Id="644940" Name="Ольга"/>
+		<City Id="644950" Name="Партизанск"/>
+		<City Id="644960" Name="Пластун"/>
+		<City Id="644970" Name="Пограничный"/>
+		<City Id="644980" Name="Покровка"/>
+		<City Id="644990" Name="Посьет"/>
+		<City Id="645000" Name="Преображение"/>
+		<City Id="645010" Name="Раздольное"/>
+		<City Id="645020" Name="Рощино"/>
+		<City Id="645060" Name="Сибирцево"/>
+		<City Id="645070" Name="Славянка"/>
+		<City Id="645080" Name="Смоляниново"/>
+		<City Id="645090" Name="Спасск-Дальний"/>
+		<City Id="645100" Name="Спасское"/>
+		<City Id="645110" Name="Тавричанка"/>
+		<City Id="645120" Name="Терней"/>
+		<City Id="645130" Name="Трудовое"/>
+		<City Id="645140" Name="Углекаменск"/>
+		<City Id="645150" Name="Угловое"/>
+		<City Id="645160" Name="Уссурийск"/>
+		<City Id="645170" Name="Фокино"/>
+		<City Id="645180" Name="Хороль"/>
+		<City Id="645190" Name="Хрустальный"/>
+		<City Id="645200" Name="Черниговка"/>
+		<City Id="645220" Name="Чугуевка"/>
+		<City Id="645230" Name="Шкотово"/>
+		<City Id="645240" Name="Яковлевка"/>
+		<City Id="645250" Name="Ярославский"/>
+	</Region>
+	<Region Id="645260" Name="Псковская область">
+		<City Id="645450" Name="Псков">
+			<District Id="404" Name="Завеличье"/>
+			<District Id="405" Name="Завокзалье"/>
+			<District Id="406" Name="Запсковье"/>
+			<District Id="407" Name="Центр"/>
+		</City>
+		<City Id="645270" Name="Бежаницы"/>
+		<City Id="645280" Name="Великие Луки"/>
+		<City Id="645290" Name="Гдов"/>
+		<City Id="645300" Name="Дедовичи"/>
+		<City Id="645310" Name="Дно"/>
+		<City Id="645320" Name="Идрица"/>
+		<City Id="645330" Name="Красногородск"/>
+		<City Id="645340" Name="Кунья"/>
+		<City Id="645350" Name="Локня"/>
+		<City Id="645360" Name="Невель"/>
+		<City Id="645370" Name="Новоржев"/>
+		<City Id="645380" Name="Новосокольники"/>
+		<City Id="645390" Name="Опочка"/>
+		<City Id="645400" Name="Остров"/>
+		<City Id="645410" Name="Палкино"/>
+		<City Id="645420" Name="Печоры"/>
+		<City Id="645430" Name="Плюсса"/>
+		<City Id="645440" Name="Порхов"/>
+		<City Id="645460" Name="Пустошка"/>
+		<City Id="645470" Name="Пушкинские Горы"/>
+		<City Id="645480" Name="Пыталово"/>
+		<City Id="645490" Name="Себеж"/>
+		<City Id="645500" Name="Середка"/>
+		<City Id="645510" Name="Струги Красные"/>
+		<City Id="645520" Name="Усвяты"/>
+	</Region>
+	<Region Id="662811" Name="Республика Алтай">
+		<City Id="662812" Name="Горно-Алтайск"/>
+		<City Id="662813" Name="Кош-Агач"/>
+		<City Id="662814" Name="Майма"/>
+		<City Id="662815" Name="Онгудай"/>
+		<City Id="662816" Name="Турочак"/>
+		<City Id="662818" Name="Усть-Кан"/>
+		<City Id="662819" Name="Усть-Кокса"/>
+		<City Id="662817" Name="Усть-Улаган"/>
+	</Region>
+	<Region Id="651110" Name="Ростовская область">
+		<City Id="652000" Name="Ростов-на-Дону">
+			<District Id="349" Name="Ворошиловский"/>
+			<District Id="350" Name="Железнодорожный"/>
+			<District Id="351" Name="Кировский"/>
+			<District Id="352" Name="Левенцовский"/>
+			<District Id="353" Name="Ленинский"/>
+			<District Id="354" Name="Октябрьский"/>
+			<District Id="355" Name="Первомайский"/>
+			<District Id="356" Name="Пролетарский"/>
+			<District Id="357" Name="Советский"/>
+			<District Id="358" Name="Суворовский"/>
+		</City>
+		<City Id="651120" Name="Азов"/>
+		<City Id="651130" Name="Аксай"/>
+		<City Id="651140" Name="Александровка"/>
+		<City Id="652063" Name="Арпачин"/>
+		<City Id="651170" Name="Багаевская"/>
+		<City Id="651180" Name="Батайск"/>
+		<City Id="651190" Name="Белая Калитва"/>
+		<City Id="651200" Name="Боковская"/>
+		<City Id="651210" Name="Большая Мартыновка"/>
+		<City Id="651220" Name="Большая Орловка"/>
+		<City Id="651230" Name="Большие Салы"/>
+		<City Id="651240" Name="Большой Лог"/>
+		<City Id="651250" Name="Быстрогорский"/>
+		<City Id="651260" Name="Веселый"/>
+		<City Id="651270" Name="Вешенская"/>
+		<City Id="651280" Name="Волгодонск"/>
+		<City Id="651290" Name="Гигант"/>
+		<City Id="651300" Name="Глубокий"/>
+		<City Id="651310" Name="Горняцкий"/>
+		<City Id="651320" Name="Грушевская"/>
+		<City Id="651330" Name="Гуково"/>
+		<City Id="651350" Name="Донецк"/>
+		<City Id="651370" Name="Дубовское"/>
+		<City Id="651380" Name="Егорлыкская"/>
+		<City Id="651390" Name="Елкин"/>
+		<City Id="651400" Name="Жирнов"/>
+		<City Id="651410" Name="Заветное"/>
+		<City Id="651430" Name="Зверево"/>
+		<City Id="651440" Name="Зерноград"/>
+		<City Id="651450" Name="Зимовники"/>
+		<City Id="651460" Name="Кагальник"/>
+		<City Id="651470" Name="Кагальницкая"/>
+		<City Id="651480" Name="Казанская"/>
+		<City Id="651490" Name="Калинин"/>
+		<City Id="651500" Name="Каменоломни"/>
+		<City Id="651510" Name="Каменск-Шахтинский"/>
+		<City Id="651520" Name="Кашары"/>
+		<City Id="651530" Name="Кировская"/>
+		<City Id="651540" Name="Коксовый"/>
+		<City Id="651550" Name="Константиновск"/>
+		<City Id="651560" Name="Красная Поляна"/>
+		<City Id="651570" Name="Красноармейский"/>
+		<City Id="651580" Name="Красновка"/>
+		<City Id="651610" Name="Красный Сулин"/>
+		<City Id="651620" Name="Красюковская"/>
+		<City Id="651630" Name="Кривянская"/>
+		<City Id="651650" Name="Куйбышево"/>
+		<City Id="651660" Name="Кулешовка"/>
+		<City Id="651670" Name="Летник"/>
+		<City Id="651690" Name="Лихой"/>
+		<City Id="651710" Name="Мальчевская"/>
+		<City Id="651720" Name="Маньково-Калитвенское"/>
+		<City Id="651730" Name="Матвеев-Курган"/>
+		<City Id="651740" Name="Мелиховская"/>
+		<City Id="651750" Name="Мечетинская"/>
+		<City Id="651760" Name="Миллерово"/>
+		<City Id="652066" Name="Милютинская"/>
+		<City Id="651770" Name="Морозовск"/>
+		<City Id="651790" Name="Николаевка"/>
+		<City Id="651800" Name="Николаевская"/>
+		<City Id="651810" Name="Новобатайск"/>
+		<City Id="651820" Name="Новобессергеневка"/>
+		<City Id="651830" Name="Новочеркасск"/>
+		<City Id="651840" Name="Новошахтинск"/>
+		<City Id="651850" Name="Новый Егорлык"/>
+		<City Id="651860" Name="Обливская"/>
+		<City Id="651870" Name="Ольгинская"/>
+		<City Id="651880" Name="Орловский"/>
+		<City Id="651890" Name="Персиановский"/>
+		<City Id="651900" Name="Песчанокопское"/>
+		<City Id="651910" Name="Пешково"/>
+		<City Id="651920" Name="Покровское"/>
+		<City Id="651930" Name="Приморка"/>
+		<City Id="651940" Name="Пролетарск"/>
+		<City Id="651950" Name="Развильное"/>
+		<City Id="651960" Name="Рассвет"/>
+		<City Id="651970" Name="Ремонтное"/>
+		<City Id="651980" Name="Родионово-Несветайская"/>
+		<City Id="651990" Name="Романовская"/>
+		<City Id="652010" Name="Сальск"/>
+		<City Id="652020" Name="Самарское"/>
+		<City Id="652040" Name="Сандата"/>
+		<City Id="652050" Name="Семикаракорск"/>
+		<City Id="652060" Name="Синегорский"/>
+		<City Id="652070" Name="Синявское"/>
+		<City Id="652090" Name="Старая Станица"/>
+		<City Id="652100" Name="Таганрог">
+			<District Id="468" Name="Западный"/>
+			<District Id="469" Name="Приморский"/>
+			<District Id="470" Name="Промышленный"/>
+			<District Id="471" Name="Северный"/>
+			<District Id="472" Name="Центральный"/>
+		</City>
+		<City Id="652120" Name="Тарасовский"/>
+		<City Id="652130" Name="Тацинская"/>
+		<City Id="652140" Name="Углеродовский"/>
+		<City Id="652150" Name="Усть-Донецкий"/>
+		<City Id="652160" Name="Целина"/>
+		<City Id="652170" Name="Цимлянск"/>
+		<City Id="652180" Name="Чалтырь"/>
+		<City Id="652190" Name="Чертково"/>
+		<City Id="652200" Name="Шахты"/>
+		<City Id="652210" Name="Шолоховский"/>
+	</Region>
+	<Region Id="652220" Name="Рязанская область">
+		<City Id="652430" Name="Рязань">
+			<District Id="379" Name="Железнодорожный"/>
+			<District Id="380" Name="Московский"/>
+			<District Id="381" Name="Октябрьский"/>
+			<District Id="382" Name="Советский"/>
+		</City>
+		<City Id="652230" Name="Александро-Невский"/>
+		<City Id="652240" Name="Елатьма"/>
+		<City Id="652250" Name="Ермишь"/>
+		<City Id="652270" Name="Захарово"/>
+		<City Id="652280" Name="Ижевское"/>
+		<City Id="652290" Name="Кадом"/>
+		<City Id="652300" Name="Касимов"/>
+		<City Id="652310" Name="Кораблино"/>
+		<City Id="652320" Name="Лесной"/>
+		<City Id="652330" Name="Милославское"/>
+		<City Id="652340" Name="Михайлов"/>
+		<City Id="652350" Name="Мурмино"/>
+		<City Id="652360" Name="Новомичуринск"/>
+		<City Id="652370" Name="Октябрьский"/>
+		<City Id="652380" Name="Поляны"/>
+		<City Id="652390" Name="Пронск"/>
+		<City Id="652400" Name="Путятино"/>
+		<City Id="652410" Name="Рыбное"/>
+		<City Id="652420" Name="Ряжск"/>
+		<City Id="652440" Name="Сапожок"/>
+		<City Id="652450" Name="Сараи"/>
+		<City Id="652460" Name="Сасово"/>
+		<City Id="652470" Name="Скопин"/>
+		<City Id="652480" Name="Спас-Клепики"/>
+		<City Id="652490" Name="Спасск-Рязанский"/>
+		<City Id="652500" Name="Старожилово"/>
+		<City Id="652510" Name="Тума"/>
+		<City Id="652520" Name="Ухолово"/>
+		<City Id="652530" Name="Чучково"/>
+		<City Id="652540" Name="Шацк"/>
+		<City Id="652550" Name="Шилово"/>
+	</Region>
+	<Region Id="652560" Name="Самарская область">
+		<City Id="653040" Name="Самара">
+			<DirectionRoad Id="74" Name="Волжское шоссе"/>
+			<DirectionRoad Id="75" Name="Красноглинское шоссе"/>
+			<DirectionRoad Id="76" Name="Московское шоссе"/>
+			<Subway Id="2036" Name="Безымянка"/>
+			<Subway Id="2032" Name="Гагаринская"/>
+			<Subway Id="2037" Name="Кировская"/>
+			<Subway Id="2031" Name="Московская"/>
+			<Subway Id="2035" Name="Победа"/>
+			<Subway Id="2030" Name="Российская"/>
+			<Subway Id="2034" Name="Советская"/>
+			<Subway Id="2033" Name="Спортивная"/>
+			<Subway Id="2038" Name="Юнгородок"/>
+		</City>
+		<City Id="652570" Name="Алексеевка"/>
+		<City Id="652590" Name="Балашейка"/>
+		<City Id="652600" Name="Безенчук"/>
+		<City Id="652610" Name="Береза"/>
+		<City Id="652620" Name="Богатое"/>
+		<City Id="652630" Name="Большая Глушица"/>
+		<City Id="652640" Name="Большая Черниговка"/>
+		<City Id="652650" Name="Борское"/>
+		<City Id="652660" Name="Варламово"/>
+		<City Id="652670" Name="Волжский"/>
+		<City Id="652680" Name="Георгиевка"/>
+		<City Id="652690" Name="Дубовый Умет"/>
+		<City Id="652700" Name="Елховка"/>
+		<City Id="652730" Name="Жигулевск"/>
+		<City Id="652740" Name="Исаклы"/>
+		<City Id="652750" Name="Камышла"/>
+		<City Id="652760" Name="Кинель"/>
+		<City Id="652770" Name="Кинель-Черкассы"/>
+		<City Id="652710" Name="Клявлино"/>
+		<City Id="652780" Name="Комсомольский"/>
+		<City Id="652790" Name="Кошки"/>
+		<City Id="652800" Name="Красноармейское"/>
+		<City Id="652810" Name="Красный Яр"/>
+		<City Id="652820" Name="Кротовка"/>
+		<City Id="652830" Name="Курумоч"/>
+		<City Id="652840" Name="Междуреченск"/>
+		<City Id="652850" Name="Мирный"/>
+		<City Id="652860" Name="Нефтегорск"/>
+		<City Id="652870" Name="Новокуйбышевск"/>
+		<City Id="652880" Name="Новосемейкино"/>
+		<City Id="652890" Name="Новый Буян"/>
+		<City Id="652900" Name="Обшаровка"/>
+		<City Id="652910" Name="Октябрьск"/>
+		<City Id="652920" Name="Осинки"/>
+		<City Id="652930" Name="Отрадный"/>
+		<City Id="652940" Name="Пестравка"/>
+		<City Id="652950" Name="Петра Дубрава"/>
+		<City Id="652970" Name="Подбельск"/>
+		<City Id="652980" Name="Подстепки"/>
+		<City Id="652990" Name="Похвистнево"/>
+		<City Id="653000" Name="Прибрежный"/>
+		<City Id="653010" Name="Приволжье"/>
+		<City Id="653020" Name="Рождествено"/>
+		<City Id="653030" Name="Рощинский"/>
+		<City Id="653050" Name="Сергиевск"/>
+		<City Id="653060" Name="Серноводск"/>
+		<City Id="653070" Name="Смышляевка"/>
+		<City Id="653080" Name="Спиридоновка"/>
+		<City Id="653090" Name="Стройкерамика"/>
+		<City Id="653100" Name="Сургут"/>
+		<City Id="653110" Name="Суходол"/>
+		<City Id="653120" Name="Сызрань"/>
+		<City Id="653130" Name="Тимашево"/>
+		<City Id="653140" Name="Тольятти">
+			<District Id="155" Name="Автозаводский"/>
+			<District Id="156" Name="Комсомольский"/>
+			<District Id="157" Name="Центральный"/>
+		</City>
+		<City Id="653150" Name="Усолье"/>
+		<City Id="653160" Name="Усть-Кинельский"/>
+		<City Id="653180" Name="Хворостянка"/>
+		<City Id="653190" Name="Хрящевка"/>
+		<City Id="653200" Name="Чапаевск"/>
+		<City Id="653210" Name="Челно-Вершины"/>
+		<City Id="652720" Name="Шентала"/>
+		<City Id="653220" Name="Шигоны"/>
+	</Region>
+	<Region Id="653420" Name="Саратовская область">
+		<City Id="653241" Name="Саратов">
+			<District Id="29" Name="Волжский"/>
+			<District Id="25" Name="Заводской"/>
+			<District Id="26" Name="Кировский"/>
+			<District Id="24" Name="Ленинский"/>
+			<District Id="28" Name="Октябрьский"/>
+			<District Id="27" Name="Фрунзенский"/>
+		</City>
+		<City Id="653251" Name="Александров Гай"/>
+		<City Id="653243" Name="Аркадак"/>
+		<City Id="653244" Name="Аткарск"/>
+		<City Id="653245" Name="Балаково"/>
+		<City Id="653246" Name="Балашов"/>
+		<City Id="653247" Name="Вольск"/>
+		<City Id="653248" Name="Ершов"/>
+		<City Id="653262" Name="Ивантеевка"/>
+		<City Id="653249" Name="Калининск"/>
+		<City Id="653263" Name="Красноармейск"/>
+		<City Id="653250" Name="Красный Кут"/>
+		<City Id="653252" Name="Маркс"/>
+		<City Id="653253" Name="Новоузенск"/>
+		<City Id="653254" Name="Озинки"/>
+		<City Id="653255" Name="Петровск"/>
+		<City Id="653264" Name="Питерка"/>
+		<City Id="653256" Name="Приволжский"/>
+		<City Id="653257" Name="Пугачев"/>
+		<City Id="653258" Name="Ртищево"/>
+		<City Id="653259" Name="Светлый"/>
+		<City Id="653260" Name="Степное"/>
+		<City Id="653261" Name="Хвалынск"/>
+		<City Id="653267" Name="Шиханы"/>
+		<City Id="653265" Name="Энгельс"/>
+	</Region>
+	<Region Id="653430" Name="Сахалинская область">
+		<City Id="653690" Name="Южно-Сахалинск"/>
+		<City Id="653440" Name="Александровск-Сахалинский"/>
+		<City Id="653450" Name="Анива"/>
+		<City Id="653460" Name="Быков"/>
+		<City Id="653470" Name="Восток"/>
+		<City Id="653480" Name="Горнозаводск"/>
+		<City Id="653490" Name="Долинск"/>
+		<City Id="653500" Name="Корсаков"/>
+		<City Id="653510" Name="Красногорск"/>
+		<City Id="653520" Name="Курильск"/>
+		<City Id="653530" Name="Макаров"/>
+		<City Id="653540" Name="Невельск"/>
+		<City Id="653550" Name="Ноглики"/>
+		<City Id="653560" Name="Оха"/>
+		<City Id="653570" Name="Поронайск"/>
+		<City Id="653580" Name="Северо-Курильск"/>
+		<City Id="653590" Name="Смирных"/>
+		<City Id="653600" Name="Сокол"/>
+		<City Id="653610" Name="Томари"/>
+		<City Id="653630" Name="Тымовское"/>
+		<City Id="653640" Name="Углегорск"/>
+		<City Id="653650" Name="Холмск"/>
+		<City Id="653660" Name="Чехов"/>
+		<City Id="653670" Name="Шахтерск"/>
+		<City Id="653680" Name="Южно-Курильск"/>
+	</Region>
+	<Region Id="649330" Name="Саха (Якутия)">
+		<City Id="649810" Name="Якутск"/>
+		<City Id="649340" Name="Айхал"/>
+		<City Id="649350" Name="Алдан"/>
+		<City Id="649360" Name="Амга"/>
+		<City Id="649370" Name="Батагай"/>
+		<City Id="649380" Name="Бердигестях"/>
+		<City Id="649390" Name="Беркакит"/>
+		<City Id="649400" Name="Борогонцы"/>
+		<City Id="649410" Name="Верхневилюйск"/>
+		<City Id="649420" Name="Верхоянск"/>
+		<City Id="649430" Name="Вилюйск"/>
+		<City Id="649440" Name="Витим"/>
+		<City Id="649450" Name="Депутатский"/>
+		<City Id="649460" Name="Жатай"/>
+		<City Id="649470" Name="Жиганск"/>
+		<City Id="649480" Name="Зырянка"/>
+		<City Id="649490" Name="Кысыл-Сыр"/>
+		<City Id="649500" Name="Ленск"/>
+		<City Id="649510" Name="Майя"/>
+		<City Id="649530" Name="Мирный"/>
+		<City Id="649540" Name="Мохсоголлох"/>
+		<City Id="649550" Name="Намцы"/>
+		<City Id="649560" Name="Нерюнгри"/>
+		<City Id="649570" Name="Нижний Бестях"/>
+		<City Id="649580" Name="Нижний Куранах"/>
+		<City Id="649590" Name="Нюрба"/>
+		<City Id="649600" Name="Олекминск"/>
+		<City Id="649610" Name="Пеледуй"/>
+		<City Id="649620" Name="Покровск"/>
+		<City Id="649630" Name="Сангар"/>
+		<City Id="649640" Name="Светлый"/>
+		<City Id="649650" Name="Серебряный Бор"/>
+		<City Id="649660" Name="Среднеколымск"/>
+		<City Id="649670" Name="Сунтар"/>
+		<City Id="649680" Name="Табага"/>
+		<City Id="649690" Name="Тикси"/>
+		<City Id="649700" Name="Томмот"/>
+		<City Id="649710" Name="Удачный"/>
+		<City Id="649720" Name="Усть-Мая"/>
+		<City Id="649730" Name="Усть-Нера"/>
+		<City Id="649740" Name="Хандыга"/>
+		<City Id="649750" Name="Хатассы"/>
+		<City Id="649760" Name="Чернышевский"/>
+		<City Id="649770" Name="Черский"/>
+		<City Id="649780" Name="Чульман"/>
+		<City Id="649790" Name="Чурапча"/>
+		<City Id="649800" Name="Ытык-Кюель"/>
+	</Region>
+	<Region Id="653700" Name="Свердловская область">
+		<City Id="654070" Name="Екатеринбург">
+			<DirectionRoad Id="66" Name="Каменск-Уральский тракт"/>
+			<DirectionRoad Id="63" Name="Ново-Московский тракт"/>
+			<DirectionRoad Id="62" Name="Полевской тракт"/>
+			<DirectionRoad Id="59" Name="Режевской тракт"/>
+			<DirectionRoad Id="67" Name="Серовский тракт"/>
+			<DirectionRoad Id="68" Name="Сибирский тракт"/>
+			<DirectionRoad Id="61" Name="Старотагильский тракт"/>
+			<DirectionRoad Id="65" Name="Тюменский тракт"/>
+			<DirectionRoad Id="60" Name="Челябинский тракт"/>
+			<DirectionRoad Id="64" Name="Чусовской тракт"/>
+			<Subway Id="2129" Name="Ботаническая"/>
+			<Subway Id="2045" Name="Геологическая"/>
+			<Subway Id="2043" Name="Динамо"/>
+			<Subway Id="2041" Name="Машиностроителей"/>
+			<Subway Id="2044" Name="Площадь 1905 года"/>
+			<Subway Id="2039" Name="Проспект Космонавтов"/>
+			<Subway Id="2040" Name="Уралмаш"/>
+			<Subway Id="2042" Name="Уральская"/>
+			<Subway Id="2131" Name="Чкаловская"/>
+		</City>
+		<City Id="653710" Name="Азанка"/>
+		<City Id="653720" Name="Алапаевск"/>
+		<City Id="653730" Name="Арамиль"/>
+		<City Id="653740" Name="Артемовский"/>
+		<City Id="653750" Name="Арти"/>
+		<City Id="653760" Name="Асбест"/>
+		<City Id="653770" Name="Атиг"/>
+		<City Id="653780" Name="Ачит"/>
+		<City Id="653790" Name="Байкалово"/>
+		<City Id="653800" Name="Баранчинский"/>
+		<City Id="653810" Name="Белоярский"/>
+		<City Id="653820" Name="Березовский"/>
+		<City Id="653830" Name="Билимбай"/>
+		<City Id="653840" Name="Бисерть"/>
+		<City Id="653850" Name="Бобровский"/>
+		<City Id="653860" Name="Богданович"/>
+		<City Id="653870" Name="Большой Исток"/>
+		<City Id="653880" Name="Буланаш"/>
+		<City Id="653890" Name="Бутка"/>
+		<City Id="653900" Name="Верхнее Дуброво"/>
+		<City Id="653910" Name="Верх-Нейвинский"/>
+		<City Id="653920" Name="Верхние Серги"/>
+		<City Id="653930" Name="Верхний Тагил"/>
+		<City Id="653940" Name="Верхняя Пышма"/>
+		<City Id="653950" Name="Верхняя Салда"/>
+		<City Id="653960" Name="Верхняя Синячиха"/>
+		<City Id="653970" Name="Верхняя Тура"/>
+		<City Id="653980" Name="Верхотурье"/>
+		<City Id="653990" Name="Волчанск"/>
+		<City Id="654000" Name="Восточный"/>
+		<City Id="654010" Name="Гари"/>
+		<City Id="654020" Name="Горноуральский"/>
+		<City Id="654030" Name="Горный Щит"/>
+		<City Id="654040" Name="Двуреченск"/>
+		<City Id="654050" Name="Дегтярск"/>
+		<City Id="654060" Name="Дружинино"/>
+		<City Id="654080" Name="Еланский"/>
+		<City Id="654793" Name="Заводоуспенское"/>
+		<City Id="654090" Name="Зайково"/>
+		<City Id="654100" Name="Заречный"/>
+		<City Id="654110" Name="Ивдель"/>
+		<City Id="654120" Name="Ирбит"/>
+		<City Id="654130" Name="Ис"/>
+		<City Id="654140" Name="Исеть"/>
+		<City Id="654150" Name="Исток"/>
+		<City Id="654160" Name="Калья"/>
+		<City Id="654170" Name="Каменск-Уральский"/>
+		<City Id="654180" Name="Камышлов"/>
+		<City Id="654190" Name="Карпинск"/>
+		<City Id="654200" Name="Качканар"/>
+		<City Id="654210" Name="Кировград"/>
+		<City Id="654220" Name="Кольцово"/>
+		<City Id="654230" Name="Красногвардейский"/>
+		<City Id="654240" Name="Краснотурьинск"/>
+		<City Id="654250" Name="Красноуральск"/>
+		<City Id="654260" Name="Красноуфимск"/>
+		<City Id="654270" Name="Кузино"/>
+		<City Id="654280" Name="Курьи"/>
+		<City Id="654290" Name="Кушва"/>
+		<City Id="654300" Name="Левиха"/>
+		<City Id="654310" Name="Лесной"/>
+		<City Id="654320" Name="Лобва"/>
+		<City Id="654330" Name="Луговской"/>
+		<City Id="654340" Name="Малышева"/>
+		<City Id="654350" Name="Мартюш"/>
+		<City Id="654360" Name="Махнево"/>
+		<City Id="654370" Name="Михайловск"/>
+		<City Id="654380" Name="Монетный"/>
+		<City Id="654390" Name="Невьянск"/>
+		<City Id="654400" Name="Нижние Серги"/>
+		<City Id="654410" Name="Нижний Тагил">
+			<District Id="251" Name="Дзержинский"/>
+			<District Id="252" Name="Ленинский"/>
+			<District Id="253" Name="Тагилстроевский"/>
+		</City>
+		<City Id="654420" Name="Нижняя Салда"/>
+		<City Id="654430" Name="Нижняя Тура"/>
+		<City Id="654440" Name="Николо-Павловское"/>
+		<City Id="654450" Name="Новая Ляля"/>
+		<City Id="654460" Name="Новоуральск"/>
+		<City Id="654470" Name="Новоуткинск"/>
+		<City Id="654480" Name="Пелым"/>
+		<City Id="654490" Name="Первоуральск"/>
+		<City Id="654500" Name="Петрокаменское"/>
+		<City Id="654510" Name="Пионерский"/>
+		<City Id="654520" Name="Покровское"/>
+		<City Id="654530" Name="Полевской"/>
+		<City Id="654540" Name="Привокзальный"/>
+		<City Id="654550" Name="Пышма"/>
+		<City Id="654560" Name="Ревда"/>
+		<City Id="654570" Name="Реж"/>
+		<City Id="654580" Name="Рефтинский"/>
+		<City Id="654590" Name="Рудничный"/>
+		<City Id="654600" Name="Садовый"/>
+		<City Id="654610" Name="Свободный"/>
+		<City Id="654620" Name="Северка"/>
+		<City Id="654630" Name="Североуральск"/>
+		<City Id="654640" Name="Серов"/>
+		<City Id="654650" Name="Совхозный"/>
+		<City Id="654660" Name="Сосьва"/>
+		<City Id="654670" Name="Среднеуральск"/>
+		<City Id="654680" Name="Староуткинск"/>
+		<City Id="654690" Name="Сухой Лог"/>
+		<City Id="654700" Name="Сысерть"/>
+		<City Id="654710" Name="Тавда"/>
+		<City Id="654720" Name="Талица"/>
+		<City Id="654730" Name="Троицкий"/>
+		<City Id="654740" Name="Тугулым"/>
+		<City Id="654750" Name="Туринск"/>
+		<City Id="654760" Name="Туринская Слобода"/>
+		<City Id="654770" Name="Уфимский"/>
+		<City Id="654780" Name="Цементный"/>
+		<City Id="654790" Name="Черемухово"/>
+		<City Id="654800" Name="Черноисточинск"/>
+		<City Id="654810" Name="Шабры"/>
+		<City Id="654820" Name="Шаля"/>
+		<City Id="654830" Name="Шамары"/>
+		<City Id="654840" Name="Щелкун"/>
+		<City Id="654850" Name="Юшала"/>
+	</Region>
+	<Region Id="649820" Name="Северная Осетия">
+		<City Id="649870" Name="Владикавказ">
+			<District Id="343" Name="Затеречный"/>
+			<District Id="344" Name="Иристонский"/>
+			<District Id="345" Name="Карца"/>
+			<District Id="346" Name="Промышленный"/>
+			<District Id="347" Name="Редант"/>
+			<District Id="348" Name="Северо-Западный"/>
+		</City>
+		<City Id="649830" Name="Алагир"/>
+		<City Id="649840" Name="Ардон"/>
+		<City Id="649850" Name="Архонская"/>
+		<City Id="649860" Name="Беслан"/>
+		<City Id="649880" Name="Гизель"/>
+		<City Id="649900" Name="Дигора"/>
+		<City Id="649910" Name="Заводской"/>
+		<City Id="649920" Name="Змейская"/>
+		<City Id="649930" Name="Ир"/>
+		<City Id="649940" Name="Камбилеевское"/>
+		<City Id="649950" Name="Карджин"/>
+		<City Id="649960" Name="Кизляр"/>
+		<City Id="649970" Name="Луковская"/>
+		<City Id="649980" Name="Майское"/>
+		<City Id="649990" Name="Михайловское"/>
+		<City Id="650000" Name="Моздок"/>
+		<City Id="650010" Name="Ногир"/>
+		<City Id="650020" Name="Октябрьское"/>
+		<City Id="650030" Name="Ольгинское"/>
+		<City Id="650040" Name="Павлодольская"/>
+		<City Id="650050" Name="Сунжа"/>
+		<City Id="650060" Name="Тарское"/>
+		<City Id="650070" Name="Терская"/>
+		<City Id="650080" Name="Троицкое"/>
+		<City Id="650090" Name="Хумалаг"/>
+		<City Id="650100" Name="Чермен"/>
+		<City Id="650110" Name="Чикола"/>
+		<City Id="650120" Name="Эльхотово"/>
+	</Region>
+	<Region Id="654860" Name="Смоленская область">
+		<City Id="655100" Name="Смоленск">
+			<District Id="205" Name="Заднепровский"/>
+			<District Id="206" Name="Ленинский"/>
+			<District Id="207" Name="Промышленный"/>
+		</City>
+		<City Id="654870" Name="Велиж"/>
+		<City Id="654880" Name="Верхнеднепровский"/>
+		<City Id="654890" Name="Вязьма"/>
+		<City Id="654900" Name="Гагарин"/>
+		<City Id="654910" Name="Голынки"/>
+		<City Id="654920" Name="Городок"/>
+		<City Id="654930" Name="Гусино"/>
+		<City Id="654940" Name="Демидов"/>
+		<City Id="654950" Name="Десногорск"/>
+		<City Id="654960" Name="Дорогобуж"/>
+		<City Id="654970" Name="Духовщина"/>
+		<City Id="654980" Name="Ельня"/>
+		<City Id="654990" Name="Ершичи"/>
+		<City Id="655000" Name="Кардымово"/>
+		<City Id="655010" Name="Красный"/>
+		<City Id="655020" Name="Монастырщина"/>
+		<City Id="655030" Name="Новодугино"/>
+		<City Id="655040" Name="Озерный"/>
+		<City Id="655050" Name="Печерск"/>
+		<City Id="655060" Name="Починок"/>
+		<City Id="655070" Name="Рославль"/>
+		<City Id="655080" Name="Рудня"/>
+		<City Id="655090" Name="Сафоново"/>
+		<City Id="655110" Name="Стодолище"/>
+		<City Id="655120" Name="Сычевка"/>
+		<City Id="655130" Name="Угра"/>
+		<City Id="655140" Name="Хиславичи"/>
+		<City Id="655150" Name="Холм-Жирковский"/>
+		<City Id="655160" Name="Шаталово"/>
+		<City Id="655170" Name="Шумячи"/>
+		<City Id="655180" Name="Ярцево"/>
+	</Region>
+	<Region Id="655190" Name="Ставропольский край">
+		<City Id="656350" Name="Ставрополь">
+			<District Id="289" Name="Ленинский"/>
+			<District Id="290" Name="Октябрьский"/>
+			<District Id="291" Name="Промышленный"/>
+		</City>
+		<City Id="655200" Name="Александрийская"/>
+		<City Id="655210" Name="Александрия"/>
+		<City Id="655220" Name="Александровское"/>
+		<City Id="655230" Name="Анджиевский"/>
+		<City Id="655240" Name="Арзгир"/>
+		<City Id="655250" Name="Архангельское"/>
+		<City Id="655260" Name="Ачикулак"/>
+		<City Id="655270" Name="Балахоновское"/>
+		<City Id="655280" Name="Барсуковская"/>
+		<City Id="655290" Name="Безопасное"/>
+		<City Id="655300" Name="Бекешевская"/>
+		<City Id="655310" Name="Бешпагир"/>
+		<City Id="655320" Name="Благодарный"/>
+		<City Id="655330" Name="Благодатное"/>
+		<City Id="655340" Name="Большая Джалга"/>
+		<City Id="655350" Name="Боргустанская"/>
+		<City Id="655360" Name="Будённовск"/>
+		<City Id="655370" Name="Бурлацкое"/>
+		<City Id="655380" Name="Величаевское"/>
+		<City Id="655390" Name="Верхнерусское"/>
+		<City Id="655400" Name="Винсады"/>
+		<City Id="655410" Name="Высоцкое"/>
+		<City Id="655420" Name="Галюгаевская"/>
+		<City Id="655430" Name="Георгиевск"/>
+		<City Id="655440" Name="Георгиевская"/>
+		<City Id="655450" Name="Горячеводский"/>
+		<City Id="655460" Name="Гофицкое"/>
+		<City Id="655470" Name="Гражданское"/>
+		<City Id="655480" Name="Грачевка"/>
+		<City Id="655490" Name="Григорополисская"/>
+		<City Id="655500" Name="Дёмино"/>
+		<City Id="655510" Name="Дивное"/>
+		<City Id="655520" Name="Дмитриевское"/>
+		<City Id="655530" Name="Донское"/>
+		<City Id="655540" Name="Елизаветинское"/>
+		<City Id="655550" Name="Ессентуки"/>
+		<City Id="655560" Name="Ессентукская"/>
+		<City Id="655570" Name="Железноводск"/>
+		<City Id="655580" Name="Заветное"/>
+		<City Id="655590" Name="Затеречный"/>
+		<City Id="655600" Name="Зеленокумск"/>
+		<City Id="655610" Name="Зольская"/>
+		<City Id="655620" Name="Ивановское"/>
+		<City Id="655630" Name="Изобильный"/>
+		<City Id="655640" Name="Иноземцево кп"/>
+		<City Id="655650" Name="Ипатово"/>
+		<City Id="655660" Name="Иргаклы"/>
+		<City Id="655670" Name="Казьминское"/>
+		<City Id="655680" Name="Канглы"/>
+		<City Id="655690" Name="Кара-Тюбе"/>
+		<City Id="655700" Name="Каясула"/>
+		<City Id="655710" Name="Кевсала"/>
+		<City Id="655720" Name="Кисловодск"/>
+		<City Id="655730" Name="Комсомолец"/>
+		<City Id="655740" Name="Константиновская"/>
+		<City Id="655750" Name="Константиновское"/>
+		<City Id="655760" Name="Кочубеевское"/>
+		<City Id="655770" Name="Красногвардейское"/>
+		<City Id="655780" Name="Краснокумское"/>
+		<City Id="655790" Name="Круглолесское"/>
+		<City Id="655800" Name="Кугульта"/>
+		<City Id="655810" Name="Курсавка"/>
+		<City Id="655820" Name="Курская"/>
+		<City Id="655830" Name="Ладовская Балка"/>
+		<City Id="655840" Name="Левокумка"/>
+		<City Id="655850" Name="Левокумское"/>
+		<City Id="655860" Name="Лермонтов"/>
+		<City Id="655870" Name="Летняя Ставка"/>
+		<City Id="655880" Name="Лысогорская"/>
+		<City Id="655890" Name="Марьинская"/>
+		<City Id="655900" Name="Минеральные Воды"/>
+		<City Id="655910" Name="Михайловск"/>
+		<City Id="655920" Name="Московское"/>
+		<City Id="655930" Name="Нагутское"/>
+		<City Id="655940" Name="Надежда"/>
+		<City Id="655950" Name="Невинномысск">
+			<District Id="312" Name="Головное"/>
+			<District Id="313" Name="Дом быта"/>
+			<District Id="314" Name="ЗИП"/>
+			<District Id="315" Name="Комета"/>
+			<District Id="316" Name="Красная деревня"/>
+			<District Id="317" Name="Мельница"/>
+			<District Id="318" Name="МЖК"/>
+			<District Id="319" Name="Низки"/>
+			<District Id="320" Name="Правокубанский"/>
+			<District Id="321" Name="ПРП"/>
+			<District Id="322" Name="Рождественское"/>
+			<District Id="323" Name="Старый город"/>
+			<District Id="324" Name="Фабрика"/>
+			<District Id="325" Name="Центр"/>
+		</City>
+		<City Id="655960" Name="Нежинский"/>
+		<City Id="655970" Name="Незлобная"/>
+		<City Id="655980" Name="Нефтекумск"/>
+		<City Id="655990" Name="Нины"/>
+		<City Id="656000" Name="Новоалександровск"/>
+		<City Id="656010" Name="Новоблагодарное"/>
+		<City Id="656020" Name="Новозаведенное"/>
+		<City Id="656030" Name="Новопавловск"/>
+		<City Id="656040" Name="Новоселицкое"/>
+		<City Id="656050" Name="Новотроицкая"/>
+		<City Id="656060" Name="Обильное"/>
+		<City Id="656070" Name="Октябрьское"/>
+		<City Id="656080" Name="Орловка"/>
+		<City Id="656090" Name="Отказное"/>
+		<City Id="656100" Name="Пелагиада"/>
+		<City Id="656110" Name="Первомайский"/>
+		<City Id="656120" Name="Подгорная"/>
+		<City Id="656130" Name="Подкумок"/>
+		<City Id="656140" Name="Покойное"/>
+		<City Id="656150" Name="Правокумское"/>
+		<City Id="656160" Name="Прасковея"/>
+		<City Id="656170" Name="Преградное"/>
+		<City Id="656180" Name="Привольное"/>
+		<City Id="656190" Name="Птичье"/>
+		<City Id="656200" Name="Пятигорск"/>
+		<City Id="656210" Name="Пятигорский"/>
+		<City Id="656220" Name="Расшеватская"/>
+		<City Id="656230" Name="Русское"/>
+		<City Id="656240" Name="Рыздвяный"/>
+		<City Id="656250" Name="Светлоград"/>
+		<City Id="656260" Name="Свободы"/>
+		<City Id="656270" Name="Северное"/>
+		<City Id="656280" Name="Советская"/>
+		<City Id="656290" Name="Солдато-Александровское"/>
+		<City Id="656300" Name="Солнечнодольск"/>
+		<City Id="656310" Name="Соломенское"/>
+		<City Id="656320" Name="Солуно-Дмитриевское"/>
+		<City Id="656330" Name="Сотниковское"/>
+		<City Id="656340" Name="Спицевка"/>
+		<City Id="656360" Name="Стародубское"/>
+		<City Id="656370" Name="Старомарьевка"/>
+		<City Id="656380" Name="Старопавловская"/>
+		<City Id="656390" Name="Степное"/>
+		<City Id="656400" Name="Суворовская"/>
+		<City Id="656410" Name="Сухая Буйвола"/>
+		<City Id="656420" Name="Татарка"/>
+		<City Id="656430" Name="Темижбекский"/>
+		<City Id="656440" Name="Тищенское"/>
+		<City Id="656450" Name="Труновское"/>
+		<City Id="656460" Name="Урожайное"/>
+		<City Id="656470" Name="Чернолесское"/>
+		<City Id="656480" Name="Эдиссия"/>
+		<City Id="656490" Name="Этока"/>
+		<City Id="656500" Name="Юца"/>
+		<City Id="656510" Name="Ясная Поляна"/>
+	</Region>
+	<Region Id="656520" Name="Тамбовская область">
+		<City Id="656830" Name="Тамбов">
+			<District Id="459" Name="Ленинский"/>
+			<District Id="460" Name="Октябрьский"/>
+			<District Id="461" Name="Советский"/>
+		</City>
+		<City Id="656530" Name="Бокино"/>
+		<City Id="656540" Name="Бондари"/>
+		<City Id="656550" Name="Горелое"/>
+		<City Id="656560" Name="Дмитриевка"/>
+		<City Id="656570" Name="Донское"/>
+		<City Id="656580" Name="Жердевка"/>
+		<City Id="656590" Name="Заворонежское"/>
+		<City Id="656600" Name="Знаменка"/>
+		<City Id="656610" Name="Инжавино"/>
+		<City Id="656620" Name="Кирсанов"/>
+		<City Id="656750" Name="Комсомолец"/>
+		<City Id="656630" Name="Котовск"/>
+		<City Id="656640" Name="Красненькая"/>
+		<City Id="656650" Name="Мичуринск"/>
+		<City Id="656660" Name="Мордово"/>
+		<City Id="656670" Name="Моршанск"/>
+		<City Id="656680" Name="Мучкапский"/>
+		<City Id="656690" Name="Новая Ляда"/>
+		<City Id="656700" Name="Первомайский"/>
+		<City Id="656710" Name="Петровское"/>
+		<City Id="656720" Name="Пичаево"/>
+		<City Id="656730" Name="Платоновка"/>
+		<City Id="656740" Name="Покрово-Пригородное"/>
+		<City Id="656760" Name="Рассказово"/>
+		<City Id="656770" Name="Ржакса"/>
+		<City Id="656780" Name="Сатинка"/>
+		<City Id="656790" Name="Совхоз Селезнёвский"/>
+		<City Id="656800" Name="Сосновка"/>
+		<City Id="656810" Name="Староюрьево"/>
+		<City Id="656820" Name="Строитель"/>
+		<City Id="656840" Name="Токаревка"/>
+		<City Id="656850" Name="Уварово"/>
+		<City Id="656860" Name="Умет"/>
+		<City Id="656870" Name="Устье"/>
+	</Region>
+	<Region Id="650130" Name="Татарстан">
+		<City Id="650400" Name="Казань">
+			<DirectionRoad Id="71" Name="Горьковское шоссе"/>
+			<DirectionRoad Id="72" Name="Мамадышский тракт"/>
+			<DirectionRoad Id="73" Name="Оренбургский тракт"/>
+			<Subway Id="2139" Name="Авиастроительная"/>
+			<Subway Id="2049" Name="Аметьево"/>
+			<Subway Id="2050" Name="Горки"/>
+			<Subway Id="2123" Name="Козья Слобода"/>
+			<Subway Id="2046" Name="Кремлёвская"/>
+			<Subway Id="2047" Name="Площадь Тукая"/>
+			<Subway Id="2051" Name="Проспект Победы"/>
+			<Subway Id="2140" Name="Северный вокзал"/>
+			<Subway Id="2048" Name="Суконная слобода"/>
+			<Subway Id="2141" Name="Яшьлек"/>
+		</City>
+		<City Id="650140" Name="Агрыз"/>
+		<City Id="650150" Name="Азнакаево"/>
+		<City Id="650160" Name="Айша"/>
+		<City Id="650170" Name="Аксубаево"/>
+		<City Id="650180" Name="Актаныш"/>
+		<City Id="650190" Name="Актюбинский"/>
+		<City Id="650200" Name="Алексеевское"/>
+		<City Id="650210" Name="Альметьевск"/>
+		<City Id="650220" Name="Апастово"/>
+		<City Id="650230" Name="Арск"/>
+		<City Id="650240" Name="Бавлы"/>
+		<City Id="650250" Name="Базарные Матаки"/>
+		<City Id="650260" Name="Балтаси"/>
+		<City Id="650270" Name="Бетьки"/>
+		<City Id="650280" Name="Богатые Сабы"/>
+		<City Id="650290" Name="Болгар"/>
+		<City Id="650300" Name="Большая Атня"/>
+		<City Id="650310" Name="Бугульма"/>
+		<City Id="650320" Name="Буинск"/>
+		<City Id="650330" Name="Васильево"/>
+		<City Id="650340" Name="Верхний Услон"/>
+		<City Id="650350" Name="Высокая Гора"/>
+		<City Id="650360" Name="Джалиль"/>
+		<City Id="650370" Name="Елабуга"/>
+		<City Id="650380" Name="Заинск"/>
+		<City Id="650390" Name="Зеленодольск"/>
+		<City Id="650410" Name="Камские Поляны"/>
+		<City Id="650420" Name="Камское Устье"/>
+		<City Id="650430" Name="Карабаш"/>
+		<City Id="650440" Name="Кукмор"/>
+		<City Id="650450" Name="Лаишево"/>
+		<City Id="650460" Name="Лениногорск"/>
+		<City Id="650470" Name="Мамадыш"/>
+		<City Id="650480" Name="Менделеевск"/>
+		<City Id="650490" Name="Мензелинск"/>
+		<City Id="650500" Name="Муслюмово"/>
+		<City Id="650510" Name="Набережные Челны">
+			<District Id="363" Name="Автозаводский"/>
+			<District Id="364" Name="Комсомольский"/>
+			<District Id="365" Name="Центральный"/>
+		</City>
+		<City Id="650520" Name="Нижнекамск"/>
+		<City Id="650530" Name="Нижние Вязовые"/>
+		<City Id="650540" Name="Нижняя Мактама"/>
+		<City Id="650550" Name="Новошешминск"/>
+		<City Id="650560" Name="Нурлат"/>
+		<City Id="650570" Name="Осиново"/>
+		<City Id="650580" Name="Пестрецы"/>
+		<City Id="650590" Name="Русский Акташ"/>
+		<City Id="650600" Name="Рыбная Слобода"/>
+		<City Id="650610" Name="Сарманово"/>
+		<City Id="650620" Name="Старое Дрожжаное"/>
+		<City Id="650630" Name="Столбищи"/>
+		<City Id="650640" Name="Тетюши"/>
+		<City Id="650650" Name="Уруссу"/>
+		<City Id="650660" Name="Черемшан"/>
+		<City Id="650670" Name="Чистополь"/>
+		<City Id="650680" Name="Шемордан"/>
+	</Region>
+	<Region Id="656890" Name="Тверская область">
+		<City Id="656901" Name="Тверь">
+			<District Id="308" Name="Заволжский"/>
+			<District Id="309" Name="Московский"/>
+			<District Id="310" Name="Пролетарский"/>
+			<District Id="311" Name="Центральный"/>
+		</City>
+		<City Id="656900" Name="Андреаполь"/>
+		<City Id="656910" Name="Бежецк"/>
+		<City Id="656920" Name="Белый"/>
+		<City Id="656930" Name="Бологое"/>
+		<City Id="656940" Name="Весьегонск"/>
+		<City Id="656950" Name="Вышний Волочек"/>
+		<City Id="656960" Name="Жарковский"/>
+		<City Id="656970" Name="Западная Двина"/>
+		<City Id="656980" Name="Зубцов"/>
+		<City Id="656990" Name="Калашниково"/>
+		<City Id="657000" Name="Калязин"/>
+		<City Id="657010" Name="Кашин"/>
+		<City Id="657020" Name="Кесова Гора"/>
+		<City Id="657030" Name="Кимры"/>
+		<City Id="657040" Name="Козлово"/>
+		<City Id="657050" Name="Конаково"/>
+		<City Id="657060" Name="Красномайский"/>
+		<City Id="657070" Name="Красный Холм"/>
+		<City Id="657080" Name="Кувшиново"/>
+		<City Id="657090" Name="Куженкино"/>
+		<City Id="657100" Name="Лихославль"/>
+		<City Id="657110" Name="Максатиха"/>
+		<City Id="657120" Name="Нелидово"/>
+		<City Id="657130" Name="Новозавидовский"/>
+		<City Id="657140" Name="Озерный"/>
+		<City Id="657150" Name="Оленино"/>
+		<City Id="657160" Name="Осташков"/>
+		<City Id="657170" Name="Пено"/>
+		<City Id="657180" Name="Рамешки"/>
+		<City Id="657190" Name="Редкино"/>
+		<City Id="657200" Name="Ржев"/>
+		<City Id="657210" Name="Сандово"/>
+		<City Id="657230" Name="Селижарово"/>
+		<City Id="657240" Name="Сонково"/>
+		<City Id="657250" Name="Спирово"/>
+		<City Id="657260" Name="Старица"/>
+		<City Id="657270" Name="Торжок"/>
+		<City Id="657280" Name="Торопец"/>
+		<City Id="657290" Name="Удомля"/>
+		<City Id="657300" Name="Эммаусс"/>
+	</Region>
+	<Region Id="657310" Name="Томская область">
+		<City Id="657600" Name="Томск">
+			<District Id="370" Name="Кировский"/>
+			<District Id="371" Name="Ленинский"/>
+			<District Id="372" Name="Октябрьский"/>
+			<District Id="373" Name="Советский"/>
+		</City>
+		<City Id="657320" Name="Александровское"/>
+		<City Id="657330" Name="Асино"/>
+		<City Id="657340" Name="Бакчар"/>
+		<City Id="657350" Name="Белый Яр"/>
+		<City Id="657360" Name="Богашево"/>
+		<City Id="657370" Name="Зональная Станция"/>
+		<City Id="657380" Name="Зырянское"/>
+		<City Id="657390" Name="Каргасок"/>
+		<City Id="657400" Name="Кедровый"/>
+		<City Id="657410" Name="Кожевниково"/>
+		<City Id="657420" Name="Колпашево"/>
+		<City Id="657430" Name="Красный Яр"/>
+		<City Id="657440" Name="Кривошеино"/>
+		<City Id="657450" Name="Лоскутово"/>
+		<City Id="657460" Name="Мельниково"/>
+		<City Id="657470" Name="Могочино"/>
+		<City Id="657480" Name="Молчаново"/>
+		<City Id="657490" Name="Моряковский Затон"/>
+		<City Id="657500" Name="Парабель"/>
+		<City Id="657510" Name="Первомайское"/>
+		<City Id="657520" Name="Подгорное"/>
+		<City Id="657530" Name="Самусь"/>
+		<City Id="657540" Name="Светлый"/>
+		<City Id="657550" Name="Северск"/>
+		<City Id="657560" Name="Стрежевой"/>
+		<City Id="657570" Name="Тегульдет"/>
+		<City Id="657590" Name="Тогур"/>
+	</Region>
+	<Region Id="657610" Name="Тульская область">
+		<City Id="658080" Name="Тула">
+			<District Id="281" Name="Зареченский"/>
+			<District Id="282" Name="Привокзальный"/>
+			<District Id="283" Name="Пролетарский"/>
+			<District Id="284" Name="Советский"/>
+			<District Id="285" Name="Центральный"/>
+		</City>
+		<City Id="657620" Name="Агеево"/>
+		<City Id="657630" Name="Алексин"/>
+		<City Id="657640" Name="Арсеньево"/>
+		<City Id="657650" Name="Барсуки"/>
+		<City Id="657660" Name="Белев"/>
+		<City Id="657670" Name="Богородицк"/>
+		<City Id="657680" Name="Болохово"/>
+		<City Id="657690" Name="Бородинский"/>
+		<City Id="657700" Name="Брусянский"/>
+		<City Id="657710" Name="Венев"/>
+		<City Id="657720" Name="Волово"/>
+		<City Id="657740" Name="Грицовский"/>
+		<City Id="657750" Name="Донской"/>
+		<City Id="657760" Name="Дубна"/>
+		<City Id="657770" Name="Дубовка"/>
+		<City Id="657780" Name="Ефремов"/>
+		<City Id="657800" Name="Заокский"/>
+		<City Id="657810" Name="Кимовск"/>
+		<City Id="657820" Name="Киреевск"/>
+		<City Id="657840" Name="Куркино"/>
+		<City Id="657850" Name="Ленинский"/>
+		<City Id="657860" Name="Липки"/>
+		<City Id="657870" Name="Ломинцевский"/>
+		<City Id="657890" Name="Новогуровский"/>
+		<City Id="657900" Name="Новомосковск"/>
+		<City Id="657920" Name="Огаревка"/>
+		<City Id="657930" Name="Одоев"/>
+		<City Id="657940" Name="Октябрьский"/>
+		<City Id="657950" Name="Первомайский"/>
+		<City Id="657960" Name="Плавск"/>
+		<City Id="657970" Name="Плеханово"/>
+		<City Id="657980" Name="Приупский"/>
+		<City Id="657990" Name="Рассвет"/>
+		<City Id="658000" Name="Ревякино"/>
+		<City Id="658010" Name="Северо-Задонск"/>
+		<City Id="658030" Name="Советск"/>
+		<City Id="658040" Name="Сокольники"/>
+		<City Id="658050" Name="Суворов"/>
+		<City Id="658060" Name="Теплое"/>
+		<City Id="658070" Name="Товарковский"/>
+		<City Id="658090" Name="Узловая"/>
+		<City Id="658100" Name="Хрущево"/>
+		<City Id="658110" Name="Чекалин"/>
+		<City Id="658120" Name="Чернь"/>
+		<City Id="658140" Name="Шварцевский"/>
+		<City Id="658150" Name="Щекино"/>
+		<City Id="658160" Name="Ясногорск"/>
+	</Region>
+	<Region Id="650690" Name="Тыва">
+		<City Id="650740" Name="Кызыл"/>
+		<City Id="650700" Name="Ак-Довурак"/>
+		<City Id="650710" Name="Бай-Хаак"/>
+		<City Id="650720" Name="Балгазын"/>
+		<City Id="650730" Name="Каа-Хем"/>
+		<City Id="650750" Name="Кызыл-Мажалык"/>
+		<City Id="650760" Name="Мугур-Аксы"/>
+		<City Id="650770" Name="Самагалтай"/>
+		<City Id="650780" Name="Сарыг-Сеп"/>
+		<City Id="650790" Name="Суг-Аксы"/>
+		<City Id="650800" Name="Сукпак"/>
+		<City Id="650810" Name="Туран"/>
+		<City Id="650820" Name="Тээли"/>
+		<City Id="650830" Name="Хандагайты"/>
+		<City Id="650840" Name="Хову-Аксы"/>
+		<City Id="650850" Name="Чаа-Холь"/>
+		<City Id="650860" Name="Чадан"/>
+		<City Id="650870" Name="Шагонар"/>
+		<City Id="650880" Name="Эрзин"/>
+	</Region>
+	<Region Id="658170" Name="Тюменская область">
+		<City Id="659020" Name="Тюмень">
+			<District Id="158" Name="Восточный"/>
+			<District Id="159" Name="Калининский"/>
+			<District Id="160" Name="Ленинский"/>
+			<District Id="161" Name="Центральный"/>
+		</City>
+		<City Id="658180" Name="Абатское"/>
+		<City Id="658190" Name="Антипино"/>
+		<City Id="658200" Name="Армизонское"/>
+		<City Id="658210" Name="Аромашево"/>
+		<City Id="658250" Name="Бердюжье"/>
+		<City Id="658270" Name="Богандинский"/>
+		<City Id="658280" Name="Большое Сорокино"/>
+		<City Id="658290" Name="Боровский"/>
+		<City Id="658300" Name="Вагай"/>
+		<City Id="658310" Name="Викулово"/>
+		<City Id="658320" Name="Винзили"/>
+		<City Id="658350" Name="Голышманово"/>
+		<City Id="658380" Name="Заводоуковск"/>
+		<City Id="658410" Name="Иртышский"/>
+		<City Id="658420" Name="Исетское"/>
+		<City Id="658430" Name="Ишим"/>
+		<City Id="658440" Name="Казанское"/>
+		<City Id="658450" Name="Каскара"/>
+		<City Id="658540" Name="Матмасы"/>
+		<City Id="658570" Name="Мелиораторов"/>
+		<City Id="658580" Name="Менделеево"/>
+		<City Id="658600" Name="Московский"/>
+		<City Id="658680" Name="Нижняя Тавда"/>
+		<City Id="658690" Name="Новая Заимка"/>
+		<City Id="658710" Name="Новоселезнево"/>
+		<City Id="658760" Name="Омутинское"/>
+		<City Id="658770" Name="Онохино"/>
+		<City Id="658790" Name="Парфеновский"/>
+		<City Id="658900" Name="Сладково"/>
+		<City Id="658940" Name="Сумкино"/>
+		<City Id="658990" Name="Тарманы"/>
+		<City Id="659000" Name="Тобольск"/>
+		<City Id="659010" Name="Туртас"/>
+		<City Id="659030" Name="Уват"/>
+		<City Id="659050" Name="Упорово"/>
+		<City Id="659080" Name="Успенка"/>
+		<City Id="659130" Name="Червишево"/>
+		<City Id="659160" Name="Юргинское"/>
+		<City Id="659170" Name="Ялуторовск"/>
+		<City Id="659180" Name="Ярково"/>
+	</Region>
+	<Region Id="659200" Name="Удмуртия">
+		<City Id="659300" Name="Ижевск">
+			<District Id="162" Name="Индустриальный"/>
+			<District Id="163" Name="Ленинский"/>
+			<District Id="164" Name="Октябрьский"/>
+			<District Id="165" Name="Первомайский"/>
+			<District Id="166" Name="Устиновский"/>
+		</City>
+		<City Id="659210" Name="Алнаши"/>
+		<City Id="659220" Name="Балезино"/>
+		<City Id="659230" Name="Вавож"/>
+		<City Id="659240" Name="Воткинск"/>
+		<City Id="659250" Name="Глазов"/>
+		<City Id="659260" Name="Грахово"/>
+		<City Id="659270" Name="Дебёсы"/>
+		<City Id="659280" Name="Завьялово"/>
+		<City Id="659290" Name="Игра"/>
+		<City Id="659310" Name="Кама"/>
+		<City Id="659320" Name="Камбарка"/>
+		<City Id="659330" Name="Каракулино"/>
+		<City Id="659340" Name="Кез"/>
+		<City Id="659350" Name="Кизнер"/>
+		<City Id="659360" Name="Кильмезь"/>
+		<City Id="659370" Name="Киясово"/>
+		<City Id="659380" Name="Красногорское"/>
+		<City Id="659390" Name="Малая Пурга"/>
+		<City Id="659400" Name="Можга"/>
+		<City Id="659410" Name="Новый"/>
+		<City Id="659420" Name="Пирогово"/>
+		<City Id="659430" Name="Пычас"/>
+		<City Id="659440" Name="Сарапул"/>
+		<City Id="659450" Name="Селты"/>
+		<City Id="659460" Name="Сигаево"/>
+		<City Id="659470" Name="Сюмси"/>
+		<City Id="659480" Name="Ува"/>
+		<City Id="659490" Name="Хохряки"/>
+		<City Id="659500" Name="Шаркан"/>
+		<City Id="659510" Name="Юкаменское"/>
+		<City Id="659520" Name="Якшур-Бодья"/>
+		<City Id="659530" Name="Яр"/>
+	</Region>
+	<Region Id="659540" Name="Ульяновская область">
+		<City Id="659880" Name="Ульяновск">
+			<District Id="388" Name="Железнодорожный"/>
+			<District Id="386" Name="Заволжский"/>
+			<District Id="387" Name="Засвияжский"/>
+			<District Id="389" Name="Ленинский"/>
+		</City>
+		<City Id="659550" Name="Базарный Сызган"/>
+		<City Id="659560" Name="Барыш"/>
+		<City Id="659570" Name="Большие Ключищи"/>
+		<City Id="659580" Name="Большое Нагаткино"/>
+		<City Id="659590" Name="Вешкайма"/>
+		<City Id="659600" Name="Глотовка"/>
+		<City Id="659610" Name="Димитровград"/>
+		<City Id="659620" Name="Измайлово"/>
+		<City Id="659630" Name="Инза"/>
+		<City Id="659640" Name="Ишеевка"/>
+		<City Id="659650" Name="Карсун"/>
+		<City Id="659660" Name="Красный Гуляй"/>
+		<City Id="659670" Name="Кузоватово"/>
+		<City Id="659680" Name="Майна"/>
+		<City Id="659690" Name="Мирный"/>
+		<City Id="659700" Name="Мулловка"/>
+		<City Id="659710" Name="Николаевка"/>
+		<City Id="659720" Name="Новая Майна"/>
+		<City Id="659730" Name="Новая Малыкла"/>
+		<City Id="659740" Name="Новоселки"/>
+		<City Id="659750" Name="Новоспасское"/>
+		<City Id="659760" Name="Новоульяновск"/>
+		<City Id="659770" Name="Новочеремшанск"/>
+		<City Id="659780" Name="Октябрьский"/>
+		<City Id="659790" Name="Павловка"/>
+		<City Id="659800" Name="Радищево"/>
+		<City Id="659810" Name="Сенгилей"/>
+		<City Id="659830" Name="Старая Кулатка"/>
+		<City Id="659840" Name="Старая Майна"/>
+		<City Id="659850" Name="Старотимошкино"/>
+		<City Id="659860" Name="Сурское"/>
+		<City Id="659870" Name="Тереньга"/>
+		<City Id="659890" Name="Ундоры"/>
+		<City Id="659900" Name="Цильна"/>
+		<City Id="659910" Name="Чердаклы"/>
+		<City Id="659920" Name="Языково"/>
+	</Region>
+	<Region Id="659930" Name="Хабаровский край">
+		<City Id="660250" Name="Хабаровск">
+			<District Id="196" Name="Железнодорожный"/>
+			<District Id="197" Name="Индустриальный"/>
+			<District Id="198" Name="Кировский"/>
+			<District Id="199" Name="Краснофлотский"/>
+			<District Id="200" Name="Центральный"/>
+		</City>
+		<City Id="659940" Name="Амурск"/>
+		<City Id="659950" Name="Березовый"/>
+		<City Id="659960" Name="Бикин"/>
+		<City Id="659970" Name="Богородское"/>
+		<City Id="659980" Name="Ванино"/>
+		<City Id="659990" Name="Восточное"/>
+		<City Id="660000" Name="Высокогорный"/>
+		<City Id="660010" Name="Вяземский"/>
+		<City Id="660020" Name="Горин"/>
+		<City Id="660030" Name="Де-Кастри"/>
+		<City Id="660040" Name="Заветы Ильича"/>
+		<City Id="660050" Name="Князе-Волконское"/>
+		<City Id="660060" Name="Комсомольск-на-Амуре"/>
+		<City Id="660070" Name="Корфовский"/>
+		<City Id="660080" Name="Лермонтовка"/>
+		<City Id="660090" Name="Лососина"/>
+		<City Id="660110" Name="Монгохто"/>
+		<City Id="660120" Name="Мухен"/>
+		<City Id="660130" Name="Некрасовка"/>
+		<City Id="660140" Name="Николаевск-на-Амуре"/>
+		<City Id="660150" Name="Новый Ургал"/>
+		<City Id="660160" Name="Октябрьский"/>
+		<City Id="660170" Name="Охотск"/>
+		<City Id="660180" Name="Переяславка"/>
+		<City Id="660190" Name="Селихино"/>
+		<City Id="660200" Name="Советская Гавань"/>
+		<City Id="660210" Name="Солнечный"/>
+		<City Id="660220" Name="Таежное"/>
+		<City Id="660240" Name="Троицкое"/>
+		<City Id="660260" Name="Хор"/>
+		<City Id="660270" Name="Хурба"/>
+		<City Id="660280" Name="Чегдомын"/>
+		<City Id="660290" Name="Эльбан"/>
+	</Region>
+	<Region Id="650890" Name="Хакасия">
+		<City Id="650910" Name="Абакан"/>
+		<City Id="650900" Name="Абаза"/>
+		<City Id="650930" Name="Аскиз"/>
+		<City Id="650940" Name="Белый Яр"/>
+		<City Id="650950" Name="Бельтирское"/>
+		<City Id="650960" Name="Бея"/>
+		<City Id="650970" Name="Боград"/>
+		<City Id="650980" Name="Вершина Теи"/>
+		<City Id="650990" Name="Копьево"/>
+		<City Id="651000" Name="Майна"/>
+		<City Id="651010" Name="Подсинее"/>
+		<City Id="651020" Name="Пригорск"/>
+		<City Id="651030" Name="Саяногорск"/>
+		<City Id="651040" Name="Сорск"/>
+		<City Id="651050" Name="Таштып"/>
+		<City Id="651060" Name="Туим"/>
+		<City Id="651070" Name="Усть-Абакан"/>
+		<City Id="651080" Name="Черемушки"/>
+		<City Id="651090" Name="Черногорск"/>
+		<City Id="651100" Name="Шира"/>
+	</Region>
+	<Region Id="660300" Name="Ханты-Мансийский АО">
+		<City Id="660680" Name="Ханты-Мансийск"/>
+		<City Id="660310" Name="Барсово"/>
+		<City Id="660320" Name="Белоярский"/>
+		<City Id="660330" Name="Белый Яр"/>
+		<City Id="660340" Name="Березово"/>
+		<City Id="660350" Name="Высокий"/>
+		<City Id="660360" Name="Горноправдинск"/>
+		<City Id="660370" Name="Игрим"/>
+		<City Id="660380" Name="Излучинск"/>
+		<City Id="660390" Name="Когалым"/>
+		<City Id="660400" Name="Кондинское"/>
+		<City Id="660410" Name="Лангепас"/>
+		<City Id="660420" Name="Локосово"/>
+		<City Id="660430" Name="Лянтор"/>
+		<City Id="660440" Name="Мегион"/>
+		<City Id="660450" Name="Междуреченский"/>
+		<City Id="660460" Name="Мортка"/>
+		<City Id="660470" Name="Нефтеюганск"/>
+		<City Id="660480" Name="Нижневартовск"/>
+		<City Id="660490" Name="Нижнесортымский"/>
+		<City Id="660500" Name="Новоаганск"/>
+		<City Id="660510" Name="Нягань"/>
+		<City Id="660520" Name="Октябрьское"/>
+		<City Id="660530" Name="Пионерский"/>
+		<City Id="660540" Name="Пойковский"/>
+		<City Id="660550" Name="Покачи"/>
+		<City Id="660560" Name="Приобье"/>
+		<City Id="660570" Name="Пыть-Ях"/>
+		<City Id="660580" Name="Радужный"/>
+		<City Id="660590" Name="Салым"/>
+		<City Id="660600" Name="Сентябрьский"/>
+		<City Id="660610" Name="Советский"/>
+		<City Id="660620" Name="Солнечный"/>
+		<City Id="660630" Name="Сургут">
+			<District Id="212" Name="Восточный"/>
+			<District Id="213" Name="Северный жилой"/>
+			<District Id="214" Name="Северный промышленный"/>
+			<District Id="215" Name="Северо-восточный жилой"/>
+			<District Id="216" Name="Центральный"/>
+		</City>
+		<City Id="660640" Name="Талинка"/>
+		<City Id="660650" Name="Унъюган"/>
+		<City Id="660660" Name="Урай"/>
+		<City Id="660670" Name="Федоровский"/>
+		<City Id="660700" Name="Югорск"/>
+	</Region>
+	<Region Id="660710" Name="Челябинская область">
+		<City Id="661420" Name="Челябинск">
+			<DirectionRoad Id="83" Name="Курганское шоссе"/>
+			<DirectionRoad Id="82" Name="Свердловский тракт"/>
+			<DirectionRoad Id="84" Name="Троицкий тракт"/>
+			<DirectionRoad Id="85" Name="Уфимский тракт"/>
+			<District Id="10" Name="Калининский"/>
+			<District Id="11" Name="Курчатовский"/>
+			<District Id="12" Name="Ленинский"/>
+			<District Id="13" Name="Металлургический"/>
+			<District Id="14" Name="Советский"/>
+			<District Id="15" Name="Тракторозаводский"/>
+			<District Id="16" Name="Центральный"/>
+		</City>
+		<City Id="660720" Name="Агаповка"/>
+		<City Id="660730" Name="Аргаяш"/>
+		<City Id="660740" Name="Аша"/>
+		<City Id="660760" Name="Бакал"/>
+		<City Id="660770" Name="Бердяуш"/>
+		<City Id="660780" Name="Бобровка"/>
+		<City Id="660790" Name="Бреды"/>
+		<City Id="660800" Name="Бродокалмак"/>
+		<City Id="660810" Name="Варна"/>
+		<City Id="660830" Name="Верхнеуральск"/>
+		<City Id="660840" Name="Верхний Уфалей"/>
+		<City Id="660850" Name="Вишневогорск"/>
+		<City Id="660870" Name="Долгодеревенское"/>
+		<City Id="660880" Name="Еманжелинка"/>
+		<City Id="660890" Name="Еманжелинск"/>
+		<City Id="660900" Name="Еткуль"/>
+		<City Id="660920" Name="Зауральский"/>
+		<City Id="660930" Name="Златоуст"/>
+		<City Id="660940" Name="Канашево"/>
+		<City Id="660950" Name="Карабаш"/>
+		<City Id="660960" Name="Карталы"/>
+		<City Id="660970" Name="Касли"/>
+		<City Id="660980" Name="Катав-Ивановск"/>
+		<City Id="660990" Name="Кизильское"/>
+		<City Id="661000" Name="Коелга"/>
+		<City Id="661010" Name="Копейск"/>
+		<City Id="661020" Name="Коркино"/>
+		<City Id="661030" Name="Красногорский"/>
+		<City Id="661040" Name="Кропачево"/>
+		<City Id="661050" Name="Кунашак"/>
+		<City Id="661060" Name="Куса"/>
+		<City Id="661070" Name="Кыштым"/>
+		<City Id="661080" Name="Локомотивный"/>
+		<City Id="661090" Name="Магнитка"/>
+		<City Id="661100" Name="Магнитогорск">
+			<District Id="248" Name="Ленинский"/>
+			<District Id="249" Name="Орджоникидзевский"/>
+			<District Id="250" Name="Правобережный"/>
+		</City>
+		<City Id="661110" Name="Межевой"/>
+		<City Id="661120" Name="Межозерный"/>
+		<City Id="661130" Name="Миасс">
+			<District Id="420" Name="Атлянский"/>
+			<District Id="415" Name="Восточный"/>
+			<District Id="416" Name="Западный"/>
+			<District Id="421" Name="Ленинский"/>
+			<District Id="422" Name="Новоандреевский"/>
+			<District Id="417" Name="Северный"/>
+			<District Id="423" Name="Тургоякский"/>
+			<District Id="418" Name="Центральный"/>
+			<District Id="424" Name="Черновской"/>
+			<District Id="419" Name="Южный"/>
+		</City>
+		<City Id="661140" Name="Миасское"/>
+		<City Id="661150" Name="Миньяр"/>
+		<City Id="661160" Name="Новогорный"/>
+		<City Id="661170" Name="Новосинеглазовский"/>
+		<City Id="661180" Name="Нязепетровск"/>
+		<City Id="661190" Name="Озерск"/>
+		<City Id="661210" Name="Октябрьское"/>
+		<City Id="661220" Name="Первомайский"/>
+		<City Id="661230" Name="Пласт"/>
+		<City Id="661240" Name="Полетаево"/>
+		<City Id="661260" Name="Роза"/>
+		<City Id="661270" Name="Рощино"/>
+		<City Id="661280" Name="Сатка"/>
+		<City Id="661290" Name="Сим"/>
+		<City Id="661300" Name="Снежинск"/>
+		<City Id="661320" Name="Тимирязевский"/>
+		<City Id="661330" Name="Трехгорный"/>
+		<City Id="661340" Name="Троицк"/>
+		<City Id="661413" Name="Тургояк"/>
+		<City Id="661350" Name="Тюбук"/>
+		<City Id="661360" Name="Увельский"/>
+		<City Id="661370" Name="Уйское"/>
+		<City Id="661380" Name="Усть-Катав"/>
+		<City Id="661400" Name="Фершампенуаз"/>
+		<City Id="661410" Name="Чебаркуль"/>
+		<City Id="661430" Name="Чесма"/>
+		<City Id="661440" Name="Южноуральск"/>
+		<City Id="661450" Name="Юрюзань"/>
+	</Region>
+	<Region Id="660711" Name="Чеченская республика">
+		<City Id="653391" Name="Грозный"/>
+		<City Id="653392" Name="Автуры"/>
+		<City Id="653393" Name="Аллерой"/>
+		<City Id="653394" Name="Алхан-Кала"/>
+		<City Id="653395" Name="Аргун"/>
+		<City Id="653396" Name="Ассиновская"/>
+		<City Id="653397" Name="Ачхой-Мартан"/>
+		<City Id="653398" Name="Бачи-Юрт"/>
+		<City Id="653399" Name="Гелдаган"/>
+		<City Id="653400" Name="Гойты"/>
+		<City Id="653401" Name="Гудермес"/>
+		<City Id="653402" Name="Курчалой"/>
+		<City Id="653403" Name="Майртуп"/>
+		<City Id="653404" Name="Мескер-Юрт"/>
+		<City Id="653405" Name="Ойсхара"/>
+		<City Id="653406" Name="Самашки"/>
+		<City Id="653407" Name="Старые Атаги"/>
+		<City Id="653408" Name="Урус-Мартан"/>
+		<City Id="653409" Name="Цоцин-Юрт"/>
+		<City Id="653410" Name="Шали"/>
+	</Region>
+	<Region Id="662000" Name="Чувашия">
+		<City Id="662210" Name="Чебоксары">
+			<District Id="462" Name="Заволжье"/>
+			<District Id="463" Name="Калининский"/>
+			<District Id="464" Name="Ленинский"/>
+			<District Id="465" Name="Московский"/>
+		</City>
+		<City Id="662010" Name="Алатырь"/>
+		<City Id="662020" Name="Батырево"/>
+		<City Id="662030" Name="Вурнары"/>
+		<City Id="662040" Name="Ибреси"/>
+		<City Id="662050" Name="Ишлеи"/>
+		<City Id="662060" Name="Канаш"/>
+		<City Id="662070" Name="Козловка"/>
+		<City Id="662080" Name="Комсомольское"/>
+		<City Id="662090" Name="Красноармейское"/>
+		<City Id="662100" Name="Красные Четаи"/>
+		<City Id="662110" Name="Кугеси"/>
+		<City Id="662120" Name="Мариинский Посад"/>
+		<City Id="662130" Name="Моргауши"/>
+		<City Id="662140" Name="Новое Атлашево"/>
+		<City Id="662150" Name="Новочебоксарск">
+			<District Id="412" Name="Восточный"/>
+			<District Id="413" Name="Западный"/>
+			<District Id="414" Name="Южный"/>
+		</City>
+		<City Id="662160" Name="Новые Лапсары"/>
+		<City Id="662170" Name="Порецкое"/>
+		<City Id="662180" Name="Сосновка"/>
+		<City Id="662190" Name="Урмары"/>
+		<City Id="662200" Name="Цивильск"/>
+		<City Id="662220" Name="Шемурша"/>
+		<City Id="662230" Name="Шихазаны"/>
+		<City Id="662240" Name="Шумерля"/>
+		<City Id="662250" Name="Шыгырдан"/>
+		<City Id="662260" Name="Ядрин"/>
+		<City Id="662270" Name="Янтиково"/>
+	</Region>
+	<Region Id="662280" Name="Чукотский АО">
+		<City Id="662290" Name="Анадырь"/>
+		<City Id="662300" Name="Билибино"/>
+		<City Id="662310" Name="Певек"/>
+		<City Id="662320" Name="Угольные Копи"/>
+	</Region>
+	<Region Id="662330" Name="Ямало-Ненецкий АО">
+		<City Id="662460" Name="Салехард"/>
+		<City Id="662340" Name="Вынгапуровский"/>
+		<City Id="662350" Name="Губкинский"/>
+		<City Id="662360" Name="Коротчаево"/>
+		<City Id="662370" Name="Красноселькуп"/>
+		<City Id="662380" Name="Лабытнанги"/>
+		<City Id="662390" Name="Мужи"/>
+		<City Id="662400" Name="Муравленко"/>
+		<City Id="662410" Name="Надым"/>
+		<City Id="662420" Name="Новый Уренгой"/>
+		<City Id="662430" Name="Ноябрьск"/>
+		<City Id="662440" Name="Пангоды"/>
+		<City Id="662450" Name="Пурпе"/>
+		<City Id="662470" Name="Тазовский"/>
+		<City Id="662480" Name="Тарко-Сале"/>
+		<City Id="662490" Name="Уренгой"/>
+		<City Id="662500" Name="Ханымей"/>
+		<City Id="662510" Name="Харп"/>
+		<City Id="662520" Name="Яр-Сале"/>
+	</Region>
+	<Region Id="662530" Name="Ярославская область">
+		<City Id="662810" Name="Ярославль">
+			<District Id="172" Name="Дзержинский"/>
+			<District Id="173" Name="Заволжский"/>
+			<District Id="174" Name="Кировский"/>
+			<District Id="175" Name="Красноперекопский"/>
+			<District Id="176" Name="Ленинский"/>
+			<District Id="177" Name="Фрунзенский"/>
+		</City>
+		<City Id="662540" Name="Большое Село"/>
+		<City Id="662550" Name="Борисоглебский"/>
+		<City Id="662560" Name="Брейтово"/>
+		<City Id="662570" Name="Бурмакино"/>
+		<City Id="662580" Name="Волга"/>
+		<City Id="662590" Name="Гаврилов-Ям"/>
+		<City Id="662600" Name="Данилов"/>
+		<City Id="662610" Name="Дубки"/>
+		<City Id="662620" Name="Ишня"/>
+		<City Id="662630" Name="Константиновский"/>
+		<City Id="662640" Name="Красные Ткачи"/>
+		<City Id="662660" Name="Лесная Поляна"/>
+		<City Id="662670" Name="Любим"/>
+		<City Id="662680" Name="Мышкин"/>
+		<City Id="662690" Name="Некрасовское"/>
+		<City Id="662700" Name="Новый Некоуз"/>
+		<City Id="662710" Name="Переславль-Залесский"/>
+		<City Id="662720" Name="Петровское"/>
+		<City Id="662730" Name="Пошехонье"/>
+		<City Id="662740" Name="Пречистое"/>
+		<City Id="662750" Name="Ростов"/>
+		<City Id="662760" Name="Рыбинск">
+			<District Id="425" Name="Веретье-1"/>
+			<District Id="426" Name="Веретье-2"/>
+			<District Id="427" Name="Веретье-3"/>
+			<District Id="428" Name="Веретье-4"/>
+			<District Id="429" Name="Волжский"/>
+			<District Id="430" Name="Гагаринский"/>
+			<District Id="431" Name="ГЭС-14"/>
+			<District Id="432" Name="Заволжье-1"/>
+			<District Id="433" Name="Заволжье-2"/>
+			<District Id="434" Name="Западный"/>
+			<District Id="435" Name="Запахомовский"/>
+			<District Id="436" Name="Зачеремушный"/>
+			<District Id="437" Name="им. Кирова"/>
+			<District Id="438" Name="Копаево"/>
+			<District Id="439" Name="Мариевка"/>
+			<District Id="440" Name="Переборы"/>
+			<District Id="441" Name="Прибрежный"/>
+			<District Id="442" Name="Северный"/>
+			<District Id="443" Name="Скоморохова гора"/>
+			<District Id="444" Name="Ягутка"/>
+		</City>
+		<City Id="662770" Name="Семибратово"/>
+		<City Id="662780" Name="Туношна"/>
+		<City Id="662790" Name="Тутаев"/>
+		<City Id="662800" Name="Углич"/>
+	</Region>
+</Locations>

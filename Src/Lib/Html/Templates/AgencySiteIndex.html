@@ -1,0 +1,171 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+    <title><!--%Title%--></title>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="Keywords" content="<!--%MetaKeywords%-->" />
+    <meta name="Description" content="<!--%MetaDescription%-->" />
+    <meta name="robots" content="all" />
+    <meta name="robots" content="noarchive" />
+    <style type="text/css">
+        #WelcomeImg {
+            opacity: 1;
+            min-height:300px;
+            min-width: 400px;
+            height: 90%;
+            width:  100%;
+            background: url(<!--%CssCurrentBgUrl%-->) repeat-x scroll left top / cover rgba(0, 0, 0, 0);
+        }
+    </style>
+    <link rel="stylesheet" href="css/AgencyIndex.css">
+    <link rel="stylesheet" href="css/jquery-ui.custom/jquery-ui.css">
+    <link rel="stylesheet" href="css/jquery-ui.custom/jquery-ui.theme.css">
+
+    <script src="js/jquery-1.10.2.js"></script>
+    <script src="js/1.11.4_jquery-ui.min.js"></script>
+
+    <script type="text/javascript">MainSiteUrl = '<!--%MainSiteUrl%-->/';</script>
+
+    <script src="js/AgencySiteIndex.js"></script>
+
+    <script>
+        $(function() {
+            //$( "#filesB" ).selectmenu({ change: function( event, ui ) { alert('x'); }});
+
+            //$('#filesB').on('selectmenuchange', function() { alert( 'x'); });
+
+            $.widget( "custom.iconselectmenu", $.ui.selectmenu, {
+                _renderItem: function( ul, item ) {
+                    var li = $( "<li>", { text: item.label } );
+
+                    if ( item.disabled ) {
+                        li.addClass( "ui-state-disabled" );
+                    }
+
+                    $( "<span>", {
+                        style: item.element.attr( "data-style" ),
+                        "class": "ui-icon " + item.element.attr( "data-class" )
+                    })
+                            .appendTo( li );
+
+                    return li.appendTo( ul );
+                },
+                close: function(event, ui) { // close
+                    var date = new Date(new Date().getTime() + 999999999 * 1000);
+                    document.cookie = "background=" + $("#filesB").val() + "; path=/; expires=" + date.toUTCString();
+
+                    location.reload();
+                }
+            });
+
+
+            $(  "#filesB"  )
+                    .iconselectmenu()
+                    .iconselectmenu( "menuWidget" )
+                    .addClass( "ui-menu-icons customicons" )
+            ;
+
+
+        });
+        </script>
+        <style>
+            h2 {
+                margin: 30px 0 0 0
+            }
+            fieldset {
+                border: 0;
+            }
+            label {
+                display: block;
+            }
+            select {
+                width: 200px;
+            }
+
+            /* select with custom icons */
+            .ui-selectmenu-menu .ui-menu.customicons .ui-menu-item {
+                padding: 0.5em 0 0.5em 3em;
+            }
+            .ui-selectmenu-menu .ui-menu.customicons .ui-menu-item .ui-icon {
+                height: 34px;
+                width: 34px;
+                top: 0.1em;
+            }
+            /*.ui-icon.BGRandom { background: url("images/Background/thumb/bridge.jpg") 0 0 no-repeat; }
+            .ui-icon.BG1 {      background: url("images/Background/thumb/nyc.jpg") 0 0 no-repeat; }
+            .ui-icon.BG2 {      background: url("images/Background/thumb/clouds.jpg") 0 0 no-repeat; }
+*/
+            <!--%CssBgClass%-->
+            /* select with CSS avatar icons */
+            option.avatar {
+                background-repeat: no-repeat !important;
+                padding-left: 20px;
+            }
+            .avatar .ui-icon {
+                background-position: left top;
+            }
+        </style>
+</head>
+
+<body id="MainBody" onload="document.getElementById('RegForm_LoginNumber').focus();">
+
+<div id="WelcomeImg">
+    <div style="width:100%;">
+        <div class="" style="text-align: right;">
+            <div class="demo">
+
+                <form action="#">
+                    <fieldset>
+                        <select name="filesB" id="filesB">
+                            <!--<option value="0" data-class="BGRandom">разные фоны</option>
+                            <option value="1" data-class="BG1" selected>asdf</option>
+                            <option value="2" data-class="BG2">jQuery RSS XML</option>-->
+                            <!--%CssBgOption%-->
+                        </select>
+                    </fieldset>
+
+                </form>
+
+            </div>
+        </div>
+    </div>
+
+
+
+<div id="WelcomeBox" style="min-height:150px;width:300px;" class="SmallBlockSize BoxBorder">
+    <div style="width:100%;">
+        <div class="" style="text-align: center;">
+            <br>
+            <span style="font-weight: bold;"><!--%CompanyName%--></span><br>
+            <br>
+            <form>
+                <table class="NormalText" style="margin-left: 20px;margin-right: 10px;">
+                    <tr>
+                        <td >Логин:</td>
+                        <td><input type="text" id="RegForm_LoginNumber" class="RFFiels ui-widget ui-state-default ui-corner-all"></td>
+                    </tr>
+                    <tr>
+                        <td>Пароль:</td>
+                        <td><input type="password" id="RegForm_LoginPass" class="RFFiels ui-widget ui-state-default ui-corner-all"></td>
+                    </tr>
+                    <tr>
+                        <td colspan="2"><div id="RegForm_LoginErr" class="RegForm_RedText"></div></td>
+                    </tr>
+                </table>
+            </form>
+            <button id="RegForm_LoginBtn" class="ui-widget ui-state-default ui-corner-all ui-button-text-only">Войти</button>&nbsp;
+            <br>
+        </div>
+    </div>
+</div>
+
+</div>
+
+<div class="" style="width:100%;text-align: center;">
+&copy;Roomle.ru
+</div>
+</body>
+</html>
+
+

@@ -1,0 +1,3141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<flats xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="flats.xsd">
+<flat>
+<id>7</id>
+<date>31.08.2015</date>
+<actual>продается</actual>
+<aptp>квартира</aptp>
+<status>прямая продажа</status>
+<nova>-</nova>
+<area>Москва</area>
+<town>Москва г</town>
+<metro_list>
+<metro farval="7" fartp="п">Водный стадион</metro>
+</metro_list>
+<address>Кронштадтский б-р</address>
+<dom>19К3</dom>
+<price currency="RUB">6850000</price>
+<flats>2</flats>
+<rooms>2</rooms>
+<sq pl_ob="41.0" pl="27.1" kitch="5.5"> </sq>
+<floor>5</floor>
+<fl_ob>5</fl_ob>
+<tip>К</tip>
+<balkon>Б</balkon>
+<san>Р</san>
+<telefon>89857608835</telefon>
+<photos>http://lefortovo.roomle.ru/images/big/2276.jpg;http://lefortovo.roomle.ru/images/big/2278.jpg;http://lefortovo.roomle.ru/images/big/2279.jpg;http://lefortovo.roomle.ru/images/big/2280.jpg;http://lefortovo.roomle.ru/images/big/2281.jpg;http://lefortovo.roomle.ru/images/big/2283.jpg;http://lefortovo.roomle.ru/images/big/2284.jpg;</photos>
+<remark>
+<![CDATA[Продается отличная теплая и светлая квартира в кирпичном доме рядом с метро. Зеленый район с развитой инфраструктурой (магазины, школы, банки, гимназии, детские сады). Комнаты изолированные, санузел раздельный. Рядом парк, пруды. Возможна ипотека, более 3 лет в собственности. Полная цена в договоре!!!  ]]>
+</remark>
+<winner_only>0</winner_only>
+<SiteTitle>
+</SiteTitle>
+<SiteKeywords>
+</SiteKeywords>
+<SiteDescription>
+</SiteDescription>
+<SiteVideo>
+</SiteVideo>
+</flat>
+
+<flat>
+<id>20</id>
+<date>31.08.2015</date>
+<actual>продается</actual>
+<aptp>квартира</aptp>
+<status>альтернатива</status>
+<nova>-</nova>
+<area>Москва</area>
+<town>Москва г</town>
+<metro_list>
+<metro farval="2" fartp="п">Сухаревская</metro>
+</metro_list>
+<address>Сухаревская Малая пл.</address>
+<dom>2/4</dom>
+<price currency="RUB">18500000</price>
+<flats>4</flats>
+<rooms>4</rooms>
+<sq pl_ob="74.2" pl="51.6" kitch="9.0"> </sq>
+<floor>2</floor>
+<fl_ob>8</fl_ob>
+<tip>К</tip>
+<balkon>Б</balkon>
+<san>Р</san>
+<telefon>89055353888</telefon>
+<photos>http://lefortovo.roomle.ru/images/big/2171.jpg;http://lefortovo.roomle.ru/images/big/2172.jpg;http://lefortovo.roomle.ru/images/big/2173.jpg;http://lefortovo.roomle.ru/images/big/2174.jpg;http://lefortovo.roomle.ru/images/big/2175.jpg;http://lefortovo.roomle.ru/images/big/2176.jpg;</photos>
+<remark>
+<![CDATA[Продается  роскошная 4-х комнатная квартира-распашонка в историческом центре Москвы. Комнаты: 15.5/8.7/8.2/19.2. Перепланировка возможна. Окна во двор/улицу.  Во дворе одно закрепленное за собственником машиноместо. В пешей доступности 3 станции метро, храм, парки и скверы, театры. Развитая инфраструктура, рядом школа, д/сады, поликлиника. Документы более 3 лет. Легкая альтернатива.	 ]]>
+</remark>
+<winner_only>0</winner_only>
+<SiteTitle>
+</SiteTitle>
+<SiteKeywords>
+</SiteKeywords>
+<SiteDescription>
+</SiteDescription>
+<SiteVideo>
+</SiteVideo>
+</flat>
+
+<flat>
+<id>25</id>
+<date>31.08.2015</date>
+<actual>продается</actual>
+<aptp>квартира</aptp>
+<status>прямая продажа</status>
+<nova>-</nova>
+<area>Москва</area>
+<town>Москва г</town>
+<metro_list>
+<metro farval="7" fartp="п">Кропоткинская</metro>
+</metro_list>
+<address>Серафимовича ул.</address>
+<dom>2</dom>
+<price currency="RUB">100500000</price>
+<flats>5</flats>
+<rooms>5</rooms>
+<sq pl_ob="240.0" pl="170.0" kitch="30.0"> </sq>
+<floor>2</floor>
+<fl_ob>10</fl_ob>
+<tip>С</tip>
+<balkon>Б</balkon>
+<san>3</san>
+<tel>Т</tel>
+<telefon>89031613212</telefon>
+<photos>http://lefortovo.roomle.ru/images/big/2138.jpg;http://lefortovo.roomle.ru/images/big/2139.jpg;</photos>
+<remark>
+<![CDATA[Дом на набережной, квартира с эксклюзивным ремонтом, мебелью, огромная кухня с подсобным помещением/ пот.3.4 м.,прекрасный вид на Кремль. 8-985-760-88-35	 ]]>
+</remark>
+<winner_only>0</winner_only>
+<SiteTitle>
+</SiteTitle>
+<SiteKeywords>
+</SiteKeywords>
+<SiteDescription>
+</SiteDescription>
+<SiteVideo>
+</SiteVideo>
+</flat>
+
+<flat>
+<id>26</id>
+<date>31.08.2015</date>
+<actual>продается</actual>
+<aptp>квартира</aptp>
+<status>прямая продажа</status>
+<nova>-</nova>
+<area>Москва</area>
+<town>Москва г</town>
+<metro_list>
+<metro farval="5" fartp="п">Охотный ряд</metro>
+</metro_list>
+<address>Петровский пер.</address>
+<dom>5С2</dom>
+<price currency="RUB">93500000</price>
+<flats>3</flats>
+<rooms>3</rooms>
+<sq pl_ob="157.0" pl="104.0" kitch="16.7"> </sq>
+<floor>4</floor>
+<fl_ob>5</fl_ob>
+<tip>К</tip>
+<balkon>-</balkon>
+<san>2</san>
+<tel>Т</tel>
+<telefon>89037209019</telefon>
+<photos>http://lefortovo.roomle.ru/images/big/2470.JPG;http://lefortovo.roomle.ru/images/big/2471.JPG;http://lefortovo.roomle.ru/images/big/2472.jpg;http://lefortovo.roomle.ru/images/big/2473.jpg;http://lefortovo.roomle.ru/images/big/2476.jpg;http://lefortovo.roomle.ru/images/big/2475.jpg;http://lefortovo.roomle.ru/images/big/2474.jpg;http://lefortovo.roomle.ru/images/big/2477.jpg;http://lefortovo.roomle.ru/images/big/2478.jpg;http://lefortovo.roomle.ru/images/big/2479.jpg;http://lefortovo.roomle.ru/images/big/2483.JPG;http://lefortovo.roomle.ru/images/big/2484.JPG;</photos>
+<remark>
+<![CDATA[Современный жилой комплекс &quot;Петровский дворик&quot; с собственной придомовой территорией и зоной отдыха. Просторная 3 комнатная квартира с удобной планировкой по индивидуальному дизайн-проекту. В квартире высокие потолки, вентиляция и кондиционирование. ]]>
+</remark>
+<winner_only>0</winner_only>
+<SiteTitle>
+</SiteTitle>
+<SiteKeywords>
+</SiteKeywords>
+<SiteDescription>
+</SiteDescription>
+<SiteVideo>
+</SiteVideo>
+</flat>
+
+<flat>
+<id>27</id>
+<date>31.08.2015</date>
+<actual>продается</actual>
+<aptp>квартира</aptp>
+<status>прямая продажа</status>
+<nova>-</nova>
+<area>Москва</area>
+<town>Москва г</town>
+<metro_list>
+<metro farval="10" fartp="п">Тверская</metro>
+</metro_list>
+<address>Петровский пер.</address>
+<dom>5С2</dom>
+<price currency="RUB">93500000</price>
+<flats>3</flats>
+<rooms>3</rooms>
+<sq pl_ob="157.0" pl="104.0" kitch="16.7"> </sq>
+<floor>3</floor>
+<fl_ob>4</fl_ob>
+<tip>К</tip>
+<balkon>-</balkon>
+<san>2</san>
+<tel>Т</tel>
+<telefon>89037209019</telefon>
+<photos>http://lefortovo.roomle.ru/images/big/2500.JPG;http://lefortovo.roomle.ru/images/big/2501.JPG;http://lefortovo.roomle.ru/images/big/2502.jpg;http://lefortovo.roomle.ru/images/big/2503.jpg;http://lefortovo.roomle.ru/images/big/2504.jpg;http://lefortovo.roomle.ru/images/big/2505.jpg;http://lefortovo.roomle.ru/images/big/2506.jpg;http://lefortovo.roomle.ru/images/big/2508.jpg;http://lefortovo.roomle.ru/images/big/2507.jpg;http://lefortovo.roomle.ru/images/big/2509.jpg;http://lefortovo.roomle.ru/images/big/2510.jpg;http://lefortovo.roomle.ru/images/big/2511.jpg;http://lefortovo.roomle.ru/images/big/2513.JPG;http://lefortovo.roomle.ru/images/big/2514.JPG;</photos>
+<remark>
+<![CDATA[ТОРГ! &quot;Жилой комплекс «Петровский дворик» - располагается в самом центре Москвы, в пределах Бульварного кольца. «Петровский дворик» - бывший доходный дом А. А. Бахрушина, построенный в 1896 году по проекту выдающегося русского архитектора А. Л. Обера в стиле «русского классицизма». Комплекс состоит из пяти 4-х этажных особняков, полностью реконструированных в 1998 году. Комплекс оснащен всеми современными системами жизнедеятельности. Имеет собственную охраняемую придомовую территорию с ландшафтным дизайном, на которой расположились детская и спортивная площадки и зона для отдыха.Предлагается 3 комнатная квартира с высококачественным ремонтом по индивидуальному дизайн-проекту. В квартире высокие потолки, интересные объемно-планировочные решения, современное техническое оснащение&quot;	 ]]>
+</remark>
+<winner_only>0</winner_only>
+<SiteTitle>
+</SiteTitle>
+<SiteKeywords>
+</SiteKeywords>
+<SiteDescription>
+</SiteDescription>
+<SiteVideo>
+</SiteVideo>
+</flat>
+
+<flat>
+<id>29</id>
+<date>31.08.2015</date>
+<actual>продается</actual>
+<aptp>квартира</aptp>
+<status>прямая продажа</status>
+<nova>-</nova>
+<area>Москва</area>
+<town>Москва г</town>
+<metro_list>
+<metro farval="7" fartp="п">Чеховская</metro>
+</metro_list>
+<address>Петровский пер.</address>
+<dom>5</dom>
+<price currency="RUB">93500000</price>
+<flats>3</flats>
+<rooms>3</rooms>
+<sq pl_ob="157.0" pl="104.0" kitch="16.7"> </sq>
+<floor>4</floor>
+<fl_ob>5</fl_ob>
+<tip>К</tip>
+<lift>лифт пассажирский</lift>
+<balkon>-</balkon>
+<san>2</san>
+<okna>окна во двор и на улицу</okna>
+<remont>хорошее состояние</remont>
+<tel>Т</tel>
+<telefon>89037209019</telefon>
+<photos>http://lefortovo.roomle.ru/images/big/2485.JPG;http://lefortovo.roomle.ru/images/big/2486.JPG;http://lefortovo.roomle.ru/images/big/2487.jpg;http://lefortovo.roomle.ru/images/big/2488.jpg;http://lefortovo.roomle.ru/images/big/2489.jpg;http://lefortovo.roomle.ru/images/big/2492.jpg;http://lefortovo.roomle.ru/images/big/2491.jpg;http://lefortovo.roomle.ru/images/big/2490.jpg;http://lefortovo.roomle.ru/images/big/2493.jpg;http://lefortovo.roomle.ru/images/big/2494.jpg;http://lefortovo.roomle.ru/images/big/2495.jpg;http://lefortovo.roomle.ru/images/big/2496.jpg;http://lefortovo.roomle.ru/images/big/2498.JPG;http://lefortovo.roomle.ru/images/big/2499.JPG;</photos>
+<remark>
+<![CDATA[Современный жилой комплекс &quot;Петровский дворик&quot; с собственной придомовой территорией и зоной отдыха. Просторная 3 комнатная квартира с удобной планировкой по индивидуальному дизайн-проекту. В квартире высокие потолки, вентиляция и кондиционирование. ]]>
+</remark>
+<winner_only>0</winner_only>
+<SiteTitle>
+</SiteTitle>
+<SiteKeywords>
+</SiteKeywords>
+<SiteDescription>
+</SiteDescription>
+<SiteVideo>
+</SiteVideo>
+</flat>
+
+<flat>
+<id>30</id>
+<date>31.08.2015</date>
+<actual>продается</actual>
+<aptp>квартира</aptp>
+<status>прямая продажа</status>
+<nova>-</nova>
+<area>Москва</area>
+<town>Москва г</town>
+<metro_list>
+<metro farval="7" fartp="п">Савёловская</metro>
+</metro_list>
+<address>Полтавская ул.</address>
+<dom>2</dom>
+<price currency="RUB">12000000</price>
+<flats>3</flats>
+<rooms>3</rooms>
+<sq pl_ob="51.0" pl="36.0" kitch="7.5"> </sq>
+<floor>9</floor>
+<fl_ob>9</fl_ob>
+<tip>П</tip>
+<telefon>89031613212</telefon>
+<photos>http://lefortovo.roomle.ru/images/big/2129.JPG;http://lefortovo.roomle.ru/images/big/2130.JPG;http://lefortovo.roomle.ru/images/big/2131.JPG;http://lefortovo.roomle.ru/images/big/2132.JPG;http://lefortovo.roomle.ru/images/big/2133.JPG;http://lefortovo.roomle.ru/images/big/2134.JPG;http://lefortovo.roomle.ru/images/big/2135.JPG;http://lefortovo.roomle.ru/images/big/2136.JPG;http://lefortovo.roomle.ru/images/big/2137.JPG;</photos>
+<remark>
+<![CDATA[Продается 3-х комнатная квартира с ремонтом, на девятом  этаже   девятиэтажного панельного дома 1968 года. Дом расположен в зеленой зоне, в 7 минутах пешком от м. Савеловская, в шаговой доступности со ст. м. Динамо,. Тихий двор, во  дворе детские, спортивные площадки, рядом Петровский парк.  Свободная продажа.	 ]]>
+</remark>
+<winner_only>0</winner_only>
+<SiteTitle>
+</SiteTitle>
+<SiteKeywords>
+</SiteKeywords>
+<SiteDescription>
+</SiteDescription>
+<SiteVideo>
+</SiteVideo>
+</flat>
+
+<flat>
+<id>59</id>
+<date>31.08.2015</date>
+<actual>продается</actual>
+<aptp>квартира</aptp>
+<status>прямая продажа</status>
+<nova>-</nova>
+<area>Москва</area>
+<town>Москва г</town>
+<metro_list>
+<metro farval="10" fartp="п">Водный стадион</metro>
+</metro_list>
+<address>Пулковская ул.</address>
+<dom>4К1</dom>
+<price currency="RUB">37000000</price>
+<flats>3</flats>
+<rooms>3</rooms>
+<sq pl_ob="141.0" pl="80.0" kitch="25.0"> </sq>
+<floor>11</floor>
+<fl_ob>25</fl_ob>
+<tip>М</tip>
+<balkon>2Л</balkon>
+<san>2</san>
+<tel>Т</tel>
+<telefon>89055353888</telefon>
+<photos>http://lefortovo.roomle.ru/images/big/1984.JPG;http://lefortovo.roomle.ru/images/big/1989.JPG;http://lefortovo.roomle.ru/images/big/1990.JPG;http://lefortovo.roomle.ru/images/big/1991.JPG;http://lefortovo.roomle.ru/images/big/1992.JPG;http://lefortovo.roomle.ru/images/big/1993.JPG;http://lefortovo.roomle.ru/images/big/1994.JPG;http://lefortovo.roomle.ru/images/big/1995.JPG;http://lefortovo.roomle.ru/images/big/1996.JPG;http://lefortovo.roomle.ru/images/big/1997.JPG;http://lefortovo.roomle.ru/images/big/1998.JPG;http://lefortovo.roomle.ru/images/big/1999.JPG;http://lefortovo.roomle.ru/images/big/2000.JPG;http://lefortovo.roomle.ru/images/big/2001.JPG;http://lefortovo.roomle.ru/images/big/2003.JPG;http://lefortovo.roomle.ru/images/big/2004.JPG;http://lefortovo.roomle.ru/images/big/2005.JPG;http://lefortovo.roomle.ru/images/big/2006.JPG;http://lefortovo.roomle.ru/images/big/2007.JPG;http://lefortovo.roomle.ru/images/big/2008.JPG;http://lefortovo.roomle.ru/images/big/2009.JPG;</photos>
+<remark>
+<![CDATA[ЖК Фортуна, дом бизнес-класса, монолит, индивидуальный проект, эксклюзивный дизайн-проект, импортная встроенная бытовая техника, квартира меблированная, 2 застекленные  лоджии, пол-ламинат, плитка-подогрев,2 санузла, джакузи, душевая кабина. Зеленая парковая зона Москвы. Квартира более 3 лет в собственности. Торг.	 ]]>
+</remark>
+<winner_only>0</winner_only>
+<SiteTitle>
+</SiteTitle>
+<SiteKeywords>
+</SiteKeywords>
+<SiteDescription>
+</SiteDescription>
+<SiteVideo>
+</SiteVideo>
+</flat>
+
+<flat>
+<id>74</id>
+<date>31.08.2015</date>
+<actual>продается</actual>
+<aptp>квартира</aptp>
+<status>прямая продажа</status>
+<nova>-</nova>
+<area>Москва</area>
+<town>Москва г</town>
+<metro_list>
+<metro farval="2" fartp="п">Южная</metro>
+</metro_list>
+<address>Кировоградская ул.</address>
+<dom>9К2</dom>
+<price currency="RUB">14000000</price>
+<flats>1</flats>
+<rooms>1</rooms>
+<sq pl_ob="36.5" pl="19.0" kitch="7.8"> </sq>
+<floor>1</floor>
+<fl_ob>17</fl_ob>
+<tip>П</tip>
+<balkon>-</balkon>
+<tel>Т</tel>
+<telefon>89652977779</telefon>
+<photos>http://lefortovo.roomle.ru/images/big/1854.jpg;http://lefortovo.roomle.ru/images/big/1855.jpg;http://lefortovo.roomle.ru/images/big/1856.jpg;http://lefortovo.roomle.ru/images/big/1857.jpg;http://lefortovo.roomle.ru/images/big/1858.png;</photos>
+<remark>
+<![CDATA[Предлагаю однокомнатную квартиру на первом этаже под нежилое. От метро 1 минута пешком, сумасшедший трафик. Договоренность с председателем ТСЖ имеется, при желании можно организовать встречу. С альтернативой определились.]]>
+</remark>
+<winner_only>0</winner_only>
+<SiteTitle>
+</SiteTitle>
+<SiteKeywords>
+</SiteKeywords>
+<SiteDescription>
+</SiteDescription>
+<SiteVideo>
+</SiteVideo>
+</flat>
+
+<flat>
+<id>83</id>
+<date>02.09.2015</date>
+<actual>продается</actual>
+<aptp>квартира</aptp>
+<status>прямая продажа</status>
+<nova>-</nova>
+<area>Московская область</area>
+<locality>Люберецкий район</locality>
+<town>Котельники г</town>
+<address>Белая дача мкр</address>
+<dom>20</dom>
+<price currency="RUB">7100000</price>
+<flats>2</flats>
+<rooms>2</rooms>
+<sq pl_ob="56.0" pl="32.0" kitch="11.0"> </sq>
+<floor>9</floor>
+<fl_ob>12</fl_ob>
+<tip>П</tip>
+<balkon>БЛ</balkon>
+<san>С</san>
+<tel>Т</tel>
+<telefon>89039668606</telefon>
+<photos>http://lefortovo.roomle.ru/images/big/1870.jpg;http://lefortovo.roomle.ru/images/big/1890.jpg;http://lefortovo.roomle.ru/images/big/1891.jpg;http://lefortovo.roomle.ru/images/big/1892.jpg;http://lefortovo.roomle.ru/images/big/1893.jpg;http://lefortovo.roomle.ru/images/big/1895.jpg;http://lefortovo.roomle.ru/images/big/1894.jpg;http://lefortovo.roomle.ru/images/big/1897.jpg;http://lefortovo.roomle.ru/images/big/1898.jpg;http://lefortovo.roomle.ru/images/big/1900.jpg;</photos>
+<remark>
+<![CDATA[Продаю 2-х ком.кв, МКАД 1 км. Отличное состояние, улучшенная функциональная планировка (распашонка), имеются застекленные лоджия и балкон, во всей квартире установлены пластиковые окна, сделан ремонт. Просторная и уютная. Встроенный кухонный гарнитур, санузел оборудован душевой кабиной. Около 10минут пешком метро Котельники, в шаговой доступности: детские сады, школы, детская школа искусств, живописный парк с озером. Рядом спортклуб с бассейном, спортшкола по конному спорту, поликлиники, развлекательные торговые центры (ТЦ Реал, Мега Белая Дача, АШАН, ИКЕЯ, ОБИ), Томилинский и Кузьминский лесопарки (с зонами отдыха и лыжными дорожками в зимний период, а также возможностью рыбалки, неподалеку располагаются искусственные пруды). Район с хорошо развитой социальной и транспортной инфраструктурой. Метро Жулебино в 2х км. Транспорт до м Кузьминки, Люблино, Братиславская.. В собственности более 3-х лет.]]>
+</remark>
+<winner_only>0</winner_only>
+<SiteTitle>
+</SiteTitle>
+<SiteKeywords>
+</SiteKeywords>
+<SiteDescription>
+</SiteDescription>
+<SiteVideo>
+</SiteVideo>
+</flat>
+
+<flat>
+<id>109</id>
+<date>02.09.2015</date>
+<actual>продается</actual>
+<aptp>квартира</aptp>
+<status>прямая продажа</status>
+<nova>-</nova>
+<area>Московская область</area>
+<locality>Чеховский р-н</locality>
+<town>Чехов г</town>
+<address>Земская ул.</address>
+<dom>5</dom>
+<price currency="RUB">2800000</price>
+<flats>1</flats>
+<rooms>1</rooms>
+<sq pl_ob="43.2" pl="20.0" kitch="10.0"> </sq>
+<floor>14</floor>
+<fl_ob>16</fl_ob>
+<tip>П</tip>
+<balkon>Б</balkon>
+<san>Р</san>
+<tel>Т</tel>
+<telefon>89652977779</telefon>
+<photos>http://lefortovo.roomle.ru/images/big/2363.JPG;http://lefortovo.roomle.ru/images/big/2379.JPG;http://lefortovo.roomle.ru/images/big/2380.JPG;http://lefortovo.roomle.ru/images/big/2381.JPG;http://lefortovo.roomle.ru/images/big/2382.JPG;http://lefortovo.roomle.ru/images/big/2383.JPG;</photos>
+<remark>
+<![CDATA[Интересное предложение. Квартира с муниципальным ремонтом. Юр. и физ. свободна. Свободная продажа. Квартира находится в новом микрорайоне Губернский. Развитая инфраструктура (д/с, школа, салоны, магазины, детские площадки), рядом березовая роща.]]>
+</remark>
+<winner_only>0</winner_only>
+<SiteTitle>
+</SiteTitle>
+<SiteKeywords>
+</SiteKeywords>
+<SiteDescription>
+</SiteDescription>
+<SiteVideo>
+</SiteVideo>
+</flat>
+
+<flat>
+<id>124</id>
+<date>14.09.2015</date>
+<actual>продается</actual>
+<aptp>квартира</aptp>
+<status>альтернатива</status>
+<nova>-</nova>
+<area>Москва</area>
+<town>Москва г</town>
+<metro_list>
+<metro farval="5" fartp="п">Комсомольская</metro>
+</metro_list>
+<address>Новорязанская ул</address>
+<dom>2/7</dom>
+<price currency="RUB">11400000</price>
+<flats>2</flats>
+<rooms>2</rooms>
+<sq pl_ob="63.0" pl="40.0" kitch="8.0"> </sq>
+<floor>3</floor>
+<fl_ob>6</fl_ob>
+<tip>К</tip>
+<san>Р</san>
+<okna>окна во двор</okna>
+<remont>хорошее состояние</remont>
+<telefon>89096978137</telefon>
+<photos>http://lefortovo.roomle.ru/images/big/2654.jpg;http://lefortovo.roomle.ru/images/big/2655.jpg;http://lefortovo.roomle.ru/images/big/2656.jpg;http://lefortovo.roomle.ru/images/big/2657.jpg;http://lefortovo.roomle.ru/images/big/2658.jpg;http://lefortovo.roomle.ru/images/big/2659.jpg;http://lefortovo.roomle.ru/images/big/2660.jpg;http://lefortovo.roomle.ru/images/big/2661.jpg;http://lefortovo.roomle.ru/images/big/2662.jpg;http://lefortovo.roomle.ru/images/big/2663.jpg;</photos>
+<remark>
+<![CDATA[Просторная квартира, большие комнаты(линейка). В каждой комнате по два окна.Дом после капитального ремонта и реконструкции.  Огороженная и охраняемая территория. Остальная информация по телефону. Альтернатива подобрана.]]>
+</remark>
+<winner_only>0</winner_only>
+<SiteTitle>
+</SiteTitle>
+<SiteKeywords>
+</SiteKeywords>
+<SiteDescription>
+</SiteDescription>
+<SiteVideo>
+</SiteVideo>
+</flat>
+
+<flat>
+<id>165</id>
+<date>29.10.2015</date>
+<actual>продается</actual>
+<aptp>квартира</aptp>
+<status>альтернатива</status>
+<nova>-</nova>
+<area>Москва</area>
+<town>Москва г</town>
+<metro_list>
+<metro farval="2" fartp="п">Багратионовская</metro>
+</metro_list>
+<address>Кастанаевская ул</address>
+<dom>4</dom>
+<price currency="RUB">8800000</price>
+<flats>2</flats>
+<rooms>2</rooms>
+<sq pl_ob="43.0" pl="27.0" kitch="6.0"> </sq>
+<floor>1</floor>
+<fl_ob>8</fl_ob>
+<tip>К</tip>
+<lift>лифт пассажирский</lift>
+<musor>мусоропровод</musor>
+<san>С</san>
+<okna>окна во двор</okna>
+<remont>отличное состояние</remont>
+<tel>Т</tel>
+<telefon>89055353888</telefon>
+<photos>http://lefortovo.roomle.ru/images/big/5387.JPG;http://lefortovo.roomle.ru/images/big/5388.JPG;http://lefortovo.roomle.ru/images/big/5389.JPG;http://lefortovo.roomle.ru/images/big/5390.JPG;http://lefortovo.roomle.ru/images/big/5391.JPG;http://lefortovo.roomle.ru/images/big/5392.JPG;http://lefortovo.roomle.ru/images/big/5393.JPG;http://lefortovo.roomle.ru/images/big/5394.JPG;http://lefortovo.roomle.ru/images/big/5395.JPG;http://lefortovo.roomle.ru/images/big/5396.JPG;http://lefortovo.roomle.ru/images/big/5397.JPG;http://lefortovo.roomle.ru/images/big/5398.JPG;http://lefortovo.roomle.ru/images/big/5399.JPG;http://lefortovo.roomle.ru/images/big/5400.JPG;http://lefortovo.roomle.ru/images/big/5401.JPG;</photos>
+<remark>
+<![CDATA[   Продажа очень уютной квартиры, расположенной на бельэтаже, в непосредственной близости от метро. Отличная инфраструктура: в пешей доступности Филевский лесопарк, расположенный на правом берегу Реки-Москвы, круглосуточные магазины, школы, детские сады, спортивные сооружения, фитнес-клуб со спа-зоной. Альтернатива подобрана.]]>
+</remark>
+<winner_only>0</winner_only>
+<SiteTitle>
+</SiteTitle>
+<SiteKeywords>
+</SiteKeywords>
+<SiteDescription>
+</SiteDescription>
+<SiteVideo>
+</SiteVideo>
+</flat>
+
+<flat>
+<id>203</id>
+<date>25.01.2016</date>
+<actual>продается</actual>
+<aptp>квартира</aptp>
+<status>прямая продажа</status>
+<nova>-</nova>
+<area>Москва</area>
+<town>Москва г</town>
+<metro_list>
+<metro farval="10" fartp="п">Новокузнецкая</metro>
+</metro_list>
+<address>Новокузнецкая ул</address>
+<dom>13/17</dom>
+<price currency="RUB">14900000</price>
+<flats>1</flats>
+<rooms>1</rooms>
+<sq pl_ob="40.0" pl="20.0" kitch="8.0"> </sq>
+<floor>9</floor>
+<fl_ob>12</fl_ob>
+<tip>К</tip>
+<lift>лифт пассажирский и лифт грузовой</lift>
+<musor>мусоропровод</musor>
+<balkon>Л</balkon>
+<san>С</san>
+<okna>окна во двор</okna>
+<remont>эксклюзивный евроремонт</remont>
+<tel>Т</tel>
+<telefon>89857637308</telefon>
+<photos>http://lefortovo.roomle.ru/images/big/3490.JPG;http://lefortovo.roomle.ru/images/big/3491.JPG;http://lefortovo.roomle.ru/images/big/3492.JPG;http://lefortovo.roomle.ru/images/big/3494.JPG;http://lefortovo.roomle.ru/images/big/3495.JPG;http://lefortovo.roomle.ru/images/big/3497.JPG;</photos>
+<remark>
+<![CDATA[Продается отличная светлая квартира- студия!!! отличный вид из окна. окна на храм и во двор !!! Консьерж, огороженная территория . Рядом храм. Дом находится в историческом районе города , пешая доступность до трех станций метро - Третьяковская, Новокузнецкая, Павелецкая . Рядом Третьяковская галерея. Лоджия присоединена к общей площади, перепланировка в стадии оформления.  СВОБОДНАЯ ПРОДАЖА, торг возможен. собственность с  2008года]]>
+</remark>
+<winner_only>0</winner_only>
+<SiteTitle>
+</SiteTitle>
+<SiteKeywords>
+</SiteKeywords>
+<SiteDescription>
+</SiteDescription>
+<SiteVideo>
+</SiteVideo>
+</flat>
+
+<flat>
+<id>204</id>
+<date>25.01.2016</date>
+<actual>продается</actual>
+<aptp>квартира</aptp>
+<status>прямая продажа</status>
+<nova>-</nova>
+<area>Москва</area>
+<town>Москва г</town>
+<metro_list>
+<metro farval="10" fartp="п">Павелецкая</metro>
+</metro_list>
+<address>Новокузнецкая ул</address>
+<dom>13-17</dom>
+<price currency="RUB">15100000</price>
+<flats>1</flats>
+<rooms>1</rooms>
+<sq pl_ob="40.0" pl="30.0" kitch="10.0"> </sq>
+<floor>9</floor>
+<fl_ob>12</fl_ob>
+<tip>К</tip>
+<lift>лифт пассажирский и лифт грузовой</lift>
+<musor>мусоропровод</musor>
+<balkon>Л</balkon>
+<san>С</san>
+<okna>окна во двор и на улицу</okna>
+<remont>эксклюзивный евроремонт</remont>
+<tel>Т</tel>
+<telefon>89857637308</telefon>
+<photos>http://lefortovo.roomle.ru/images/big/3498.JPG;http://lefortovo.roomle.ru/images/big/3499.JPG;http://lefortovo.roomle.ru/images/big/3501.JPG;http://lefortovo.roomle.ru/images/big/3502.JPG;http://lefortovo.roomle.ru/images/big/3503.JPG;http://lefortovo.roomle.ru/images/big/3505.JPG;http://lefortovo.roomle.ru/images/big/3506.JPG;http://lefortovo.roomle.ru/images/big/3507.JPG;</photos>
+<remark>
+<![CDATA[Продается отличная светлая квартира- студия!!! отличный вид из окна!!! Консьерж, огороженная территория . Рядом храм. Дом находится в историческом районе города , пешая доступность до трех станций метро- Третьяковская, Новокузнецкая, Павелецкая . Рядом Третьяковская галерея. Лоджия присоединена к общей площади, перепланировка в стадии оформления. СВОБОДНАЯ ПРОДАЖА. Торг возможен.]]>
+</remark>
+<winner_only>0</winner_only>
+<SiteTitle>
+</SiteTitle>
+<SiteKeywords>
+</SiteKeywords>
+<SiteDescription>
+</SiteDescription>
+<SiteVideo>
+</SiteVideo>
+</flat>
+
+<flat>
+<id>210</id>
+<date>05.02.2016</date>
+<actual>продается</actual>
+<aptp>квартира</aptp>
+<status>альтернатива</status>
+<nova>-</nova>
+<area>Москва</area>
+<town>Москва г</town>
+<metro_list>
+<metro farval="10" fartp="т">Юго-Западная</metro>
+</metro_list>
+<address>Главмосстроя ул</address>
+<dom>10</dom>
+<price currency="RUB">10900000</price>
+<flats>2</flats>
+<rooms>2</rooms>
+<sq pl_ob="92.0" pl="50.0" kitch="14.0"> </sq>
+<floor>16</floor>
+<fl_ob>25</fl_ob>
+<tip>П</tip>
+<lift>лифт пассажирский и лифт грузовой</lift>
+<musor>мусоропровод</musor>
+<balkon>Б</balkon>
+<san>Р</san>
+<okna>окна во двор</okna>
+<remont>хорошее состояние</remont>
+<tel>Т</tel>
+<telefon>89651475904</telefon>
+<photos>http://lefortovo.roomle.ru/images/big/3561.JPG;http://lefortovo.roomle.ru/images/big/3563.JPG;http://lefortovo.roomle.ru/images/big/3565.JPG;http://lefortovo.roomle.ru/images/big/3566.JPG;http://lefortovo.roomle.ru/images/big/3567.JPG;http://lefortovo.roomle.ru/images/big/3568.JPG;http://lefortovo.roomle.ru/images/big/3569.JPG;http://lefortovo.roomle.ru/images/big/3570.JPG;http://lefortovo.roomle.ru/images/big/3571.JPG;http://lefortovo.roomle.ru/images/big/3572.JPG;http://lefortovo.roomle.ru/images/big/3573.JPG;http://lefortovo.roomle.ru/images/big/3574.JPG;http://lefortovo.roomle.ru/images/big/3575.JPG;http://lefortovo.roomle.ru/images/big/3576.JPG;</photos>
+<remark>
+<![CDATA[Новый  современный дом 2008 г.п., просторная светлая квартира, удобная планировка, эркер, панорамный вид, комнаты изолированные, имеется гардеробная-кладовка, проведена линия интернет, домофон, консъерж, ликвидный экологически чистый район в окружении лесного массива, развитая инфраструктура, пешком до ж/д станция Солнцево, в 5 минутах-остановка общественного  транспорта. В 2017 году- открытие станции метро.]]>
+</remark>
+<winner_only>0</winner_only>
+<SiteTitle>
+</SiteTitle>
+<SiteKeywords>
+</SiteKeywords>
+<SiteDescription>
+</SiteDescription>
+<SiteVideo>
+</SiteVideo>
+</flat>
+
+<flat>
+<id>216</id>
+<date>20.02.2016</date>
+<actual>продается</actual>
+<aptp>квартира</aptp>
+<status>альтернатива</status>
+<nova>-</nova>
+<area>Москва</area>
+<town>Москва г</town>
+<metro_list>
+<metro farval="12" fartp="п">Чертановская</metro>
+</metro_list>
+<address>Северное Чертаново</address>
+<dom>4, к 401</dom>
+<price currency="RUB">12900000</price>
+<flats>2</flats>
+<rooms>2</rooms>
+<sq pl_ob="62.0" pl="31.0" kitch="8.0"> </sq>
+<floor>3</floor>
+<fl_ob>17</fl_ob>
+<tip>П</tip>
+<lift>лифт пассажирский и лифт грузовой</lift>
+<musor>мусоропровод</musor>
+<balkon>Б</balkon>
+<san>Р</san>
+<okna>окна во двор и на улицу</okna>
+<remont>хорошее состояние</remont>
+<tel>Т</tel>
+<telefon>89055353888</telefon>
+<photos>http://lefortovo.roomle.ru/images/big/3630.JPG;http://lefortovo.roomle.ru/images/big/3631.JPG;http://lefortovo.roomle.ru/images/big/3632.JPG;http://lefortovo.roomle.ru/images/big/3633.JPG;http://lefortovo.roomle.ru/images/big/3634.JPG;http://lefortovo.roomle.ru/images/big/3635.JPG;http://lefortovo.roomle.ru/images/big/3636.JPG;http://lefortovo.roomle.ru/images/big/3637.JPG;http://lefortovo.roomle.ru/images/big/3638.JPG;http://lefortovo.roomle.ru/images/big/3639.JPG;http://lefortovo.roomle.ru/images/big/3640.JPG;http://lefortovo.roomle.ru/images/big/3641.JPG;http://lefortovo.roomle.ru/images/big/3642.JPG;http://lefortovo.roomle.ru/images/big/3643.JPG;http://lefortovo.roomle.ru/images/big/3644.JPG;http://lefortovo.roomle.ru/images/big/3645.JPG;http://lefortovo.roomle.ru/images/big/3646.JPG;http://lefortovo.roomle.ru/images/big/3647.JPG;http://lefortovo.roomle.ru/images/big/3648.JPG;http://lefortovo.roomle.ru/images/big/3649.JPG;http://lefortovo.roomle.ru/images/big/3650.JPG;</photos>
+<remark>
+<![CDATA[Дом 1982 г.п.-индивидуальный проект к Олимпиаде 1980 года, просторная светлая квартира, удобная планировка, комнаты изолированные, встроенные шкафы, стеклопакеты, застекленный балкон,  панорамный вид из окна, холл 9 м кв., кондиционер, встроенная кухня, импортная бытовая техника, тамбур на 2 квартиры, хорошие соседи, кладовая-колясочная, солидная входная группа: консъерж, зимний сад. В ДКП полная стоимость. Машиноместо в паркинге. Альтернатива подобрана. Оперативный показ. Аванс.]]>
+</remark>
+<winner_only>0</winner_only>
+<SiteTitle>
+</SiteTitle>
+<SiteKeywords>
+</SiteKeywords>
+<SiteDescription>
+</SiteDescription>
+<SiteVideo>
+</SiteVideo>
+</flat>
+
+<flat>
+<id>217</id>
+<date>20.02.2016</date>
+<actual>продается</actual>
+<aptp>квартира</aptp>
+<status>прямая продажа</status>
+<nova>-</nova>
+<area>Москва</area>
+<town>Москва г</town>
+<metro_list>
+<metro farval="5" fartp="п">Таганская</metro>
+</metro_list>
+<address>Таганская ул</address>
+<dom>26к1</dom>
+<price currency="RUB">55000000</price>
+<flats>3</flats>
+<rooms>3</rooms>
+<sq pl_ob="162.0" pl="70.0" kitch="20.0"> </sq>
+<floor>4</floor>
+<fl_ob>10</fl_ob>
+<tip>МК</tip>
+<lift>лифт пассажирский и лифт грузовой</lift>
+<musor>мусоропровод</musor>
+<balkon>2Б</balkon>
+<okna>окна во двор и на улицу</okna>
+<remont>без отделки</remont>
+<telefon>89096978137</telefon>
+<photos>http://lefortovo.roomle.ru/images/big/4346.jpg;http://lefortovo.roomle.ru/images/big/4347.jpg;http://lefortovo.roomle.ru/images/big/4348.jpg;http://lefortovo.roomle.ru/images/big/4349.jpg;http://lefortovo.roomle.ru/images/big/4350.jpg;http://lefortovo.roomle.ru/images/big/4351.jpg;http://lefortovo.roomle.ru/images/big/4353.jpg;http://lefortovo.roomle.ru/images/big/4354.jpg;http://lefortovo.roomle.ru/images/big/4362.jpg;http://lefortovo.roomle.ru/images/big/4363.jpg;http://lefortovo.roomle.ru/images/big/4365.jpg;http://lefortovo.roomle.ru/images/big/4366.jpg;http://lefortovo.roomle.ru/images/big/4367.jpg;http://lefortovo.roomle.ru/images/big/4368.jpg;http://lefortovo.roomle.ru/images/big/4369.jpg;http://lefortovo.roomle.ru/images/big/4371.jpg;http://lefortovo.roomle.ru/images/big/4657.jpg;</photos>
+<remark>
+<![CDATA[Квартира свободной планировки общ.  пл. 162 м.к. Без отделки. Дом 2003 года постройки, в 5 мин. от м. Таганская, Собственная охраняемая территория с видео наблюдением по периметру, консьерж, подземный паркинг, уютный зеленый двор. Солидная публика.  В доме преимущественно проживают сотрудники Большого театра. С развитой инфраструктурой. Рядом с домом детский парк им. Прямикова. ]]>
+</remark>
+<winner_only>0</winner_only>
+<SiteTitle>
+</SiteTitle>
+<SiteKeywords>
+</SiteKeywords>
+<SiteDescription>
+</SiteDescription>
+<SiteVideo>
+</SiteVideo>
+</flat>
+
+<flat>
+<id>218</id>
+<date>22.02.2016</date>
+<actual>продается</actual>
+<aptp>квартира</aptp>
+<status>прямая продажа</status>
+<nova>-</nova>
+<area>Москва</area>
+<town>Сосенское п</town>
+<metro_list>
+<metro farval="7" fartp="т">Саларьево</metro>
+<metro farval="10" fartp="т">Тёплый Стан</metro>
+</metro_list>
+<address>Николо-Хованская ул</address>
+<dom>24</dom>
+<price currency="RUB">5300000</price>
+<flats>1</flats>
+<rooms>1</rooms>
+<sq pl_ob="52.0" pl="20.0" kitch="14.0"> </sq>
+<floor>1</floor>
+<fl_ob>9</fl_ob>
+<tip>МК</tip>
+<lift>лифт грузовой</lift>
+<musor>мусоропровод</musor>
+<balkon>Л</balkon>
+<san>С</san>
+<okna>окна во двор</okna>
+<remont>без отделки</remont>
+<tel>-</tel>
+<telefon>89035588636</telefon>
+<photos>http://lefortovo.roomle.ru/images/big/3672.jpg;http://lefortovo.roomle.ru/images/big/4281.jpg;http://lefortovo.roomle.ru/images/big/4282.jpg;http://lefortovo.roomle.ru/images/big/4283.jpg;http://lefortovo.roomle.ru/images/big/4285.jpg;</photos>
+<remark>
+<![CDATA[Продаётся БОЛЬШАЯ 1-комнатная квартира под отделку в современном жилом комплексе бизнес-класса «Николин Парк». 
+Прекрасное бюджетное решение как для одного человека, так и для семьи с одним ребёнком. 
+Квартира большая, площадь 52м2. Высокие потолки, большие окна. Прекрасная звуко и теплоизоляция.
+Купив эту квартиру, вы сможете жить в экологически чистом месте, на природе, но с городским комфортом. 
+Жилой комплекс «Николин Парк» расположен в динамически развивающимся районе Новой Москвы, всего в 3 км от МКАД по Калужскому шоссе. Гармоничное сочетание удобства городской квартиры и преимуществ жизни на природе.
+Всего в 3-х километрах от МКАД по Калужскому шоссе.
+Инфраструктура:
+теннисный корт со свободным доступом для жителей комплекса, площадки для барбекю, детский сад с бассейном, спортивно-развлекательные и торговые зоны.
+Огороженная и охраняемая территория.
+Транспортная доступность: метро Теплый Стан, Саларьево.]]>
+</remark>
+<winner_only>0</winner_only>
+<SiteTitle>Купить большую 1к квартиру Теплый Стан</SiteTitle>
+<SiteKeywords>жк николин парк, купить 1 квартиру, купить квартиру под отделку</SiteKeywords>
+<SiteDescription>http://lefortovo.wixsite.com/nikolinpark</SiteDescription>
+<SiteVideo>https://www.youtube.com/watch?v=CqWex8jrF9I</SiteVideo>
+</flat>
+
+<flat>
+<id>248</id>
+<date>11.04.2016</date>
+<actual>продается</actual>
+<aptp>квартира</aptp>
+<status>прямая продажа</status>
+<nova>-</nova>
+<area>Московская область</area>
+<locality>Балашихинский район</locality>
+<town>Балашиха  </town>
+<address>Мкр.  Дзержинского  </address>
+<dom>48</dom>
+<price currency="RUB">5100000</price>
+<flats>1</flats>
+<rooms>1</rooms>
+<sq pl_ob="50.0" pl="25.0" kitch="12.0"> </sq>
+<floor>1</floor>
+<fl_ob>12</fl_ob>
+<tip>П</tip>
+<lift>лифт пассажирский и лифт грузовой</lift>
+<musor>мусоропровод</musor>
+<balkon>Б</balkon>
+<san>Р</san>
+<okna>окна во двор</okna>
+<remont>евроремонт</remont>
+<tel>Т</tel>
+<telefon>89265435518</telefon>
+<photos>http://lefortovo.roomle.ru/images/big/605680.png;http://lefortovo.roomle.ru/images/big/6058202.png;http://lefortovo.roomle.ru/images/big/6059839.png;http://lefortovo.roomle.ru/images/big/6060567.png;http://lefortovo.roomle.ru/images/big/6064695.png;http://lefortovo.roomle.ru/images/big/6065428.png;http://lefortovo.roomle.ru/images/big/6066804.png;http://lefortovo.roomle.ru/images/big/6067978.png;http://lefortovo.roomle.ru/images/big/6068919.png;http://lefortovo.roomle.ru/images/big/6069432.png;http://lefortovo.roomle.ru/images/big/6070502.png;http://lefortovo.roomle.ru/images/big/6071370.png;http://lefortovo.roomle.ru/images/big/6072768.png;http://lefortovo.roomle.ru/images/big/6073790.png;http://lefortovo.roomle.ru/images/big/6074596.png;http://lefortovo.roomle.ru/images/big/6075654.png;</photos>
+<remark>
+<![CDATA[Продаётся 1 комнатная квартира в отличном состояний в новом доме, дом 2010 года, все документы готовый для сделки ,  тёплые полы на кухне , обогреватель воды + бойлерная на случай отключения горячей воды,  тёмная комната 5 кв. м, удачная планировка ,  в тихом  зелёном районе , вся инфо структура , детский сад школа . поликлиника , магазин , почта , сбербанк,  свободная продажа , никто не прописан , рассмотрим ипотеку, субсидии, государственный жилищный сертификат , военную ипотеку , оперативный показ . ТЕЛ, 8-926-543-55-18.]]>
+</remark>
+<winner_only>0</winner_only>
+<SiteTitle>
+</SiteTitle>
+<SiteKeywords>
+</SiteKeywords>
+<SiteDescription>
+</SiteDescription>
+<SiteVideo>
+</SiteVideo>
+</flat>
+
+<flat>
+<id>254</id>
+<date>14.04.2016</date>
+<actual>продается</actual>
+<aptp>квартира</aptp>
+<status>прямая продажа</status>
+<nova>-</nova>
+<area>Московская область</area>
+<locality>Пушкинский район</locality>
+<town>Ивантеевка  г</town>
+<address>Бережок</address>
+<dom>14</dom>
+<price currency="RUB">5800000</price>
+<flats>2</flats>
+<rooms>2</rooms>
+<sq pl_ob="63.0" pl="38.0" kitch="12.0"> </sq>
+<floor>8</floor>
+<fl_ob>25</fl_ob>
+<tip>МК</tip>
+<lift>лифт пассажирский и лифт грузовой</lift>
+<musor>мусоропровод</musor>
+<balkon>Б</balkon>
+<san>Р</san>
+<okna>окна во двор</okna>
+<remont>евроремонт</remont>
+<tel>Т</tel>
+<telefon>89265435518</telefon>
+<photos>http://lefortovo.roomle.ru/images/big/5974315.jpg;http://lefortovo.roomle.ru/images/big/5975415.jpg;http://lefortovo.roomle.ru/images/big/5976771.jpg;http://lefortovo.roomle.ru/images/big/5977176.jpg;http://lefortovo.roomle.ru/images/big/5978885.jpg;http://lefortovo.roomle.ru/images/big/5979410.jpg;http://lefortovo.roomle.ru/images/big/5980383.jpg;http://lefortovo.roomle.ru/images/big/5981732.jpg;http://lefortovo.roomle.ru/images/big/5982239.jpg;http://lefortovo.roomle.ru/images/big/5983570.jpg;http://lefortovo.roomle.ru/images/big/5984964.jpg;http://lefortovo.roomle.ru/images/big/5985726.jpg;http://lefortovo.roomle.ru/images/big/5986788.jpg;http://lefortovo.roomle.ru/images/big/5987595.jpg;http://lefortovo.roomle.ru/images/big/5989922.jpg;http://lefortovo.roomle.ru/images/big/5988603.jpg;http://lefortovo.roomle.ru/images/big/5990409.jpg;http://lefortovo.roomle.ru/images/big/5991323.jpg;http://lefortovo.roomle.ru/images/big/5992604.jpg;http://lefortovo.roomle.ru/images/big/5993546.jpg;http://lefortovo.roomle.ru/images/big/5994250.jpg;http://lefortovo.roomle.ru/images/big/5995894.jpg;http://lefortovo.roomle.ru/images/big/5996179.jpg;http://lefortovo.roomle.ru/images/big/5997214.jpg;http://lefortovo.roomle.ru/images/big/5998175.jpg;http://lefortovo.roomle.ru/images/big/5999100.jpg;http://lefortovo.roomle.ru/images/big/6000258.jpg;http://lefortovo.roomle.ru/images/big/6001259.jpg;http://lefortovo.roomle.ru/images/big/600214.jpg;http://lefortovo.roomle.ru/images/big/6003925.jpg;http://lefortovo.roomle.ru/images/big/6004978.jpg;</photos>
+<remark>
+<![CDATA[ Продается 2 комнатная квартира , в отличном состоянии , возможна продажа с мебелью при обоюдной договорённости ,  удачная планировка , в зелёном тихом районе , вся инфраструктура , школа детсады , магазины , поликлиника , хорошая транспортная доступность , документы  после приватизации , свободная продажа , собственников  два человека , показ оперативный ,Рассмотрим , Ипотеку , ГЖС, Жилищные  субсидий , Военную ипотеку,  тел. 8-926-543-55-18. ]]>
+</remark>
+<winner_only>0</winner_only>
+<SiteTitle>
+</SiteTitle>
+<SiteKeywords>
+</SiteKeywords>
+<SiteDescription>
+</SiteDescription>
+<SiteVideo>
+</SiteVideo>
+</flat>
+
+<flat>
+<id>271</id>
+<date>25.04.2016</date>
+<actual>продается</actual>
+<aptp>квартира</aptp>
+<status>прямая продажа</status>
+<nova>-</nova>
+<area>Москва</area>
+<town>Москва г</town>
+<metro_list>
+<metro farval="5" fartp="п">Жулебино</metro>
+</metro_list>
+<address>Жулебинский б-р</address>
+<dom>5</dom>
+<price currency="RUB">24490000</price>
+<flats>2</flats>
+<rooms>2</rooms>
+<sq pl_ob="87.0" pl="45.0" kitch="18.0"> </sq>
+<floor>8</floor>
+<fl_ob>12</fl_ob>
+<tip>М</tip>
+<lift>лифт пассажирский и лифт грузовой</lift>
+<musor>мусоропровод</musor>
+<balkon>Л</balkon>
+<san>С</san>
+<okna>окна во двор и на улицу</okna>
+<remont>эксклюзивный евроремонт</remont>
+<tel>Т</tel>
+<telefon>89161888022</telefon>
+<photos>http://lefortovo.roomle.ru/images/big/4455.JPG;http://lefortovo.roomle.ru/images/big/4456.JPG;http://lefortovo.roomle.ru/images/big/4457.JPG;http://lefortovo.roomle.ru/images/big/4458.JPG;http://lefortovo.roomle.ru/images/big/4459.JPG;http://lefortovo.roomle.ru/images/big/4460.JPG;http://lefortovo.roomle.ru/images/big/4461.JPG;http://lefortovo.roomle.ru/images/big/4462.JPG;http://lefortovo.roomle.ru/images/big/4463.JPG;http://lefortovo.roomle.ru/images/big/4464.JPG;http://lefortovo.roomle.ru/images/big/4465.JPG;http://lefortovo.roomle.ru/images/big/4466.JPG;http://lefortovo.roomle.ru/images/big/4467.JPG;http://lefortovo.roomle.ru/images/big/4468.JPG;http://lefortovo.roomle.ru/images/big/4469.JPG;http://lefortovo.roomle.ru/images/big/4470.JPG;http://lefortovo.roomle.ru/images/big/4471.JPG;http://lefortovo.roomle.ru/images/big/4472.JPG;http://lefortovo.roomle.ru/images/big/4473.JPG;http://lefortovo.roomle.ru/images/big/4474.JPG;http://lefortovo.roomle.ru/images/big/4475.JPG;http://lefortovo.roomle.ru/images/big/4476.JPG;</photos>
+<remark>
+<![CDATA[К продаже предлагается элитная двухкомнатная квартира. Общая площадь - 87 кв.м. Жилая - 45 кв.м (27 и 18 кв.м.), кухня - 18 кв.м. Огромный холл - 25 кв.м., лоджия - 5 кв.м. Отличное состояние дома. Охраняемая территория. Подземный паркинг. В шаговой доступности лесопарк, бассейн, все объекты социальной инфраструктуры.   Свободная продажа. 1 взрослый собственник. Оперативный показ. ]]>
+</remark>
+<winner_only>0</winner_only>
+<SiteTitle>
+</SiteTitle>
+<SiteKeywords>
+</SiteKeywords>
+<SiteDescription>
+</SiteDescription>
+<SiteVideo>
+</SiteVideo>
+</flat>
+
+<flat>
+<id>274</id>
+<date>25.04.2016</date>
+<actual>продается</actual>
+<aptp>квартира</aptp>
+<status>альтернатива</status>
+<nova>-</nova>
+<area>Москва</area>
+<town>Москва г</town>
+<metro_list>
+<metro farval="7" fartp="т">Лермонтовский проспект</metro>
+</metro_list>
+<address>Привольная ул</address>
+<dom>21</dom>
+<price currency="RUB">17900000</price>
+<flats>3</flats>
+<rooms>3</rooms>
+<sq pl_ob="102.0" pl="60.0" kitch="15.0"> </sq>
+<floor>1</floor>
+<fl_ob>4</fl_ob>
+<tip>К</tip>
+<musor>мусоропровод</musor>
+<san>2</san>
+<okna>окна во двор и на улицу</okna>
+<remont>отличное состояние</remont>
+<telefon>89161888022</telefon>
+<photos>http://lefortovo.roomle.ru/images/big/4024.JPG;http://lefortovo.roomle.ru/images/big/4053.JPG;http://lefortovo.roomle.ru/images/big/4054.JPG;http://lefortovo.roomle.ru/images/big/4055.jpg;http://lefortovo.roomle.ru/images/big/4056.jpg;http://lefortovo.roomle.ru/images/big/4059.jpg;http://lefortovo.roomle.ru/images/big/4058.jpg;http://lefortovo.roomle.ru/images/big/4057.jpg;http://lefortovo.roomle.ru/images/big/4060.jpg;http://lefortovo.roomle.ru/images/big/4061.jpg;http://lefortovo.roomle.ru/images/big/4062.jpg;http://lefortovo.roomle.ru/images/big/4063.jpg;http://lefortovo.roomle.ru/images/big/4064.jpg;http://lefortovo.roomle.ru/images/big/4065.jpg;http://lefortovo.roomle.ru/images/big/4066.jpg;http://lefortovo.roomle.ru/images/big/4067.jpg;http://lefortovo.roomle.ru/images/big/4070.jpg;http://lefortovo.roomle.ru/images/big/4069.jpg;http://lefortovo.roomle.ru/images/big/4068.jpg;http://lefortovo.roomle.ru/images/big/4071.jpg;http://lefortovo.roomle.ru/images/big/4072.jpg;http://lefortovo.roomle.ru/images/big/4073.jpg;http://lefortovo.roomle.ru/images/big/4074.jpg;</photos>
+<remark>
+<![CDATA[К продаже предлагается 3-х комнатная квартира. Общая площадь 100 кв.м (жилая - 60 кв.м; кухня - 15 кв.м).  Два санузла, 2 застекленные лоджии. Огороженная территория. Все объекты социальной инфраструктуры в шаговой доступности. Рядом лесопарк, бассейн, фитнес-центр. Хорошая транспортная доступность.  Альтернатива. ]]>
+</remark>
+<winner_only>0</winner_only>
+<SiteTitle>
+</SiteTitle>
+<SiteKeywords>
+</SiteKeywords>
+<SiteDescription>
+</SiteDescription>
+<SiteVideo>
+</SiteVideo>
+</flat>
+
+<flat>
+<id>298</id>
+<date>29.04.2016</date>
+<actual>продается</actual>
+<aptp>квартира</aptp>
+<status>прямая продажа</status>
+<nova>-</nova>
+<area>Москва</area>
+<town>Москва г</town>
+<metro_list>
+<metro farval="12" fartp="т">Новокосино</metro>
+</metro_list>
+<address>Святоозерская ул</address>
+<dom>5</dom>
+<price currency="RUB">5200000</price>
+<flats>1</flats>
+<rooms>1</rooms>
+<sq pl_ob="40.0" pl="19.0" kitch="9.0"> </sq>
+<floor>3</floor>
+<fl_ob>12</fl_ob>
+<tip>П</tip>
+<lift>лифт пассажирский и лифт грузовой</lift>
+<musor>мусоропровод</musor>
+<balkon>Б</balkon>
+<san>С</san>
+<okna>окна на улицу</okna>
+<remont>среднее состояние</remont>
+<telefon>89036185177</telefon>
+<photos>http://lefortovo.roomle.ru/images/big/4185.jpg;http://lefortovo.roomle.ru/images/big/4187.jpg;http://lefortovo.roomle.ru/images/big/4188.jpg;http://lefortovo.roomle.ru/images/big/4909.jpg;http://lefortovo.roomle.ru/images/big/4910.jpg;http://lefortovo.roomle.ru/images/big/4911.jpg;http://lefortovo.roomle.ru/images/big/4912.jpg;http://lefortovo.roomle.ru/images/big/4913.jpg;http://lefortovo.roomle.ru/images/big/4914.jpg;http://lefortovo.roomle.ru/images/big/4915.jpg;http://lefortovo.roomle.ru/images/big/4916.jpg;http://lefortovo.roomle.ru/images/big/4917.jpg;http://lefortovo.roomle.ru/images/big/4918.jpg;http://lefortovo.roomle.ru/images/big/4919.jpg;http://lefortovo.roomle.ru/images/big/4920.jpg;</photos>
+<remark>
+<![CDATA[К продаже предлагается однокомнатная квартира. Общая площадь - 40 кв.м (жилая - 19 кв.м; кухня - 8 кв.м, застекленный балкон - 3 кв.м).  Обжитой микрорайон.  До метро &quot;Новокосино&quot; или &quot;Выхино&quot; - 12-15 минут на транспорте. Рядом лесопарк (хорошее место для семейного отдыха), школа, детский сад внтри придомовой территории.  1 взрослый собственник. Свободная продажа.]]>
+</remark>
+<winner_only>0</winner_only>
+<SiteTitle>
+</SiteTitle>
+<SiteKeywords>
+</SiteKeywords>
+<SiteDescription>
+</SiteDescription>
+<SiteVideo>
+</SiteVideo>
+</flat>
+
+<flat>
+<id>305</id>
+<date>05.05.2016</date>
+<actual>продается</actual>
+<aptp>квартира</aptp>
+<status>прямая продажа</status>
+<nova>-</nova>
+<area>Москва</area>
+<town>Москва г</town>
+<metro_list>
+<metro farval="5" fartp="п">Аэропорт</metro>
+</metro_list>
+<address>Симонова К. ул</address>
+<dom>4</dom>
+<price currency="RUB">16500000</price>
+<flats>3</flats>
+<rooms>3</rooms>
+<sq pl_ob="66.5" pl="44.2" kitch="7.8"> </sq>
+<floor>3</floor>
+<fl_ob>9</fl_ob>
+<tip>К</tip>
+<lift>лифт пассажирский</lift>
+<musor>мусоропровод</musor>
+<balkon>Б</balkon>
+<san>Р</san>
+<okna>окна во двор</okna>
+<remont>среднее состояние</remont>
+<telefon>89857608835</telefon>
+<photos>http://lefortovo.roomle.ru/images/big/4199.jpg;http://lefortovo.roomle.ru/images/big/4200.jpg;http://lefortovo.roomle.ru/images/big/4202.jpg;http://lefortovo.roomle.ru/images/big/4203.jpg;http://lefortovo.roomle.ru/images/big/4204.jpg;http://lefortovo.roomle.ru/images/big/4205.jpg;http://lefortovo.roomle.ru/images/big/4207.jpg;http://lefortovo.roomle.ru/images/big/4206.jpg;http://lefortovo.roomle.ru/images/big/4208.jpg;http://lefortovo.roomle.ru/images/big/4209.jpg;http://lefortovo.roomle.ru/images/big/4210.jpg;http://lefortovo.roomle.ru/images/big/4212.jpg;http://lefortovo.roomle.ru/images/big/4213.jpg;http://lefortovo.roomle.ru/images/big/4214.png;</photos>
+<remark>
+<![CDATA[Продаётся светлая трёхкомнатная квартира с удачной планировкой в кирпичном доме 1965 года постройки. Дом расположен в глубине микрорайона, вторая линия домов. Аэропорт – престижный, тихий и приятный московский район.
+
+Пешая доступность от метро Динамо (10 мин) и Аэропорт (5 мин). Окна выходят на две стороны (в тихий двор с детской площадкой и фонтаном) и на зелёный внутренний двор. Северо-Восток и Юго-Запад.
+
+Квартира в жилом состоянии: аутентичные деревянные окна; французский паркет под реставрацию; раздельный санузел; качественный комплект мебели 60-х годов, который достанется новым хозяевам. 
+
+Большой балкон на два помещения: спальня и кухня. Выход на балкон из спальни.
+
+Рядом с домом детские сады, престижные школы, детская и взрослая поликлиника, бассейн, фитнес клуб &quot;Зебра&quot; (1 минута), продуктовые магазины (Азбука Вкуса, мебельный, обувной и другие магазины), закрытая парковка c закреплённым машино-местом, удобный выезд на Ленинградский проспект и прилегающие трассы. 
+
+Рядом расположен Петровский парк и лесопарк Тимирязевской академии, которые отлично подойдут для прогулок и занятий спортом. 
+
+В собственности более трёх лет (один взрослый собственник), быстрый выход на сделку. Все документы готовы. 
+
+Идеально подойдёт для молодой семьи. 
+
+Эта прекрасная квартира может стать Вашей! Звоните прямо сейчас: 
+8-926-5-229-229
+]]>
+</remark>
+<winner_only>0</winner_only>
+<SiteTitle>
+</SiteTitle>
+<SiteKeywords>
+</SiteKeywords>
+<SiteDescription>
+</SiteDescription>
+<SiteVideo>
+</SiteVideo>
+</flat>
+
+<flat>
+<id>323</id>
+<date>23.05.2016</date>
+<actual>продается</actual>
+<aptp>квартира</aptp>
+<status>прямая продажа</status>
+<nova>-</nova>
+<area>Москва</area>
+<town>Москва г</town>
+<metro_list>
+<metro farval="5" fartp="т">Рязанский проспект</metro>
+</metro_list>
+<address>Михайлова ул</address>
+<dom>17</dom>
+<price currency="RUB">12500000</price>
+<flats>3</flats>
+<rooms>3</rooms>
+<sq pl_ob="70.0" pl="50.0" kitch="8.0"> </sq>
+<floor>5</floor>
+<fl_ob>5</fl_ob>
+<tip>С</tip>
+<lift>без лифта</lift>
+<balkon>Б</balkon>
+<san>Р</san>
+<okna>окна во двор и на улицу</okna>
+<remont>требуется ремонт</remont>
+<telefon>89161888022</telefon>
+<photos>http://lefortovo.roomle.ru/images/big/4378.jpg;http://lefortovo.roomle.ru/images/big/4379.jpg;http://lefortovo.roomle.ru/images/big/4380.jpg;http://lefortovo.roomle.ru/images/big/4381.jpg;http://lefortovo.roomle.ru/images/big/4382.jpg;http://lefortovo.roomle.ru/images/big/4383.jpg;http://lefortovo.roomle.ru/images/big/4384.jpg;http://lefortovo.roomle.ru/images/big/4385.jpg;http://lefortovo.roomle.ru/images/big/4386.jpg;</photos>
+<remark>
+<![CDATA[К продаже предлагается 3-х комнатная квартира. общая площадь - 70 кв.м (жилая площадь по комнатам - 22\20\18 кв.м.; кухня - 8 кв.м.). Санузел раздельный. Требуется ремонт. Зеленый, уютный, тихий район. Метро - 5 мин. транспортом. Рядом парк &quot;Кусково&quot;. Более трех лет в собственности. ]]>
+</remark>
+<winner_only>0</winner_only>
+<SiteTitle>
+</SiteTitle>
+<SiteKeywords>
+</SiteKeywords>
+<SiteDescription>
+</SiteDescription>
+<SiteVideo>
+</SiteVideo>
+</flat>
+
+<flat>
+<id>329</id>
+<date>26.05.2016</date>
+<actual>продается</actual>
+<aptp>квартира</aptp>
+<status>прямая продажа</status>
+<nova>-</nova>
+<area>Московская область</area>
+<locality>Пушкинский район</locality>
+<town>Ивантеевка г</town>
+<address>Хлебозаводская ул</address>
+<dom>12 к 5</dom>
+<price currency="RUB">2800000</price>
+<flats>2</flats>
+<rooms>2</rooms>
+<sq pl_ob="43.0" pl="16.0" kitch="14.0"> </sq>
+<floor>8</floor>
+<fl_ob>17</fl_ob>
+<tip>М</tip>
+<lift>лифт пассажирский и лифт грузовой</lift>
+<musor>мусоропровод</musor>
+<balkon>Л</balkon>
+<san>Р</san>
+<okna>окна во двор и на улицу</okna>
+<remont>требуется ремонт</remont>
+<tel>Т</tel>
+<telefon>89161888022</telefon>
+<photos>http://lefortovo.roomle.ru/images/big/4449.jpg;http://lefortovo.roomle.ru/images/big/4450.jpg;http://lefortovo.roomle.ru/images/big/4451.jpg;</photos>
+<remark>
+<![CDATA[ЖК Берег Скалбы. Шикарный вид! Окна квартиры выходят на реку.17 км от МКАД. Дом комфорт класса, монолит, индивидуальный проект. Одноподъездный, 2 лифта (грузовой и пассажирский). 8 ЭТАЖ, 42,5 м2 двухкомнатная квартира. Большая лоджия! СОБСТВЕННОСТЬ! Комплекс на берегу реки Скалбы, окна квартиры выходят на реку. Во дворах предусмотрены спортивные и детские площадки. На набережной, примыкающей к территории жилого комплекса Берег Скалбы, обустраевается зона отдыха с прогулочными аллеями и беседками. Открытые парковки будут расположены перед домами, на границе участка есть многоуровневый паркинг на 220 машиномест!Рядом с домом, два детских сада, гимназия и школа, строятся спорткомплекс и стадион. Быстрый выход на сделку, СВОБОДНА!]]>
+</remark>
+<winner_only>0</winner_only>
+<SiteTitle>
+</SiteTitle>
+<SiteKeywords>
+</SiteKeywords>
+<SiteDescription>
+</SiteDescription>
+<SiteVideo>
+</SiteVideo>
+</flat>
+
+<flat>
+<id>330</id>
+<date>26.05.2016</date>
+<actual>продается</actual>
+<aptp>квартира</aptp>
+<status>прямая продажа</status>
+<nova>-</nova>
+<area>Московская область</area>
+<locality>Щелковский район</locality>
+<town>Щелково г</town>
+<address>Богородский мкр</address>
+<dom>19</dom>
+<price currency="RUB">2400000</price>
+<flats>1</flats>
+<rooms>1</rooms>
+<sq pl_ob="32.0" pl="18.0" kitch="8.0"> </sq>
+<floor>9</floor>
+<fl_ob>17</fl_ob>
+<tip>М</tip>
+<lift>лифт пассажирский и лифт грузовой</lift>
+<musor>мусоропровод</musor>
+<balkon>Л</balkon>
+<san>С</san>
+<okna>окна во двор</okna>
+<remont>среднее состояние</remont>
+<telefon>89161888022</telefon>
+<photos>http://lefortovo.roomle.ru/images/big/4447.jpg;http://lefortovo.roomle.ru/images/big/4448.jpg;http://lefortovo.roomle.ru/images/big/4452.jpg;</photos>
+<remark>
+<![CDATA[Предлагается квартира в мкр Богородский, с чистовой отделкой, стяжка, эл. Разводка по всей квартире с розетками, выровнены стены, балкон застеклён, собственность, быстрый выход на сделку, свободна.]]>
+</remark>
+<winner_only>0</winner_only>
+<SiteTitle>
+</SiteTitle>
+<SiteKeywords>
+</SiteKeywords>
+<SiteDescription>
+</SiteDescription>
+<SiteVideo>
+</SiteVideo>
+</flat>
+
+<flat>
+<id>341</id>
+<date>31.05.2016</date>
+<actual>продается</actual>
+<aptp>квартира</aptp>
+<status>прямая продажа</status>
+<nova>-</nova>
+<area>Москва</area>
+<town>Москва г</town>
+<metro_list>
+<metro farval="12" fartp="т">Выхино</metro>
+<metro farval="12" fartp="т">Новокосино</metro>
+</metro_list>
+<address>Лухмановская ул</address>
+<dom>13</dom>
+<price currency="RUB">5990000</price>
+<flats>1</flats>
+<rooms>1</rooms>
+<sq pl_ob="44.0" pl="19.0" kitch="10.0"> </sq>
+<floor>18</floor>
+<fl_ob>24</fl_ob>
+<tip>П</tip>
+<lift>лифт пассажирский и лифт грузовой</lift>
+<musor>мусоропровод</musor>
+<balkon>2Б</balkon>
+<san>С</san>
+<okna>окна во двор</okna>
+<remont>хорошее состояние</remont>
+<telefon>89036185177</telefon>
+<photos>http://lefortovo.roomle.ru/images/big/4518.jpg;http://lefortovo.roomle.ru/images/big/4522.JPG;http://lefortovo.roomle.ru/images/big/4523.jpg;http://lefortovo.roomle.ru/images/big/4524.jpg;http://lefortovo.roomle.ru/images/big/4526.jpg;http://lefortovo.roomle.ru/images/big/4525.jpg;http://lefortovo.roomle.ru/images/big/4527.jpg;http://lefortovo.roomle.ru/images/big/4528.JPG;http://lefortovo.roomle.ru/images/big/5625419.jpg;http://lefortovo.roomle.ru/images/big/5626976.jpg;http://lefortovo.roomle.ru/images/big/5627699.jpg;</photos>
+<remark>
+<![CDATA[В тихом, зеленом и обжитом микрорайоне предлагается к продаже однокомнатная квартира. Один из самых лучших реализованных проектов в строительстве жилья.  Общая площадь - 44 кв.м (жилая - 19,6, кухня - 10 кв.м, большой холл, окна во двор). Балкон на две комнаты (два входа\выхода), застеклен   и не требует утепления. В квартире - муниципальный ремонт.  4 лифта. В доме консьерж. Очень чистый подъезд. Хорошие соседи. Рядом лесопарк, озеро, где можно купаться. В разумной транспортной доступности (12-15 мин. на общ.транспорте)  две станции метро &quot;Выхино&quot; и &quot;Новокосино&quot;. Остановки - рядом. Скоро открытие станции метро &quot;Лухмановская&quot;.  Рядом поликлиники,  школа. детсад. бассейн с круглогодичным посещением.  Один из лучших фитнес клубов с бассейном и сауной в шаговой доступности. Один взрослый собственник. Оперативный показ. Быстрый выход на сделку. ]]>
+</remark>
+<winner_only>0</winner_only>
+<SiteTitle>
+</SiteTitle>
+<SiteKeywords>
+</SiteKeywords>
+<SiteDescription>
+</SiteDescription>
+<SiteVideo>
+</SiteVideo>
+</flat>
+
+<flat>
+<id>368</id>
+<date>20.06.2016</date>
+<actual>продается</actual>
+<aptp>квартира</aptp>
+<status>прямая продажа</status>
+<nova>-</nova>
+<area>Москва</area>
+<town>Москва г</town>
+<metro_list>
+<metro farval="5" fartp="п">Медведково</metro>
+</metro_list>
+<address>широкая </address>
+<dom>21</dom>
+<price currency="RUB">5950000</price>
+<flats>1</flats>
+<rooms>1</rooms>
+<sq pl_ob="33.0" pl="18.0" kitch="7.5"> </sq>
+<floor>1</floor>
+<fl_ob>9</fl_ob>
+<tip>П</tip>
+<lift>лифт пассажирский</lift>
+<musor>мусоропровод</musor>
+<balkon>-</balkon>
+<san>С</san>
+<okna>окна на улицу</okna>
+<remont>отличное состояние</remont>
+<telefon>89096978137</telefon>
+<photos>http://lefortovo.roomle.ru/images/big/4789.JPG;http://lefortovo.roomle.ru/images/big/4790.JPG;http://lefortovo.roomle.ru/images/big/4791.JPG;http://lefortovo.roomle.ru/images/big/4792.JPG;http://lefortovo.roomle.ru/images/big/4793.JPG;http://lefortovo.roomle.ru/images/big/4794.JPG;http://lefortovo.roomle.ru/images/big/4867.JPG;http://lefortovo.roomle.ru/images/big/4868.JPG;http://lefortovo.roomle.ru/images/big/4869.JPG;http://lefortovo.roomle.ru/images/big/4870.JPG;http://lefortovo.roomle.ru/images/big/4871.JPG;http://lefortovo.roomle.ru/images/big/4872.JPG;</photos>
+<remark>
+<![CDATA[Чистая, после ремонта квартира на первом этаже, далеко от проезжей части.  от дороги разделена небольшим лесным массивом. В квартире сделан хороший  ремонт, окна ПВХ, в ванной плитка. свободная продажа. ]]>
+</remark>
+<winner_only>0</winner_only>
+<SiteTitle>
+</SiteTitle>
+<SiteKeywords>
+</SiteKeywords>
+<SiteDescription>
+</SiteDescription>
+<SiteVideo>
+</SiteVideo>
+</flat>
+
+<flat>
+<id>379</id>
+<date>29.06.2016</date>
+<actual>продается</actual>
+<aptp>квартира</aptp>
+<status>прямая продажа</status>
+<nova>-</nova>
+<area>Москва</area>
+<town>Москва г</town>
+<metro_list>
+<metro farval="10" fartp="п">Сходненская</metro>
+</metro_list>
+<address>Свободы ул</address>
+<dom>45с1</dom>
+<price currency="RUB">8500000</price>
+<flats>2</flats>
+<rooms>2</rooms>
+<sq pl_ob="54.0" pl="36.0" kitch="7.0"> </sq>
+<floor>6</floor>
+<fl_ob>9</fl_ob>
+<tip>П</tip>
+<lift>лифт пассажирский</lift>
+<musor>мусоропровод</musor>
+<balkon>Л</balkon>
+<san>Р</san>
+<okna>окна на улицу</okna>
+<remont>хорошее состояние</remont>
+<tel>Т</tel>
+<telefon>89055353888</telefon>
+<photos>http://lefortovo.roomle.ru/images/big/4892.jpg;http://lefortovo.roomle.ru/images/big/4893.jpg;http://lefortovo.roomle.ru/images/big/4894.jpg;http://lefortovo.roomle.ru/images/big/4895.jpg;http://lefortovo.roomle.ru/images/big/4896.jpg;http://lefortovo.roomle.ru/images/big/4897.jpg;http://lefortovo.roomle.ru/images/big/4898.jpg;http://lefortovo.roomle.ru/images/big/4899.jpg;http://lefortovo.roomle.ru/images/big/4900.jpg;http://lefortovo.roomle.ru/images/big/4901.jpg;http://lefortovo.roomle.ru/images/big/4902.jpg;http://lefortovo.roomle.ru/images/big/4903.jpg;http://lefortovo.roomle.ru/images/big/4904.jpg;http://lefortovo.roomle.ru/images/big/4905.jpg;</photos>
+<remark>
+<![CDATA[Продаётся светлая, уютная квартира с отличным ремонтом (делали для себя), удобная не типовая планировка, просторные комнаты изолированные (20 и 16) м. кв., стеклопакеты, большая (на 2 окна) застекленная лоджия, выход на лоджию из спальни, металлическая дверь.   Все объекты инфраструктуры в шаговой доступности - д/сады, школы, магазины, кафе, рестораны, поликлиники, сбербанк и почта. Зеленый район, в шаговой доступности находятся ТЦ &quot;Калейдоскоп&quot;, парк Северное Тушино, Химкинское  водохранилище и канал им. Москвы Свежий косметический ремонт в подъезде. Свободная продажа, оперативный показ! Быстрый выход на сделку. Торг.
+]]>
+</remark>
+<winner_only>0</winner_only>
+<SiteTitle>
+</SiteTitle>
+<SiteKeywords>
+</SiteKeywords>
+<SiteDescription>
+</SiteDescription>
+<SiteVideo>
+</SiteVideo>
+</flat>
+
+<flat>
+<id>387</id>
+<date>06.07.2016</date>
+<actual>продается</actual>
+<aptp>квартира</aptp>
+<status>прямая продажа</status>
+<nova>-</nova>
+<area>Московская область</area>
+<locality>Щелковский район</locality>
+<town>Свердловский пгт</town>
+<address>Строителей ул</address>
+<dom>12</dom>
+<price currency="RUB">2300000</price>
+<flats>1</flats>
+<rooms>1</rooms>
+<sq pl_ob="37.0" pl="17.0" kitch="8.0"> </sq>
+<floor>14</floor>
+<fl_ob>16</fl_ob>
+<tip>МК</tip>
+<lift>лифт пассажирский и лифт грузовой</lift>
+<musor>без мусоропровода</musor>
+<balkon>Л</balkon>
+<san>С</san>
+<okna>окна во двор</okna>
+<remont>без отделки</remont>
+<tel>Т</tel>
+<telefon>89161888022</telefon>
+<photos>http://lefortovo.roomle.ru/images/big/5054.jpg;</photos>
+<remark>
+<![CDATA[Просторная квартира с прекрасным видом, развитая инфраструктура, работает д.сад, школа, магазины, удобное транспортное сообщение, СОБСТВЕННОСТЬ, 1 собственник, стяжка, электропроводка есть, СВОБОДНА.]]>
+</remark>
+<winner_only>0</winner_only>
+<SiteTitle>
+</SiteTitle>
+<SiteKeywords>
+</SiteKeywords>
+<SiteDescription>
+</SiteDescription>
+<SiteVideo>
+</SiteVideo>
+</flat>
+
+<flat>
+<id>390</id>
+<date>07.07.2016</date>
+<actual>продается</actual>
+<aptp>квартира</aptp>
+<status>альтернатива</status>
+<nova>-</nova>
+<area>Москва</area>
+<town>Москва г</town>
+<metro_list>
+<metro farval="10" fartp="п">Пражская</metro>
+</metro_list>
+<address>Чертановская ул</address>
+<dom>49 к2</dom>
+<price currency="RUB">8500000</price>
+<flats>3</flats>
+<rooms>3</rooms>
+<sq pl_ob="63.0" pl="45.0" kitch="8.5"> </sq>
+<floor>5</floor>
+<fl_ob>9</fl_ob>
+<tip>П</tip>
+<lift>лифт пассажирский</lift>
+<musor>мусоропровод</musor>
+<balkon>Б</balkon>
+<san>Р</san>
+<okna>окна во двор</okna>
+<remont>хорошее состояние</remont>
+<tel>Т</tel>
+<telefon>89096978137</telefon>
+<photos>http://lefortovo.roomle.ru/images/big/5073.JPG;http://lefortovo.roomle.ru/images/big/5074.JPG;http://lefortovo.roomle.ru/images/big/5075.JPG;http://lefortovo.roomle.ru/images/big/5076.JPG;http://lefortovo.roomle.ru/images/big/5077.JPG;http://lefortovo.roomle.ru/images/big/5078.JPG;http://lefortovo.roomle.ru/images/big/5079.JPG;http://lefortovo.roomle.ru/images/big/5080.JPG;http://lefortovo.roomle.ru/images/big/5081.JPG;http://lefortovo.roomle.ru/images/big/5082.JPG;http://lefortovo.roomle.ru/images/big/5083.JPG;http://lefortovo.roomle.ru/images/big/5084.JPG;http://lefortovo.roomle.ru/images/big/5085.JPG;</photos>
+<remark>
+<![CDATA[В продаже трехкомнатная кварира по ул.Чертановская д49 к2. Квартира в хорошем состоянии, все комнаты изолированные. Санузел раздельный. Большой корридор. Первичные документы. взрослые собственники. Возле дома два садика, школа и продуктовые магазины. В любое время суток  есть парковочные места. ]]>
+</remark>
+<winner_only>0</winner_only>
+<SiteTitle>
+</SiteTitle>
+<SiteKeywords>
+</SiteKeywords>
+<SiteDescription>
+</SiteDescription>
+<SiteVideo>
+</SiteVideo>
+</flat>
+
+<flat>
+<id>395</id>
+<date>12.07.2016</date>
+<actual>продается</actual>
+<aptp>квартира</aptp>
+<status>альтернатива</status>
+<nova>-</nova>
+<area>Москва</area>
+<town>Москва г</town>
+<metro_list>
+<metro farval="15" fartp="п">Пражская</metro>
+</metro_list>
+<address>Красного маяка ул</address>
+<dom>19к1</dom>
+<price currency="RUB">8000000</price>
+<flats>3</flats>
+<rooms>3</rooms>
+<sq pl_ob="63.0" pl="43.0" kitch="6.0"> </sq>
+<floor>9</floor>
+<fl_ob>9</fl_ob>
+<tip>П</tip>
+<lift>лифт пассажирский</lift>
+<musor>мусоропровод</musor>
+<balkon>Б</balkon>
+<san>Р</san>
+<okna>окна во двор</okna>
+<remont>хорошее состояние</remont>
+<tel>Т</tel>
+<telefon>89646203759</telefon>
+<remark>
+<![CDATA[хорошее состояние, распашонка, окна во двор и на лес,  серия п-49д,  два собственника более 3х лет, оперативный показ]]>
+</remark>
+<winner_only>0</winner_only>
+<SiteTitle>
+</SiteTitle>
+<SiteKeywords>
+</SiteKeywords>
+<SiteDescription>
+</SiteDescription>
+<SiteVideo>
+</SiteVideo>
+</flat>
+
+<flat>
+<id>396</id>
+<date>12.07.2016</date>
+<actual>продается</actual>
+<aptp>квартира</aptp>
+<status>альтернатива</status>
+<nova>-</nova>
+<area>Московская область</area>
+<locality>Ленинский район</locality>
+<town>Видное г</town>
+<address>Лемешко ул</address>
+<dom>8к2</dom>
+<price currency="RUB">6400000</price>
+<flats>3</flats>
+<rooms>3</rooms>
+<sq pl_ob="63.0" pl="38.0" kitch="9.0"> </sq>
+<floor>11</floor>
+<fl_ob>12</fl_ob>
+<tip>П</tip>
+<lift>лифт пассажирский и лифт грузовой</lift>
+<musor>мусоропровод</musor>
+<balkon>Л</balkon>
+<san>Р</san>
+<okna>окна во двор</okna>
+<remont>хорошее состояние</remont>
+<tel>Т</tel>
+<telefon>89646203759</telefon>
+<remark>
+<![CDATA[удобное расположение дома, комнаты изолированные, полная сумма в договоре, очень быстрый выход на сделку,детский сад,в шаговой доступности,показ оперативно]]>
+</remark>
+<winner_only>0</winner_only>
+<SiteTitle>
+</SiteTitle>
+<SiteKeywords>
+</SiteKeywords>
+<SiteDescription>
+</SiteDescription>
+<SiteVideo>
+</SiteVideo>
+</flat>
+
+<flat>
+<id>397</id>
+<date>12.07.2016</date>
+<actual>продается</actual>
+<aptp>квартира</aptp>
+<status>прямая продажа</status>
+<nova>-</nova>
+<area>Московская область</area>
+<locality>Можайский район</locality>
+<town>Новоивановское МО нп</town>
+<address>Можайское ш</address>
+<dom>50</dom>
+<price currency="RUB">8300000</price>
+<flats>3</flats>
+<rooms>3</rooms>
+<sq pl_ob="80.0" pl="59.0" kitch="12.0"> </sq>
+<floor>8</floor>
+<fl_ob>17</fl_ob>
+<tip>П</tip>
+<lift>лифт пассажирский и лифт грузовой</lift>
+<musor>мусоропровод</musor>
+<balkon>Л</balkon>
+<san>Р</san>
+<okna>окна на улицу</okna>
+<remont>хорошее состояние</remont>
+<tel>Т</tel>
+<telefon>89646203759</telefon>
+<photos>http://lefortovo.roomle.ru/images/big/5158.jpg;http://lefortovo.roomle.ru/images/big/5159.jpg;http://lefortovo.roomle.ru/images/big/5160.jpg;http://lefortovo.roomle.ru/images/big/5161.jpg;http://lefortovo.roomle.ru/images/big/5162.jpg;http://lefortovo.roomle.ru/images/big/5163.jpg;http://lefortovo.roomle.ru/images/big/5164.jpg;http://lefortovo.roomle.ru/images/big/5165.jpg;http://lefortovo.roomle.ru/images/big/5166.jpg;http://lefortovo.roomle.ru/images/big/5167.jpg;http://lefortovo.roomle.ru/images/big/5168.jpg;http://lefortovo.roomle.ru/images/big/5169.jpg;http://lefortovo.roomle.ru/images/big/5170.jpg;http://lefortovo.roomle.ru/images/big/5171.jpg;http://lefortovo.roomle.ru/images/big/5172.jpg;http://lefortovo.roomle.ru/images/big/5173.jpg;http://lefortovo.roomle.ru/images/big/5174.jpg;http://lefortovo.roomle.ru/images/big/5175.jpg;http://lefortovo.roomle.ru/images/big/5176.jpg;</photos>
+<remark>
+<![CDATA[СОБСТВЕННОСТЬ ДОМ ЗАСЕЛЕН,700м до мкад, 15 мин на автобусе до м кунцевская, молодежная, окна на Москву, хорошее состояние, потолки 285,3 лифта 2 пассажирских, 1 грузовой, развитая инфраструктура, детсад-ясли, Ашан, Курс, кинотеатр, 1 собственник, юридически свободна, физическое освобождение один день]]>
+</remark>
+<winner_only>0</winner_only>
+<SiteTitle>
+</SiteTitle>
+<SiteKeywords>
+</SiteKeywords>
+<SiteDescription>
+</SiteDescription>
+<SiteVideo>
+</SiteVideo>
+</flat>
+
+<flat>
+<id>399</id>
+<date>12.07.2016</date>
+<actual>продается</actual>
+<aptp>квартира</aptp>
+<status>прямая продажа</status>
+<nova>-</nova>
+<area>Москва</area>
+<town>Москва г</town>
+<metro_list>
+<metro farval="5" fartp="п">Полянка</metro>
+</metro_list>
+<address>Полянка М. ул</address>
+<dom>5</dom>
+<price currency="RUB">108000000</price>
+<flats>5</flats>
+<rooms>5</rooms>
+<sq pl_ob="100.5" pl="55.0" kitch="12.0"> </sq>
+<floor>4</floor>
+<fl_ob>6</fl_ob>
+<tip>К</tip>
+<lift>лифт пассажирский</lift>
+<musor>без мусоропровода</musor>
+<balkon>Б</balkon>
+<san>3</san>
+<okna>окна во двор и на улицу</okna>
+<remont>евроремонт</remont>
+<tel>Т</tel>
+<telefon>89857608835</telefon>
+<photos>http://lefortovo.roomle.ru/images/big/5181.JPG;http://lefortovo.roomle.ru/images/big/5184.JPG;http://lefortovo.roomle.ru/images/big/5185.JPG;http://lefortovo.roomle.ru/images/big/5186.JPG;http://lefortovo.roomle.ru/images/big/5187.JPG;http://lefortovo.roomle.ru/images/big/5188.JPG;http://lefortovo.roomle.ru/images/big/5189.JPG;http://lefortovo.roomle.ru/images/big/5190.JPG;http://lefortovo.roomle.ru/images/big/5191.JPG;http://lefortovo.roomle.ru/images/big/5192.JPG;http://lefortovo.roomle.ru/images/big/5193.JPG;http://lefortovo.roomle.ru/images/big/5194.JPG;http://lefortovo.roomle.ru/images/big/5196.JPG;http://lefortovo.roomle.ru/images/big/5197.JPG;http://lefortovo.roomle.ru/images/big/5203.JPG;http://lefortovo.roomle.ru/images/big/5204.JPG;http://lefortovo.roomle.ru/images/big/5205.JPG;http://lefortovo.roomle.ru/images/big/5206.JPG;http://lefortovo.roomle.ru/images/big/5207.JPG;http://lefortovo.roomle.ru/images/big/5209.JPG;http://lefortovo.roomle.ru/images/big/5210.JPG;</photos>
+<remark>
+<![CDATA[Продается УНИКАЛЬНАЯ видовая квартира в клубном доме в историческом центре Москвы, пешком до Кремля.  Реальная площадь 200м.кв. Консьерж.  Исторический центр, зелено, 10мин. Удобная, функциональная планировка: просторная кухня-столовая с  камином и выходом на балкон, спальная комната со своей ванной комнатой, три изолированные спальни, большой совмещенный санузел с ванной и сауна, ванна с окном, выход на эксплуатируемую крышу. Гардеробная. Потрясающий вид на Храм. Дом в отличном состоянии, перекрытия ж/б, охраняемый подъезд и территория. Дом имеет огороженную территорию, на которой расположены детская площадка, площадка для выгула животных, наземный паркинг. Из окон открывается красивый вид на старую Москву, Храм Святителя Григория Неокесарийского в Дебрицах. В настоящее время при храме действуют православный культурно-просветительский центр &quot;Замоскворечье&quot;, воскресная школа и библиотека. Документы готовы к сделке. Квартира готова к проживанию! Есть торг! Оперативные показы!  
+]]>
+</remark>
+<winner_only>0</winner_only>
+<SiteTitle>
+</SiteTitle>
+<SiteKeywords>
+</SiteKeywords>
+<SiteDescription>
+</SiteDescription>
+<SiteVideo>
+</SiteVideo>
+</flat>
+
+<flat>
+<id>402</id>
+<date>15.07.2016</date>
+<actual>продается</actual>
+<aptp>квартира</aptp>
+<status>прямая продажа</status>
+<nova>-</nova>
+<area>Москва</area>
+<town>Москва г</town>
+<metro_list>
+<metro farval="7" fartp="п">Щукинская</metro>
+</metro_list>
+<address>Авиационная ул</address>
+<dom>77 корп.5</dom>
+<price currency="RUB">30800000</price>
+<flats>2</flats>
+<rooms>2</rooms>
+<sq pl_ob="85.7" pl="40.0" kitch="16.0"> </sq>
+<floor>11</floor>
+<fl_ob>32</fl_ob>
+<tip>МК</tip>
+<lift>лифт пассажирский и лифт грузовой</lift>
+<musor>мусоропровод</musor>
+<san>Р</san>
+<okna>окна во двор</okna>
+<remont>без отделки</remont>
+<telefon>89096978137</telefon>
+<photos>http://lefortovo.roomle.ru/images/big/5211.JPG;http://lefortovo.roomle.ru/images/big/5212.JPG;http://lefortovo.roomle.ru/images/big/5213.JPG;http://lefortovo.roomle.ru/images/big/5214.JPG;http://lefortovo.roomle.ru/images/big/5215.JPG;http://lefortovo.roomle.ru/images/big/5216.JPG;http://lefortovo.roomle.ru/images/big/5217.JPG;http://lefortovo.roomle.ru/images/big/5218.JPG;http://lefortovo.roomle.ru/images/big/5219.JPG;http://lefortovo.roomle.ru/images/big/5220.JPG;http://lefortovo.roomle.ru/images/big/5221.JPG;http://lefortovo.roomle.ru/images/big/5222.JPG;http://lefortovo.roomle.ru/images/big/5223.JPG;</photos>
+<remark>
+<![CDATA[В Самом престижном жилом комплексе &quot; Алые Паруса&quot; премиум класса, продаем двухкомнатную квартиру свободной планировки. Квартира с видом во двор и причал. В квартире высокие потолки, с панорамными окнами. Дом сдан.  Вся территория огорожена, по всему периметру видеокамеры. Подземная парковка входит в стоимость квартиры! ]]>
+</remark>
+<winner_only>0</winner_only>
+<SiteTitle>
+</SiteTitle>
+<SiteKeywords>
+</SiteKeywords>
+<SiteDescription>
+</SiteDescription>
+<SiteVideo>
+</SiteVideo>
+</flat>
+
+<flat>
+<id>403</id>
+<date>15.07.2016</date>
+<actual>продается</actual>
+<aptp>квартира</aptp>
+<status>прямая продажа</status>
+<nova>-</nova>
+<area>Москва</area>
+<town>Москва г</town>
+<metro_list>
+<metro farval="10" fartp="т">Проспект Вернадского</metro>
+</metro_list>
+<address>Лобачевского ул</address>
+<dom>118</dom>
+<price currency="RUB">12000000</price>
+<flats>1</flats>
+<rooms>1</rooms>
+<sq pl_ob="56.0" pl="30.0" kitch="10.6"> </sq>
+<floor>19</floor>
+<fl_ob>23</fl_ob>
+<tip>М</tip>
+<lift>лифт пассажирский и лифт грузовой</lift>
+<musor>мусоропровод</musor>
+<balkon>Б</balkon>
+<san>Р</san>
+<okna>окна во двор</okna>
+<remont>без отделки</remont>
+<tel>Т</tel>
+<telefon>89096978137</telefon>
+<photos>http://lefortovo.roomle.ru/images/big/5224.JPG;http://lefortovo.roomle.ru/images/big/5225.JPG;http://lefortovo.roomle.ru/images/big/5226.JPG;http://lefortovo.roomle.ru/images/big/5227.JPG;http://lefortovo.roomle.ru/images/big/5228.JPG;http://lefortovo.roomle.ru/images/big/5229.JPG;http://lefortovo.roomle.ru/images/big/5230.JPG;http://lefortovo.roomle.ru/images/big/5231.JPG;http://lefortovo.roomle.ru/images/big/5232.JPG;http://lefortovo.roomle.ru/images/big/5255.jpg;http://lefortovo.roomle.ru/images/big/5256.jpg;</photos>
+<remark>
+<![CDATA[В жилом комплексе &quot;Лобачевский&quot; продаем по переуступке однокомнатную квартиру свободной планировки(очень удачная планировка) можно сделать двухкомнатную квартиру. Комплекс огорожен под видео наблюдением. сдача в третьем квартале 2016г.  В комплексе подземный паркинг, свой детский сад. Рядом с комплексом два парка. В 2018 и в 2020 году построят две станции метро.
+можно просмотреть видео https://www.youtube.com/watch?v=d-zYgZPO8Bs
+]]>
+</remark>
+<winner_only>0</winner_only>
+<SiteTitle>
+</SiteTitle>
+<SiteKeywords>
+</SiteKeywords>
+<SiteDescription>
+</SiteDescription>
+<SiteVideo>
+</SiteVideo>
+</flat>
+
+<flat>
+<id>404</id>
+<date>15.07.2016</date>
+<actual>продается</actual>
+<aptp>квартира</aptp>
+<status>прямая продажа</status>
+<nova>-</nova>
+<area>Москва</area>
+<town>Москва г</town>
+<metro_list>
+<metro farval="5" fartp="т">Митино</metro>
+</metro_list>
+<address> Генерала Белобородова</address>
+<dom>24</dom>
+<price currency="RUB">15000000</price>
+<flats>3</flats>
+<rooms>3</rooms>
+<sq pl_ob="116.0" pl="66.5" kitch="12.3"> </sq>
+<floor>6</floor>
+<fl_ob>24</fl_ob>
+<tip>МК</tip>
+<lift>лифт пассажирский и лифт грузовой</lift>
+<musor>без мусоропровода</musor>
+<balkon>Л</balkon>
+<san>2</san>
+<okna>окна во двор и на улицу</okna>
+<remont>без отделки</remont>
+<tel>Т</tel>
+<telefon>89161888022</telefon>
+<photos>http://lefortovo.roomle.ru/images/big/5233.jpg;http://lefortovo.roomle.ru/images/big/5234.jpg;http://lefortovo.roomle.ru/images/big/5235.jpg;http://lefortovo.roomle.ru/images/big/5236.jpg;http://lefortovo.roomle.ru/images/big/5237.jpg;http://lefortovo.roomle.ru/images/big/5238.jpg;http://lefortovo.roomle.ru/images/big/5239.jpg;http://lefortovo.roomle.ru/images/big/5240.jpg;</photos>
+<remark>
+<![CDATA[Квартира в собственности, развитая инфраструктура, подземный паркинг, свободная планировка, 1 собственник, свободная продажа.]]>
+</remark>
+<winner_only>0</winner_only>
+<SiteTitle>
+</SiteTitle>
+<SiteKeywords>
+</SiteKeywords>
+<SiteDescription>
+</SiteDescription>
+<SiteVideo>
+</SiteVideo>
+</flat>
+
+<flat>
+<id>405</id>
+<date>18.07.2016</date>
+<actual>продается</actual>
+<aptp>квартира</aptp>
+<status>альтернатива</status>
+<nova>-</nova>
+<area>Москва</area>
+<town>Москва г</town>
+<metro_list>
+<metro farval="5" fartp="т">Таганская</metro>
+<metro farval="5" fartp="т">Марксистская</metro>
+<metro farval="15" fartp="п">Волгоградский проспект</metro>
+<metro farval="15" fartp="п">Авиамоторная</metro>
+</metro_list>
+<address>Нижегородская ул</address>
+<dom>68</dom>
+<price currency="RUB">5100000</price>
+<flats>1</flats>
+<rooms>1</rooms>
+<sq pl_ob="33.0" pl="20.0" kitch="6.0"> </sq>
+<floor>4</floor>
+<fl_ob>5</fl_ob>
+<tip>К</tip>
+<lift>без лифта</lift>
+<musor>без мусоропровода</musor>
+<balkon>Б</balkon>
+<san>С</san>
+<okna>окна во двор</okna>
+<remont>хорошее состояние</remont>
+<tel>-</tel>
+<telefon>89646203759</telefon>
+<photos>http://lefortovo.roomle.ru/images/big/5241.jpg;http://lefortovo.roomle.ru/images/big/5242.jpg;http://lefortovo.roomle.ru/images/big/5243.jpg;http://lefortovo.roomle.ru/images/big/5244.jpg;http://lefortovo.roomle.ru/images/big/5245.jpg;http://lefortovo.roomle.ru/images/big/5246.jpg;http://lefortovo.roomle.ru/images/big/5247.jpg;http://lefortovo.roomle.ru/images/big/5248.jpg;http://lefortovo.roomle.ru/images/big/5249.jpg;</photos>
+<remark>
+<![CDATA[удачное расположение, зеленый двор, один собственник, дкп более 3х лет, окна во двор, квартира угловая, душевая кабина, показы практически в любое время, альтернатива подобрана, очень быстрый выход на сделку, в 2018 году открытие метро улица нижегородская]]>
+</remark>
+<winner_only>0</winner_only>
+<SiteTitle>
+</SiteTitle>
+<SiteKeywords>
+</SiteKeywords>
+<SiteDescription>
+</SiteDescription>
+<SiteVideo>
+</SiteVideo>
+</flat>
+
+<flat>
+<id>407</id>
+<date>20.07.2016</date>
+<actual>продается</actual>
+<aptp>квартира</aptp>
+<status>альтернатива</status>
+<nova>-</nova>
+<area>Москва</area>
+<town>Москва г</town>
+<metro_list>
+<metro farval="10" fartp="п">Октябрьское поле</metro>
+</metro_list>
+<address>Расплетина ул</address>
+<dom>2</dom>
+<price currency="RUB">12200000</price>
+<flats>2</flats>
+<rooms>2</rooms>
+<sq pl_ob="54.0" pl="33.0" kitch="7.0"> </sq>
+<floor>5</floor>
+<fl_ob>7</fl_ob>
+<tip>К</tip>
+<lift>лифт пассажирский</lift>
+<musor>мусоропровод</musor>
+<balkon>Б</balkon>
+<san>Р</san>
+<okna>окна во двор</okna>
+<remont>среднее состояние</remont>
+<tel>-</tel>
+<telefon>89646203759</telefon>
+<photos>http://lefortovo.roomle.ru/images/big/5360.JPG;http://lefortovo.roomle.ru/images/big/5349.JPG;http://lefortovo.roomle.ru/images/big/5350.JPG;http://lefortovo.roomle.ru/images/big/5351.JPG;http://lefortovo.roomle.ru/images/big/5352.JPG;http://lefortovo.roomle.ru/images/big/5353.JPG;http://lefortovo.roomle.ru/images/big/5354.JPG;http://lefortovo.roomle.ru/images/big/5355.JPG;http://lefortovo.roomle.ru/images/big/5356.JPG;http://lefortovo.roomle.ru/images/big/5357.JPG;http://lefortovo.roomle.ru/images/big/5358.JPG;http://lefortovo.roomle.ru/images/big/5359.JPG;http://lefortovo.roomle.ru/images/big/5361.JPG;http://lefortovo.roomle.ru/images/big/5362.JPG;http://lefortovo.roomle.ru/images/big/5363.JPG;http://lefortovo.roomle.ru/images/big/5364.JPG;http://lefortovo.roomle.ru/images/big/5365.JPG;</photos>
+<remark>
+<![CDATA[среднее состояние, два взрослых собственника, полная сумма в договоре, комнаты изолированные, потолки более 3х метров, показы по договоренности, альтернатива на однокомнатную квартиру]]>
+</remark>
+<winner_only>0</winner_only>
+<SiteTitle>
+</SiteTitle>
+<SiteKeywords>
+</SiteKeywords>
+<SiteDescription>
+</SiteDescription>
+<SiteVideo>
+</SiteVideo>
+</flat>
+
+<flat>
+<id>408</id>
+<date>25.07.2016</date>
+<actual>продается</actual>
+<aptp>квартира</aptp>
+<status>прямая продажа</status>
+<nova>-</nova>
+<area>Москва</area>
+<town>Москва г</town>
+<metro_list>
+<metro farval="10" fartp="т">Новокосино</metro>
+</metro_list>
+<address>Татьяны Макаровой ул</address>
+<dom>4</dom>
+<price currency="RUB">20000000</price>
+<flats>3</flats>
+<rooms>3</rooms>
+<sq pl_ob="80.0" pl="45.0" kitch="13.0"> </sq>
+<floor>16</floor>
+<fl_ob>16</fl_ob>
+<tip>П</tip>
+<lift>лифт пассажирский и лифт грузовой</lift>
+<musor>мусоропровод</musor>
+<balkon>2Б</balkon>
+<san>2</san>
+<okna>окна во двор и на улицу</okna>
+<remont>эксклюзивный евроремонт</remont>
+<telefon>89161888022</telefon>
+<photos>http://lefortovo.roomle.ru/images/big/5296.jpg;http://lefortovo.roomle.ru/images/big/5298.jpg;http://lefortovo.roomle.ru/images/big/5299.jpg;http://lefortovo.roomle.ru/images/big/5300.jpg;http://lefortovo.roomle.ru/images/big/5301.jpg;http://lefortovo.roomle.ru/images/big/5302.jpg;http://lefortovo.roomle.ru/images/big/5303.jpg;http://lefortovo.roomle.ru/images/big/5304.jpg;http://lefortovo.roomle.ru/images/big/5305.jpg;http://lefortovo.roomle.ru/images/big/5306.jpg;http://lefortovo.roomle.ru/images/big/5307.jpg;http://lefortovo.roomle.ru/images/big/5308.jpg;http://lefortovo.roomle.ru/images/big/5309.jpg;http://lefortovo.roomle.ru/images/big/5311.jpg;http://lefortovo.roomle.ru/images/big/5312.jpg;http://lefortovo.roomle.ru/images/big/5313.jpg;</photos>
+<remark>
+<![CDATA[К продаже предлагается трехкомнатная квартира. Общая площадь - 80 кв.м. (жилая - 45 кв.м; кухня - 13 кв.м; два застекленных балкона; два санузла). Дизайнерский ремонт, включая полы с подогревом.  Кухонная мебель и техника - в подарок.  Ипотека возможна. Свободная продажа. ]]>
+</remark>
+<winner_only>0</winner_only>
+<SiteTitle>
+</SiteTitle>
+<SiteKeywords>
+</SiteKeywords>
+<SiteDescription>
+</SiteDescription>
+<SiteVideo>
+</SiteVideo>
+</flat>
+
+<flat>
+<id>418</id>
+<date>01.08.2016</date>
+<actual>продается</actual>
+<aptp>квартира</aptp>
+<status>прямая продажа</status>
+<nova>-</nova>
+<area>Москва</area>
+<town>Москва г</town>
+<metro_list>
+<metro farval="7" fartp="п">Преображенская площадь</metro>
+</metro_list>
+<address>Знаменская ул</address>
+<dom>5</dom>
+<price currency="RUB">6100000</price>
+<flats>1</flats>
+<rooms>1</rooms>
+<sq pl_ob="35.0" pl="15.0" kitch="9.0"> </sq>
+<floor>1</floor>
+<fl_ob>14</fl_ob>
+<tip>К</tip>
+<lift>лифт пассажирский и лифт грузовой</lift>
+<musor>мусоропровод</musor>
+<balkon>-</balkon>
+<san>С</san>
+<okna>окна во двор</okna>
+<remont>хорошее состояние</remont>
+<telefon>89036185177;84955870057</telefon>
+<photos>http://lefortovo.roomle.ru/images/big/5433.jpg;http://lefortovo.roomle.ru/images/big/5439.jpg;http://lefortovo.roomle.ru/images/big/5440.jpg;http://lefortovo.roomle.ru/images/big/5441.jpg;http://lefortovo.roomle.ru/images/big/5442.jpg;http://lefortovo.roomle.ru/images/big/5445.jpg;http://lefortovo.roomle.ru/images/big/5444.jpg;http://lefortovo.roomle.ru/images/big/5443.jpg;http://lefortovo.roomle.ru/images/big/5446.jpg;http://lefortovo.roomle.ru/images/big/5447.jpg;http://lefortovo.roomle.ru/images/big/5448.jpg;</photos>
+<remark>
+<![CDATA[К продаже предлагается однокомнатная квартира. Общая площадь - 35 кв.м (жилая - 15 кв.м; кухня - 9,5 кв.м; прихожая - 6,6 кв.м). Санузел - совмещенный. Высокий первый этаж. На окнах решетки. Чистый подъезд, консьерж. Хорошие соседи. Тихий,  зеленый и удобно расположенный  район в центре Москвы. Развитая инфраструктура.  Хорошая транспортная доступность. 1 взрослый собственник. Свободная продажа. Оперативный показ. Быстрый выход на сделку. Более 3-х лет в собственности. Торг возможен.]]>
+</remark>
+<winner_only>0</winner_only>
+<SiteTitle>
+</SiteTitle>
+<SiteKeywords>
+</SiteKeywords>
+<SiteDescription>
+</SiteDescription>
+<SiteVideo>
+</SiteVideo>
+</flat>
+
+<flat>
+<id>442</id>
+<date>15.08.2016</date>
+<actual>продается</actual>
+<aptp>квартира</aptp>
+<status>прямая продажа</status>
+<nova>-</nova>
+<area>Москва</area>
+<town>Москва г</town>
+<metro_list>
+<metro farval="3" fartp="п">Смоленская</metro>
+</metro_list>
+<address>Новый Арбат</address>
+<dom>32</dom>
+<price currency="RUB">36000000</price>
+<flats>1</flats>
+<rooms>1</rooms>
+<sq pl_ob="70.7" pl="40.0" kitch="15.0"> </sq>
+<floor>5</floor>
+<fl_ob>13</fl_ob>
+<tip>Э</tip>
+<lift>лифт пассажирский и лифт грузовой</lift>
+<musor>мусоропровод</musor>
+<balkon>Л</balkon>
+<san>Р</san>
+<okna>окна во двор и на улицу</okna>
+<remont>без отделки</remont>
+<tel>Т</tel>
+<telefon>89651475904</telefon>
+<photos>http://lefortovo.roomle.ru/images/big/5617998.jpg;http://lefortovo.roomle.ru/images/big/5619890.jpg;http://lefortovo.roomle.ru/images/big/562049.jpg;http://lefortovo.roomle.ru/images/big/5621985.jpg;http://lefortovo.roomle.ru/images/big/5622231.jpg;http://lefortovo.roomle.ru/images/big/5623894.jpg;http://lefortovo.roomle.ru/images/big/5624663.jpg;</photos>
+<remark>
+<![CDATA[Комплекс «Новый Арбат, 32» — уникальный проект, сочетающий в себе инновационные технологии строительства, продуманность каждой детали, а также высококлассный сервис от одного из лидеров мирового рынка гостиничных услуг — Marriott International. Престижное место, исторические места Москвы, экология и инфраструктура.]]>
+</remark>
+<winner_only>0</winner_only>
+<SiteTitle>Эксклюзивное предложение - квартиры в ЖК "Новый Арбат 32"</SiteTitle>
+<SiteKeywords>
+</SiteKeywords>
+<SiteDescription>
+</SiteDescription>
+<SiteVideo>
+</SiteVideo>
+</flat>
+
+<flat>
+<id>443</id>
+<date>16.08.2016</date>
+<actual>продается</actual>
+<aptp>квартира</aptp>
+<status>альтернатива</status>
+<nova>-</nova>
+<area>Москва</area>
+<town>Москва г</town>
+<metro_list>
+<metro farval="10" fartp="п">ВДНХ</metro>
+</metro_list>
+<address>Академика Королева ул</address>
+<dom>8к2</dom>
+<price currency="RUB">16600000</price>
+<flats>3</flats>
+<rooms>3</rooms>
+<sq pl_ob="77.0" pl="44.0" kitch="10.0"> </sq>
+<floor>8</floor>
+<fl_ob>22</fl_ob>
+<tip>П</tip>
+<lift>лифт пассажирский и лифт грузовой</lift>
+<musor>мусоропровод</musor>
+<balkon>Б</balkon>
+<san>Р</san>
+<okna>окна во двор и на улицу</okna>
+<remont>требуется ремонт</remont>
+<telefon>89652977779</telefon>
+<photos>http://lefortovo.roomle.ru/images/big/5601569.jpg;http://lefortovo.roomle.ru/images/big/560959.jpg;http://lefortovo.roomle.ru/images/big/5611381.jpg;http://lefortovo.roomle.ru/images/big/56139.jpg;http://lefortovo.roomle.ru/images/big/5614926.jpg;http://lefortovo.roomle.ru/images/big/5615726.jpg;http://lefortovo.roomle.ru/images/big/5616835.jpg;</photos>
+<remark>
+<![CDATA[Интересное предложение!!! Продаётся просторная квартира в отличном районе. 
+Площадь 77,1/43,8(18,7-13,7-11,4)/10.1. СУР
+Более 3-х лет. Все подробности по телефону
++7 965 297 7779 Ян
++7 905 535 3888 Галина]]>
+</remark>
+<winner_only>0</winner_only>
+<SiteTitle>
+</SiteTitle>
+<SiteKeywords>
+</SiteKeywords>
+<SiteDescription>
+</SiteDescription>
+<SiteVideo>
+</SiteVideo>
+</flat>
+
+<flat>
+<id>444</id>
+<date>22.08.2016</date>
+<actual>продается</actual>
+<aptp>квартира</aptp>
+<status>прямая продажа</status>
+<nova>-</nova>
+<area>Москва</area>
+<town>Москва г</town>
+<metro_list>
+<metro farval="5" fartp="п">Серпуховская</metro>
+</metro_list>
+<address>Большая Серпуховская ул</address>
+<dom>34</dom>
+<price currency="RUB">20100000</price>
+<flats>3</flats>
+<rooms>3</rooms>
+<sq pl_ob="58.0" pl="41.0" kitch="6.0"> </sq>
+<floor>1</floor>
+<fl_ob>3</fl_ob>
+<tip>К</tip>
+<lift>без лифта</lift>
+<musor>без мусоропровода</musor>
+<balkon>-</balkon>
+<san>Р</san>
+<okna>окна во двор и на улицу</okna>
+<remont>среднее состояние</remont>
+<telefon>89161888022;84955870057</telefon>
+<photos>http://lefortovo.roomle.ru/images/big/5628385.jpg;http://lefortovo.roomle.ru/images/big/5629141.jpg;http://lefortovo.roomle.ru/images/big/5630887.jpg;http://lefortovo.roomle.ru/images/big/5631990.jpg;</photos>
+<remark>
+<![CDATA[К продаже предлагается 3-х комнатная квартира. Общая площадь 58 кв.м. (жилая - 41, кухня - 5.5). Центр Москвы. 4 собственника.]]>
+</remark>
+<winner_only>0</winner_only>
+<SiteTitle>
+</SiteTitle>
+<SiteKeywords>
+</SiteKeywords>
+<SiteDescription>
+</SiteDescription>
+<SiteVideo>
+</SiteVideo>
+</flat>
+
+<flat>
+<id>447</id>
+<date>23.08.2016</date>
+<actual>продается</actual>
+<aptp>квартира</aptp>
+<status>альтернатива</status>
+<nova>-</nova>
+<area>Московская область</area>
+<locality>Дмитровский район</locality>
+<town>Дмитров г</town>
+<address>Загорская ул</address>
+<dom>34</dom>
+<price currency="RUB">3700000</price>
+<flats>2</flats>
+<rooms>2</rooms>
+<sq pl_ob="45.0" pl="27.0" kitch="6.8"> </sq>
+<floor>1</floor>
+<fl_ob>9</fl_ob>
+<tip>П</tip>
+<lift>лифт пассажирский и лифт грузовой</lift>
+<musor>без мусоропровода</musor>
+<balkon>Б</balkon>
+<san>Р</san>
+<okna>окна во двор</okna>
+<remont>евроремонт</remont>
+<tel>Т</tel>
+<telefon>89161888022</telefon>
+<photos>http://lefortovo.roomle.ru/images/big/5665891.jpg;</photos>
+<remark>
+<![CDATA[Предлагается 2х комнатная квартира с превосходным ремонтом! ЦЕНТР, 5 минут от платформы Дмитров, высокий первый этаж с застеклённым балконом, комнаты раздельные 15/12 , лёгкая альтернатива, 1 собственник, более 3х лет в собственности.]]>
+</remark>
+<winner_only>0</winner_only>
+<SiteTitle>
+</SiteTitle>
+<SiteKeywords>
+</SiteKeywords>
+<SiteDescription>
+</SiteDescription>
+<SiteVideo>
+</SiteVideo>
+</flat>
+
+<flat>
+<id>451</id>
+<date>25.08.2016</date>
+<actual>продается</actual>
+<aptp>квартира</aptp>
+<status>альтернатива</status>
+<nova>-</nova>
+<area>Москва</area>
+<town>Москва г</town>
+<metro_list>
+<metro farval="7" fartp="п">Академическая</metro>
+</metro_list>
+<address>Кедрова ул</address>
+<dom>16к1</dom>
+<price currency="RUB">7800000</price>
+<flats>1</flats>
+<rooms>1</rooms>
+<sq pl_ob="38.0" pl="20.0" kitch="8.0"> </sq>
+<floor>5</floor>
+<fl_ob>5</fl_ob>
+<tip>С</tip>
+<balkon>Б</balkon>
+<san>С</san>
+<okna>окна во двор</okna>
+<remont>среднее состояние</remont>
+<tel>Т</tel>
+<telefon>89652977779</telefon>
+<photos>http://lefortovo.roomle.ru/images/big/5750673.jpg;http://lefortovo.roomle.ru/images/big/5751785.jpg;http://lefortovo.roomle.ru/images/big/5752771.jpg;http://lefortovo.roomle.ru/images/big/5753262.jpg;http://lefortovo.roomle.ru/images/big/5754392.jpg;http://lefortovo.roomle.ru/images/big/5755687.jpg;http://lefortovo.roomle.ru/images/big/5756752.jpg;http://lefortovo.roomle.ru/images/big/5757316.jpg;</photos>
+<remark>
+<![CDATA[Отличное предложение!
+Продаётся уютная квартира в кирпичном доме сталинского проекта. 
+Жилое состояние, высокие потолки и просторная комната. В квартире установлены стеклопакеты. Отличные соседи. Квартира в собственности более 3-х лет, 1 взрослый собственник.
+Лёгкая альтернатива, все подробности по телефону
++7 965 297 7779 Ян
++7 905 535 3888 Галина]]>
+</remark>
+<winner_only>0</winner_only>
+<SiteTitle>
+</SiteTitle>
+<SiteKeywords>
+</SiteKeywords>
+<SiteDescription>
+</SiteDescription>
+<SiteVideo>
+</SiteVideo>
+</flat>
+
+<flat>
+<id>452</id>
+<date>26.08.2016</date>
+<actual>продается</actual>
+<aptp>квартира</aptp>
+<nova>+</nova>
+<area>Московская область</area>
+<locality>Люберецкий район</locality>
+<town>Москва г</town>
+<address>Наташинская ул</address>
+<dom>12</dom>
+<price currency="RUB">3000000</price>
+<flats>1</flats>
+<rooms>1</rooms>
+<sq pl_ob="42.0" pl="18.0" kitch="10.0"> </sq>
+<floor>9</floor>
+<fl_ob>25</fl_ob>
+<house_series>КОПЭ-М-ПАРУС</house_series>
+<tip>П</tip>
+<lift>лифт пассажирский и лифт грузовой</lift>
+<balkon>Л</balkon>
+<san>Р</san>
+<okna>окна во двор</okna>
+<remont>требуется ремонт</remont>
+<telefon>89161888022</telefon>
+<photos>http://lefortovo.roomle.ru/images/big/5673240.jpg;</photos>
+<remark>
+<![CDATA[г. Люберцы. Жилищный район &quot;Красная горка&quot;, квартира без отделки с хорошей планировкой. Установлены энергосберегающие двухкамерные оконные стеклопакеты, окна во двор, прямая продажа.]]>
+</remark>
+<winner_only>0</winner_only>
+<SiteTitle>
+</SiteTitle>
+<SiteKeywords>
+</SiteKeywords>
+<SiteDescription>
+</SiteDescription>
+<SiteVideo>
+</SiteVideo>
+</flat>
+
+<flat>
+<id>453</id>
+<date>30.08.2016</date>
+<actual>продается</actual>
+<aptp>квартира</aptp>
+<status>прямая продажа</status>
+<nova>-</nova>
+<area>Москва</area>
+<town>Москва г</town>
+<metro_list>
+<metro farval="2" fartp="п">Новогиреево</metro>
+</metro_list>
+<address>Зеленый проспект</address>
+<dom>64</dom>
+<price currency="RUB">7450000</price>
+<flats>2</flats>
+<rooms>2</rooms>
+<sq pl_ob="42.0" pl="26.0" kitch="6.0"> </sq>
+<floor>6</floor>
+<fl_ob>9</fl_ob>
+<tip>К</tip>
+<lift>лифт пассажирский</lift>
+<musor>мусоропровод</musor>
+<balkon>Б</balkon>
+<san>Р</san>
+<okna>окна во двор</okna>
+<remont>хорошее состояние</remont>
+<telefon>89161888022</telefon>
+<photos>http://lefortovo.roomle.ru/images/big/5678887.jpeg;http://lefortovo.roomle.ru/images/big/5679925.jpeg;http://lefortovo.roomle.ru/images/big/5680857.jpeg;http://lefortovo.roomle.ru/images/big/5681783.jpeg;http://lefortovo.roomle.ru/images/big/5682922.jpeg;http://lefortovo.roomle.ru/images/big/5708487.JPG;http://lefortovo.roomle.ru/images/big/571259.JPG;http://lefortovo.roomle.ru/images/big/5713864.JPG;http://lefortovo.roomle.ru/images/big/5714351.JPG;http://lefortovo.roomle.ru/images/big/5715917.JPG;</photos>
+<remark>
+<![CDATA[К продаже предлагается 2-х комнатная квартира. Общая площадь - 42 кв.м. (жилая - 26 кв.м; кухня - 6 кв.м). Балкон.  В квартире произведен косметический  ремонт, установлена  новая сантехника, постелен ковролин на полу.  Окна  выходят на тихий зеленый двор. Чистый подъезд.  Развитый район. до метро &quot;Новогиреево&quot;  2-3 мин. шагом и 20 минут до центра Москвы. Менее 3-х лет в собственности. 1 взрослый собственник. Свободная продажа. Ипотека возможна. Оперативный показ.]]>
+</remark>
+<winner_only>0</winner_only>
+<SiteTitle>
+</SiteTitle>
+<SiteKeywords>
+</SiteKeywords>
+<SiteDescription>
+</SiteDescription>
+<SiteVideo>
+</SiteVideo>
+</flat>
+
+<flat>
+<id>454</id>
+<date>31.08.2016</date>
+<actual>продается</actual>
+<aptp>квартира</aptp>
+<status>альтернатива</status>
+<nova>-</nova>
+<area>Москва</area>
+<town>Москва г</town>
+<metro_list>
+<metro farval="5" fartp="п">Тушинская</metro>
+</metro_list>
+<address>Волоколамское ш</address>
+<dom>100</dom>
+<price currency="RUB">7300000</price>
+<flats>2</flats>
+<rooms>2</rooms>
+<sq pl_ob="43.2" pl="29.0" kitch="6.0"> </sq>
+<floor>2</floor>
+<fl_ob>5</fl_ob>
+<tip>К</tip>
+<balkon>Б</balkon>
+<san>С</san>
+<okna>окна во двор</okna>
+<remont>отличное состояние</remont>
+<telefon>89651475904</telefon>
+<photos>http://lefortovo.roomle.ru/images/big/589692.jpg;http://lefortovo.roomle.ru/images/big/5901936.jpg;http://lefortovo.roomle.ru/images/big/5902570.jpg;http://lefortovo.roomle.ru/images/big/5903688.jpg;http://lefortovo.roomle.ru/images/big/5904820.jpg;http://lefortovo.roomle.ru/images/big/5905801.jpg;http://lefortovo.roomle.ru/images/big/5906581.jpg;http://lefortovo.roomle.ru/images/big/5907216.jpg;http://lefortovo.roomle.ru/images/big/5908916.jpg;</photos>
+<remark>
+<![CDATA[Чудесная, очень уютная квартира со свежим ремонтом, «заезжай и живи». Встроенная мебель вся остается. Рядом с метро Тушинская, пешком пять минут. Прекрасная инфраструктура, хороший обжитой район.  Рядом есть все, парки, поликлиника, детский сад, школа, магазины. Удобная транспортная развязка. Зеленая территория, окна выходят во двор. Чистая во всех отношениях, юридически и физически. Один взрослый собственник, никто не прописан. ]]>
+</remark>
+<winner_only>0</winner_only>
+<SiteTitle>
+</SiteTitle>
+<SiteKeywords>
+</SiteKeywords>
+<SiteDescription>
+</SiteDescription>
+<SiteVideo>
+</SiteVideo>
+</flat>
+
+<flat>
+<id>455</id>
+<date>31.08.2016</date>
+<actual>продается</actual>
+<aptp>квартира</aptp>
+<status>прямая продажа</status>
+<nova>-</nova>
+<area>Москва</area>
+<town>Москва г</town>
+<metro_list>
+<metro farval="10" fartp="п">Новогиреево</metro>
+</metro_list>
+<address>Зеленый проспект</address>
+<dom>40к2</dom>
+<price currency="RUB">6450000</price>
+<flats>1</flats>
+<rooms>1</rooms>
+<sq pl_ob="35.0" pl="19.0" kitch="9.0"> </sq>
+<floor>12</floor>
+<fl_ob>12</fl_ob>
+<tip>П</tip>
+<lift>лифт пассажирский</lift>
+<musor>мусоропровод</musor>
+<balkon>Б</balkon>
+<san>С</san>
+<okna>окна во двор</okna>
+<remont>хорошее состояние</remont>
+<telefon>89161888022</telefon>
+<photos>http://lefortovo.roomle.ru/images/big/5702211.JPG;http://lefortovo.roomle.ru/images/big/5704737.JPG;http://lefortovo.roomle.ru/images/big/5705251.JPG;http://lefortovo.roomle.ru/images/big/5706750.JPG;http://lefortovo.roomle.ru/images/big/570720.JPG;</photos>
+<remark>
+<![CDATA[К продаже предлагается 1-комнатная квартира с хорошим ремонтом. Общая площадь - 35 кв.м (жилая - 20 кв.м; кухня - 9 кв.м). Санузел совмещенный. Балкон.  Тамбур закрытый, на три квартиры. Дом после капитального ремонта. Тихий, уютный. район. До метро &quot;Новогиреево&quot; - 8-10 мин. пешком, до  центра - 15 мин. на метро. Все объекты социальной инфраструктуры - в шаговой доступности. 1 взрослый собственник. Более 3-х лет в собственности. Свободная продажа. Показ после 12 сентября с.г.  ]]>
+</remark>
+<winner_only>0</winner_only>
+<SiteTitle>
+</SiteTitle>
+<SiteKeywords>
+</SiteKeywords>
+<SiteDescription>
+</SiteDescription>
+<SiteVideo>
+</SiteVideo>
+</flat>
+
+<flat>
+<id>458</id>
+<date>02.09.2016</date>
+<actual>продается</actual>
+<aptp>квартира</aptp>
+<status>альтернатива</status>
+<nova>-</nova>
+<area>Москва</area>
+<town>Москва г</town>
+<metro_list>
+<metro farval="10" fartp="п">Октябрьское поле</metro>
+</metro_list>
+<address>Расплетина ул</address>
+<dom>3к2</dom>
+<price currency="RUB">6000000</price>
+<flats>1</flats>
+<rooms>1</rooms>
+<sq pl_ob="30.0" pl="18.0" kitch="6.0"> </sq>
+<floor>4</floor>
+<fl_ob>9</fl_ob>
+<tip>К</tip>
+<lift>лифт пассажирский</lift>
+<musor>мусоропровод</musor>
+<balkon>Б</balkon>
+<san>С</san>
+<okna>окна во двор</okna>
+<remont>требуется ремонт</remont>
+<tel>-</tel>
+<telefon>89646203759</telefon>
+<remark>
+<![CDATA[удачное расположение дома, один собственник, приватизация более 3х лет, требуется ремонт, альтернатива на однокомнатную квартиру в другом районе]]>
+</remark>
+<winner_only>0</winner_only>
+<SiteTitle>
+</SiteTitle>
+<SiteKeywords>
+</SiteKeywords>
+<SiteDescription>
+</SiteDescription>
+<SiteVideo>
+</SiteVideo>
+</flat>
+
+<flat>
+<id>461</id>
+<date>09.09.2016</date>
+<actual>продается</actual>
+<aptp>квартира</aptp>
+<status>прямая продажа</status>
+<nova>-</nova>
+<area>Москва</area>
+<town>Москва г</town>
+<metro_list>
+<metro farval="15" fartp="п">Речной вокзал</metro>
+</metro_list>
+<address>Дыбенко ул</address>
+<dom>14к2</dom>
+<price currency="RUB">9100000</price>
+<flats>1</flats>
+<rooms>1</rooms>
+<sq pl_ob="51.0" pl="23.0" kitch="12.0"> </sq>
+<floor>11</floor>
+<fl_ob>24</fl_ob>
+<tip>К</tip>
+<lift>лифт пассажирский и лифт грузовой</lift>
+<musor>мусоропровод</musor>
+<balkon>Л</balkon>
+<san>Р</san>
+<okna>окна во двор и на улицу</okna>
+<remont>отличное состояние</remont>
+<tel>-</tel>
+<telefon>89646203759</telefon>
+<photos>http://lefortovo.roomle.ru/images/big/5749755.jpg;</photos>
+<remark>
+<![CDATA[один собственник, договор купли продажи менее 3х лет, дом бизнес класса, пять лифтов, большая застекленная лоджия, ванная 6кв.м, плитка до потолка]]>
+</remark>
+<winner_only>0</winner_only>
+<SiteTitle>
+</SiteTitle>
+<SiteKeywords>
+</SiteKeywords>
+<SiteDescription>
+</SiteDescription>
+<SiteVideo>
+</SiteVideo>
+</flat>
+
+<flat>
+<id>462</id>
+<date>13.09.2016</date>
+<actual>продается</actual>
+<aptp>квартира</aptp>
+<status>прямая продажа</status>
+<nova>-</nova>
+<area>Москва</area>
+<town>Москва г</town>
+<metro_list>
+<metro farval="10" fartp="п">Авиамоторная</metro>
+</metro_list>
+<address>Авиамоторная ул</address>
+<dom>34к1</dom>
+<price currency="RUB">11200000</price>
+<flats>3</flats>
+<rooms>3</rooms>
+<sq pl_ob="69.0" pl="44.0" kitch="8.0"> </sq>
+<floor>13</floor>
+<fl_ob>16</fl_ob>
+<tip>БП</tip>
+<lift>лифт пассажирский и лифт грузовой</lift>
+<musor>мусоропровод</musor>
+<balkon>Л</balkon>
+<san>Р</san>
+<okna>окна во двор</okna>
+<remont>среднее состояние</remont>
+<tel>Т</tel>
+<telefon>89651475904</telefon>
+<photos>http://lefortovo.roomle.ru/images/big/5839450.jpg;http://lefortovo.roomle.ru/images/big/5831499.jpg;http://lefortovo.roomle.ru/images/big/5832775.jpg;http://lefortovo.roomle.ru/images/big/5833186.jpg;http://lefortovo.roomle.ru/images/big/5834602.jpg;http://lefortovo.roomle.ru/images/big/5835538.jpg;http://lefortovo.roomle.ru/images/big/5837606.jpg;http://lefortovo.roomle.ru/images/big/5836949.jpg;http://lefortovo.roomle.ru/images/big/583849.jpg;http://lefortovo.roomle.ru/images/big/5840703.jpg;http://lefortovo.roomle.ru/images/big/5841676.jpg;http://lefortovo.roomle.ru/images/big/5842102.jpg;http://lefortovo.roomle.ru/images/big/5844648.jpg;http://lefortovo.roomle.ru/images/big/5843445.jpg;http://lefortovo.roomle.ru/images/big/5845547.jpg;http://lefortovo.roomle.ru/images/big/5846449.jpg;http://lefortovo.roomle.ru/images/big/5847516.jpg;http://lefortovo.roomle.ru/images/big/5848868.jpg;http://lefortovo.roomle.ru/images/big/584941.jpg;http://lefortovo.roomle.ru/images/big/5850822.jpg;http://lefortovo.roomle.ru/images/big/5851573.jpg;http://lefortovo.roomle.ru/images/big/5852251.jpg;http://lefortovo.roomle.ru/images/big/5853415.jpg;http://lefortovo.roomle.ru/images/big/5854157.jpg;http://lefortovo.roomle.ru/images/big/605549.jpg;</photos>
+<remark>
+<![CDATA[ Видовая трехкомнатная квартира, из окон открывается вся панорама Москвы.  Дом находится на возвышенности, видны  все высотки, Останкинская башня, Москва-Сити и пр. Вокруг - институты и памятники архитектуры. Малоэтажный комплекса &quot;Дангауэровка&quot;. Комплекс является объектом культурного наследия, к сносу запрещен - гарантия отличного вида, без многоэтажных новостроек.
+Изолированные комнаты, раздельный санузел.  Лоджия 6 метров, чистый подъезд, консьерж, новые лифты.
+Прекрасная инфраструктура, всё в пешей доступности: детские площадки, детские сады, поликлиники, магазины. До метро 9 мин. пешком. Отличная транспортная доступность, 5-7 мин. на машине до центра на авто. В квартире никогда не жили домашние животные. Квартира не затапливалась и не горела. В квартире не курили. Один взрослый собственник, прописаны двое взрослых. Быстрый выход на сделку, свободная продажа.
+Звоните, с удовольствием отвечу на ваши вопросы. Агентство &quot;Миэль&quot;. 
+
+
+
+]]>
+</remark>
+<winner_only>0</winner_only>
+<SiteTitle>
+</SiteTitle>
+<SiteKeywords>
+</SiteKeywords>
+<SiteDescription>
+</SiteDescription>
+<SiteVideo>
+</SiteVideo>
+</flat>
+
+<flat>
+<id>464</id>
+<date>13.09.2016</date>
+<actual>продается</actual>
+<aptp>квартира</aptp>
+<status>альтернатива</status>
+<nova>-</nova>
+<area>Москва</area>
+<town>Москва </town>
+<metro_list>
+<metro farval="10" fartp="п">Проспект Мира</metro>
+</metro_list>
+<address>проспект мира </address>
+<dom>74</dom>
+<price currency="RUB">20500000</price>
+<flats>2</flats>
+<rooms>2</rooms>
+<sq pl_ob="68.0" pl="35.0" kitch="10.0"> </sq>
+<floor>4</floor>
+<fl_ob>9</fl_ob>
+<tip>С</tip>
+<lift>лифт пассажирский и лифт грузовой</lift>
+<musor>без мусоропровода</musor>
+<balkon>Б</balkon>
+<san>Р</san>
+<okna>окна во двор и на улицу</okna>
+<remont>хорошее состояние</remont>
+<tel>Т</tel>
+<telefon>89265435518</telefon>
+<remark>
+<![CDATA[Продаётся двух комнатная квартира , Москва , пр-т Мира 74, стр. 1, 68/16+19\10 в хорошем состоянии , распашонка, документы готовый , ипотека возможна  . альтернатива подобрана , полная стоимость в договоре , собственник взрослый, без перепланировок и обременении , консьерж, всё в пешей доступности , метро , школа , магазин , сад , цена 20 500 000 рублей ,тел. 8-926-543-55-18.]]>
+</remark>
+<winner_only>0</winner_only>
+<SiteTitle>
+</SiteTitle>
+<SiteKeywords>
+</SiteKeywords>
+<SiteDescription>
+</SiteDescription>
+<SiteVideo>
+</SiteVideo>
+</flat>
+
+<flat>
+<id>466</id>
+<date>19.09.2016</date>
+<actual>продается</actual>
+<aptp>квартира</aptp>
+<status>прямая продажа</status>
+<nova>-</nova>
+<area>Москва</area>
+<town>Москва г</town>
+<metro_list>
+<metro farval="20" fartp="п">Севастопольская</metro>
+<metro farval="20" fartp="п">Нахимовский проспект</metro>
+<metro farval="10" fartp="т">Профсоюзная</metro>
+<metro farval="18" fartp="п">Каховская</metro>
+</metro_list>
+<address>Перекопская ул</address>
+<dom>14, корп.2</dom>
+<price currency="RUB">6100000</price>
+<flats>1</flats>
+<rooms>1</rooms>
+<sq pl_ob="35.5" pl="20.2" kitch="10.1"> </sq>
+<floor>7</floor>
+<fl_ob>12</fl_ob>
+<tip>Б</tip>
+<lift>лифт пассажирский и лифт грузовой</lift>
+<musor>мусоропровод</musor>
+<balkon>Б</balkon>
+<san>С</san>
+<okna>окна во двор</okna>
+<remont>отличное состояние</remont>
+<tel>Т</tel>
+<telefon>89035588636</telefon>
+<photos>http://lefortovo.roomle.ru/images/big/5856450.jpg;http://lefortovo.roomle.ru/images/big/5860140.jpg;http://lefortovo.roomle.ru/images/big/5861503.jpg;http://lefortovo.roomle.ru/images/big/5862457.jpg;http://lefortovo.roomle.ru/images/big/5865778.jpg;http://lefortovo.roomle.ru/images/big/586891.jpg;http://lefortovo.roomle.ru/images/big/5869500.jpg;http://lefortovo.roomle.ru/images/big/608450.jpg;</photos>
+<remark>
+<![CDATA[Продается светлая уютная квартира в Зюзино (ЮЗАО) всего в 10 минутах от центра Москвы! В квартире косметический ремонт, паркет в хорошем состоянии, прекрасный панорамный вид на Москву открывается из окон. Выход на балкон из кухни. Есть возможность сделать &quot;французское окно&quot;. В квартире можно сделать любую перепланировку-несущих конструкций нет!  Чистый подъезд, домофон. Прекрасная инфраструктура: детские сад, школа-лицей,  супермаркеты, банки, почта, поликлиника, рестораны, центры досуг-все в шаговой доступности. Рядом известнейший Перинатальный центр; для любителей спортивной активности-Битцевский парк, до Университета-20 минут пешком. В 2018 году-открытие станции метро Зюзино. Квартира свободна юридически и физически. Оперативный показ, быстрый выход на сделку. Хотите жить в одном из самых ликвидных районов Москвы? Тогда этот вариант для Вас! ]]>
+</remark>
+<winner_only>0</winner_only>
+<SiteTitle>
+</SiteTitle>
+<SiteKeywords>
+</SiteKeywords>
+<SiteDescription>
+</SiteDescription>
+<SiteVideo>
+</SiteVideo>
+</flat>
+
+<flat>
+<id>468</id>
+<date>21.09.2016</date>
+<actual>продается</actual>
+<aptp>квартира</aptp>
+<status>прямая продажа</status>
+<nova>-</nova>
+<area>Московская область</area>
+<locality>Балашихинский район</locality>
+<town>Железнодорожный г</town>
+<address>Новослободская ул</address>
+<dom>15</dom>
+<price currency="RUB">3700000</price>
+<flats>3</flats>
+<rooms>3</rooms>
+<sq pl_ob="57.0" pl="39.0" kitch="6.0"> </sq>
+<floor>4</floor>
+<fl_ob>5</fl_ob>
+<tip>П</tip>
+<balkon>Б</balkon>
+<san>Р</san>
+<okna>окна во двор и на улицу</okna>
+<remont>требуется ремонт</remont>
+<telefon>89652977779</telefon>
+<remark>
+<![CDATA[Продаётся 3-х комнатная квартира в деревне Пуршево, ДКП, 1 взрослый собственник, требуется ремонт.
+Прямая продажа]]>
+</remark>
+<winner_only>0</winner_only>
+<SiteTitle>
+</SiteTitle>
+<SiteKeywords>
+</SiteKeywords>
+<SiteDescription>
+</SiteDescription>
+<SiteVideo>
+</SiteVideo>
+</flat>
+
+<flat>
+<id>469</id>
+<date>21.09.2016</date>
+<actual>продается</actual>
+<aptp>квартира</aptp>
+<status>альтернатива</status>
+<nova>-</nova>
+<area>Москва</area>
+<town>Москва г</town>
+<metro_list>
+<metro farval="2" fartp="п">Бульвар Рокоссовского</metro>
+</metro_list>
+<address>Ивантеевская ул</address>
+<dom>23</dom>
+<price currency="RUB">16000000</price>
+<flats>3</flats>
+<rooms>3</rooms>
+<sq pl_ob="66.0" pl="41.0" kitch="8.0"> </sq>
+<floor>1</floor>
+<fl_ob>5</fl_ob>
+<tip>С</tip>
+<balkon>-</balkon>
+<san>Р</san>
+<okna>окна на улицу</okna>
+<remont>среднее состояние</remont>
+<telefon>89652977779</telefon>
+<photos>http://lefortovo.roomle.ru/images/big/5930528.jpg;http://lefortovo.roomle.ru/images/big/5928906.jpg;http://lefortovo.roomle.ru/images/big/5929101.jpg;</photos>
+<remark>
+<![CDATA[Угловая квартира под нежилое, 5 окон. Единственная оставшаяся в этом доме. Дом сталинской постройки, потолки 3.20
++7 965 297 7779 Ян
++7 905 535 3888 Галина]]>
+</remark>
+<winner_only>0</winner_only>
+<SiteTitle>
+</SiteTitle>
+<SiteKeywords>
+</SiteKeywords>
+<SiteDescription>
+</SiteDescription>
+<SiteVideo>
+</SiteVideo>
+</flat>
+
+<flat>
+<id>470</id>
+<date>21.09.2016</date>
+<actual>продается</actual>
+<aptp>квартира</aptp>
+<status>альтернатива</status>
+<nova>-</nova>
+<area>Москва</area>
+<town>Москва г</town>
+<metro_list>
+<metro farval="12" fartp="т">Петровско-Разумовская</metro>
+<metro farval="15" fartp="п">Речной вокзал</metro>
+</metro_list>
+<address>Ивана Сусанина ул</address>
+<dom>4 корпус 1</dom>
+<price currency="RUB">5450000</price>
+<flats>1</flats>
+<rooms>1</rooms>
+<sq pl_ob="38.0" pl="24.0" kitch="6.5"> </sq>
+<floor>12</floor>
+<fl_ob>12</fl_ob>
+<tip>П</tip>
+<lift>лифт пассажирский и лифт грузовой</lift>
+<balkon>Б</balkon>
+<san>С</san>
+<okna>окна во двор</okna>
+<remont>отличное состояние</remont>
+<tel>Т</tel>
+<telefon>89199979971</telefon>
+<photos>http://lefortovo.roomle.ru/images/big/6100590.JPG;http://lefortovo.roomle.ru/images/big/6101303.JPG;http://lefortovo.roomle.ru/images/big/6102430.JPG;http://lefortovo.roomle.ru/images/big/6103813.JPG;http://lefortovo.roomle.ru/images/big/6104297.JPG;http://lefortovo.roomle.ru/images/big/6105980.JPG;http://lefortovo.roomle.ru/images/big/610660.JPG;http://lefortovo.roomle.ru/images/big/6107443.JPG;http://lefortovo.roomle.ru/images/big/6108405.JPG;http://lefortovo.roomle.ru/images/big/6109282.JPG;</photos>
+<remark>
+<![CDATA[ДКП менее 3х лет. Один взрослый собственник. Двое прописанных. Альтернатива на Химки. Состояние хорошее. Спокойные и адекватные соседи. Документы готовы к сделке. Рядом строят метро Селигерская(20 минут пешком)]]>
+</remark>
+<winner_only>0</winner_only>
+<SiteTitle>
+</SiteTitle>
+<SiteKeywords>
+</SiteKeywords>
+<SiteDescription>
+</SiteDescription>
+<SiteVideo>
+</SiteVideo>
+</flat>
+
+<flat>
+<id>471</id>
+<date>21.09.2016</date>
+<actual>продается</actual>
+<aptp>квартира</aptp>
+<status>прямая продажа</status>
+<nova>-</nova>
+<area>Москва</area>
+<town>Москва г</town>
+<metro_list>
+<metro farval="7" fartp="п">Бабушкинская</metro>
+<metro farval="12" fartp="п">Отрадное</metro>
+</metro_list>
+<address>Полярная ул</address>
+<dom>14 корп 1</dom>
+<price currency="RUB">5500000</price>
+<flats>1</flats>
+<rooms>1</rooms>
+<sq pl_ob="36.0" pl="19.0" kitch="9.0"> </sq>
+<floor>1</floor>
+<fl_ob>10</fl_ob>
+<tip>П</tip>
+<lift>лифт пассажирский и лифт грузовой</lift>
+<musor>мусоропровод</musor>
+<balkon>-</balkon>
+<san>Р</san>
+<okna>окна во двор</okna>
+<remont>хорошее состояние</remont>
+<tel>-</tel>
+<telefon>89199979971</telefon>
+<photos>http://lefortovo.roomle.ru/images/big/593147.PNG;http://lefortovo.roomle.ru/images/big/5932254.PNG;http://lefortovo.roomle.ru/images/big/5933651.PNG;http://lefortovo.roomle.ru/images/big/5934602.PNG;http://lefortovo.roomle.ru/images/big/5935619.PNG;http://lefortovo.roomle.ru/images/big/593687.PNG;http://lefortovo.roomle.ru/images/big/5937114.PNG;</photos>
+<remark>
+<![CDATA[Приватизация более 3х лет. Один взрослый собственник. Никто не прописан. Документыготовы к сделке. Прямая продажа.]]>
+</remark>
+<winner_only>0</winner_only>
+<SiteTitle>
+</SiteTitle>
+<SiteKeywords>
+</SiteKeywords>
+<SiteDescription>
+</SiteDescription>
+<SiteVideo>
+</SiteVideo>
+</flat>
+
+<flat>
+<id>472</id>
+<date>21.09.2016</date>
+<actual>продается</actual>
+<aptp>квартира</aptp>
+<status>прямая продажа</status>
+<nova>-</nova>
+<area>Москва</area>
+<town>Москва г</town>
+<metro_list>
+<metro farval="11" fartp="п">Новогиреево</metro>
+</metro_list>
+<address>Молостовых ул</address>
+<dom>17к1</dom>
+<price currency="RUB">5000000</price>
+<flats>1</flats>
+<rooms>1</rooms>
+<sq pl_ob="34.0" pl="14.0" kitch="11.0"> </sq>
+<floor>1</floor>
+<fl_ob>16</fl_ob>
+<tip>Б</tip>
+<lift>лифт пассажирский и лифт грузовой</lift>
+<balkon>Л</balkon>
+<san>Р</san>
+<okna>окна во двор</okna>
+<remont>хорошее состояние</remont>
+<telefon>89651475904</telefon>
+<photos>http://lefortovo.roomle.ru/images/big/5924760.jpg;http://lefortovo.roomle.ru/images/big/591996.jpg;http://lefortovo.roomle.ru/images/big/5920433.jpg;http://lefortovo.roomle.ru/images/big/5921948.jpg;http://lefortovo.roomle.ru/images/big/5922633.jpg;http://lefortovo.roomle.ru/images/big/5923636.jpg;http://lefortovo.roomle.ru/images/big/5925490.jpg;http://lefortovo.roomle.ru/images/big/5926757.jpg;http://lefortovo.roomle.ru/images/big/5927462.jpg;</photos>
+<remark>
+<![CDATA[Срочно! Продается отличная квартира с качественным ремонтом в шаговой доступности от метро. После ремонта никто не жил. Тихое место, высокий этаж. Два взрослых собственника, приватизация 2006г, полная стоимость в договоре. Быстрый выход на сделку.]]>
+</remark>
+<winner_only>0</winner_only>
+<SiteTitle>
+</SiteTitle>
+<SiteKeywords>
+</SiteKeywords>
+<SiteDescription>
+</SiteDescription>
+<SiteVideo>
+</SiteVideo>
+</flat>
+
+<flat>
+<id>473</id>
+<date>22.09.2016</date>
+<actual>продается</actual>
+<aptp>квартира</aptp>
+<status>прямая продажа</status>
+<nova>-</nova>
+<area>Москва</area>
+<town>Москва г</town>
+<metro_list>
+<metro farval="3" fartp="п">Свиблово</metro>
+</metro_list>
+<address>Берингов проезд</address>
+<dom>1</dom>
+<price currency="RUB">12000000</price>
+<flats>3</flats>
+<rooms>3</rooms>
+<sq pl_ob="73.0" pl="46.0" kitch="9.0"> </sq>
+<floor>1</floor>
+<fl_ob>17</fl_ob>
+<tip>П</tip>
+<lift>лифт пассажирский и лифт грузовой</lift>
+<musor>мусоропровод</musor>
+<san>Р</san>
+<remont>хорошее состояние</remont>
+<telefon>89199979971</telefon>
+<photos>http://lefortovo.roomle.ru/images/big/6110647.JPG;http://lefortovo.roomle.ru/images/big/6111514.JPG;http://lefortovo.roomle.ru/images/big/6112520.JPG;http://lefortovo.roomle.ru/images/big/6113835.JPG;http://lefortovo.roomle.ru/images/big/611438.JPG;http://lefortovo.roomle.ru/images/big/6115599.JPG;http://lefortovo.roomle.ru/images/big/6116663.JPG;http://lefortovo.roomle.ru/images/big/6117730.JPG;http://lefortovo.roomle.ru/images/big/6118863.JPG;http://lefortovo.roomle.ru/images/big/6119177.JPG;http://lefortovo.roomle.ru/images/big/6120283.JPG;</photos>
+<remark>
+<![CDATA[ДКП более 3х лет. Два собственника. Никто не прописан. Прямая продажа. Хорошо подходит под нежилой фонд. Одно окно выходит на Свиблово, остальные во двор. Очень хорошая проходимость! Документы готовы к сделке.]]>
+</remark>
+<winner_only>0</winner_only>
+<SiteTitle>
+</SiteTitle>
+<SiteKeywords>
+</SiteKeywords>
+<SiteDescription>
+</SiteDescription>
+<SiteVideo>
+</SiteVideo>
+</flat>
+
+<flat>
+<id>474</id>
+<date>22.09.2016</date>
+<actual>продается</actual>
+<aptp>квартира</aptp>
+<status>альтернатива</status>
+<nova>-</nova>
+<area>Москва</area>
+<town>Москва г</town>
+<metro_list>
+<metro farval="15" fartp="т">Рязанский проспект</metro>
+</metro_list>
+<address>Рязанский пр-кт</address>
+<dom>51</dom>
+<price currency="RUB">8350000</price>
+<flats>3</flats>
+<rooms>3</rooms>
+<sq pl_ob="55.3" pl="42.0" kitch="7.0"> </sq>
+<floor>5</floor>
+<fl_ob>8</fl_ob>
+<tip>К</tip>
+<lift>лифт пассажирский</lift>
+<musor>мусоропровод</musor>
+<balkon>Б</balkon>
+<san>С</san>
+<okna>окна во двор и на улицу</okna>
+<remont>требуется ремонт</remont>
+<tel>Т</tel>
+<telefon>89857608835</telefon>
+<photos>http://lefortovo.roomle.ru/images/big/5944247.jpg;http://lefortovo.roomle.ru/images/big/594558.jpg;http://lefortovo.roomle.ru/images/big/5946107.jpg;http://lefortovo.roomle.ru/images/big/5948419.JPG;</photos>
+<remark>
+<![CDATA[Дом после капремонта. Заменены окна, балкон застеклен. Новый лифт, чистый подъезд.
+ 3 окна , в т.ч. балкон - во двор (тихий, озелененный), одно окно на Рязанский проспект (закрыт деревьями). Дубовый паркет.
+Транспорт: 1) м. &quot;Стахановская&quot; (строится) – 300 м;
+                     2) м .&quot;Рязанский проспект&quot; - 4 ост. общ. транспорта;
+                     3) м.&quot;Окская улица&quot; (строится) – 2 ост. общ. транспорта;
+                     4) электричка  (Казанское направление)  ст.»Плющево» - 10 мин. ходьбы;
+Рядом музыкальная школа, общеобр. школа, детсад.
+Кусковский парк – 10 мин. ходьбы.
+]]>
+</remark>
+<winner_only>0</winner_only>
+<SiteTitle>
+</SiteTitle>
+<SiteKeywords>
+</SiteKeywords>
+<SiteDescription>
+</SiteDescription>
+<SiteVideo>
+</SiteVideo>
+</flat>
+
+<flat>
+<id>476</id>
+<date>26.09.2016</date>
+<actual>продается</actual>
+<aptp>квартира</aptp>
+<status>прямая продажа</status>
+<nova>-</nova>
+<area>Московская область</area>
+<locality>Ленинский район</locality>
+<town>бутово д</town>
+<address>бутово парк </address>
+<dom>16</dom>
+<price currency="RUB">6500000</price>
+<flats>2</flats>
+<rooms>2</rooms>
+<sq pl_ob="60.0" pl="34.0" kitch="15.0"> </sq>
+<floor>4</floor>
+<fl_ob>25</fl_ob>
+<tip>К</tip>
+<lift>лифт пассажирский и лифт грузовой</lift>
+<musor>мусоропровод</musor>
+<balkon>Б</balkon>
+<san>Р</san>
+<okna>окна во двор</okna>
+<remont>без отделки</remont>
+<tel>-</tel>
+<telefon>89646203759</telefon>
+<remark>
+<![CDATA[удачное расположение дома, вдали от дороги, распашонка, установлены розетки, сделана разводка, установлены перегородки, развитая инфраструктура, магазины, детсад, школа, один собственник, быстрый выход на сделку, свободная продажа!]]>
+</remark>
+<winner_only>0</winner_only>
+<SiteTitle>
+</SiteTitle>
+<SiteKeywords>
+</SiteKeywords>
+<SiteDescription>
+</SiteDescription>
+<SiteVideo>
+</SiteVideo>
+</flat>
+
+<flat>
+<id>477</id>
+<date>27.09.2016</date>
+<actual>продается</actual>
+<aptp>квартира</aptp>
+<status>прямая продажа</status>
+<nova>-</nova>
+<area>Москва</area>
+<town>Москва п</town>
+<metro_list>
+<metro farval="10" fartp="т">Тёплый Стан</metro>
+</metro_list>
+<address>Коммунарка </address>
+<dom>3</dom>
+<price currency="RUB">5200000</price>
+<flats>2</flats>
+<rooms>2</rooms>
+<sq pl_ob="45.0" pl="29.0" kitch="6.0"> </sq>
+<floor>2</floor>
+<fl_ob>5</fl_ob>
+<tip>К</tip>
+<lift>без лифта</lift>
+<musor>без мусоропровода</musor>
+<balkon>Б</balkon>
+<san>С</san>
+<okna>окна во двор</okna>
+<remont>среднее состояние</remont>
+<tel>-</tel>
+<telefon>89646203759</telefon>
+<remark>
+<![CDATA[хорошее расположение дома, вдали от дороги, много зелени, развитая инфраструктура, скоро будет метро, два собственника более 3х лет, свободная продажа, комнаты смежные ]]>
+</remark>
+<winner_only>0</winner_only>
+<SiteTitle>
+</SiteTitle>
+<SiteKeywords>
+</SiteKeywords>
+<SiteDescription>
+</SiteDescription>
+<SiteVideo>
+</SiteVideo>
+</flat>
+
+<flat>
+<id>478</id>
+<date>29.09.2016</date>
+<actual>продается</actual>
+<aptp>квартира</aptp>
+<status>прямая продажа</status>
+<nova>-</nova>
+<area>Москва</area>
+<town>Москва г</town>
+<metro_list>
+<metro farval="15" fartp="п">Бабушкинская</metro>
+</metro_list>
+<address>Магаданская ул</address>
+<dom>8</dom>
+<price currency="RUB">5500000</price>
+<flats>1</flats>
+<rooms>1</rooms>
+<sq pl_ob="31.0" pl="20.0" kitch="6.0"> </sq>
+<floor>1</floor>
+<fl_ob>5</fl_ob>
+<tip>К</tip>
+<lift>без лифта</lift>
+<musor>мусоропровод</musor>
+<balkon>-</balkon>
+<san>С</san>
+<okna>окна во двор</okna>
+<remont>хорошее состояние</remont>
+<telefon>89199979971</telefon>
+<remark>
+<![CDATA[Прямая продажа. Один собственник. Никто не прописан. Развитая инфраструктура ( школа, садик, магазины, сбербанк, остановка у дома ). Оперативный показ. ]]>
+</remark>
+<winner_only>0</winner_only>
+<SiteTitle>
+</SiteTitle>
+<SiteKeywords>
+</SiteKeywords>
+<SiteDescription>
+</SiteDescription>
+<SiteVideo>
+</SiteVideo>
+</flat>
+
+<flat>
+<id>479</id>
+<date>29.09.2016</date>
+<actual>продается</actual>
+<aptp>квартира</aptp>
+<status>прямая продажа</status>
+<nova>-</nova>
+<area>Москва</area>
+<town>Москва г</town>
+<metro_list>
+<metro farval="10" fartp="п">Свиблово</metro>
+</metro_list>
+<address>Уржумская ул</address>
+<dom>5к1</dom>
+<price currency="RUB">6350000</price>
+<flats>1</flats>
+<rooms>1</rooms>
+<sq pl_ob="35.0" pl="20.0" kitch="9.0"> </sq>
+<floor>2</floor>
+<fl_ob>14</fl_ob>
+<tip>П</tip>
+<lift>лифт пассажирский и лифт грузовой</lift>
+<musor>мусоропровод</musor>
+<balkon>Л</balkon>
+<san>С</san>
+<remont>среднее состояние</remont>
+<telefon>89199979971</telefon>
+<remark>
+<![CDATA[Договор мены более трех лет. Один собственник. Двое прописанных. Прямая продажа.Дверь металлическая. Полы в комнате паркет дуб, на кухне керамическая плитка. Окна пластик. Большая лоджия рамы и решетка. Вид из окон в зеленый двор. Рядом есть вся инфраструктура.]]>
+</remark>
+<winner_only>0</winner_only>
+<SiteTitle>
+</SiteTitle>
+<SiteKeywords>
+</SiteKeywords>
+<SiteDescription>
+</SiteDescription>
+<SiteVideo>
+</SiteVideo>
+</flat>
+
+<flat>
+<id>480</id>
+<date>30.09.2016</date>
+<actual>продается</actual>
+<aptp>квартира</aptp>
+<status>прямая продажа</status>
+<nova>-</nova>
+<area>Москва</area>
+<town>Москва г</town>
+<metro_list>
+<metro farval="2" fartp="п">Бибирево</metro>
+</metro_list>
+<address>Пришвина ул</address>
+<dom>23</dom>
+<price currency="RUB">6400000</price>
+<flats>1</flats>
+<rooms>1</rooms>
+<sq pl_ob="38.0" pl="19.0" kitch="7.0"> </sq>
+<floor>13</floor>
+<fl_ob>17</fl_ob>
+<tip>П</tip>
+<lift>лифт пассажирский и лифт грузовой</lift>
+<musor>мусоропровод</musor>
+<balkon>Л</balkon>
+<san>С</san>
+<okna>окна во двор</okna>
+<remont>хорошее состояние</remont>
+<telefon>89199979971</telefon>
+<photos>http://lefortovo.roomle.ru/images/big/6043482.jpg;http://lefortovo.roomle.ru/images/big/604489.jpg;http://lefortovo.roomle.ru/images/big/6045253.jpg;http://lefortovo.roomle.ru/images/big/6046747.jpg;http://lefortovo.roomle.ru/images/big/6047180.jpg;</photos>
+<remark>
+<![CDATA[ДКП более трех лет. Один собственник. Один прописан. Прямая продажа. Рядом с метро. Вся инфраструктура рядом.]]>
+</remark>
+<winner_only>0</winner_only>
+<SiteTitle>
+</SiteTitle>
+<SiteKeywords>
+</SiteKeywords>
+<SiteDescription>
+</SiteDescription>
+<SiteVideo>
+</SiteVideo>
+</flat>
+
+<flat>
+<id>482</id>
+<date>07.10.2016</date>
+<actual>продается</actual>
+<aptp>квартира</aptp>
+<status>прямая продажа</status>
+<nova>-</nova>
+<area>Москва</area>
+<town>Москва г</town>
+<metro_list>
+<metro farval="5" fartp="п">Бабушкинская</metro>
+</metro_list>
+<address>Менжинского ул</address>
+<dom>19 к1</dom>
+<price currency="RUB">5800000</price>
+<flats>2</flats>
+<rooms>2</rooms>
+<sq pl_ob="45.0" pl="30.0" kitch="6.0"> </sq>
+<floor>3</floor>
+<fl_ob>4</fl_ob>
+<tip>К</tip>
+<lift>без лифта</lift>
+<musor>без мусоропровода</musor>
+<balkon>-</balkon>
+<san>С</san>
+<okna>окна во двор</okna>
+<remont>требуется ремонт</remont>
+<tel>Т</tel>
+<telefon>89161888022</telefon>
+<photos>http://lefortovo.roomle.ru/images/big/6048267.jpg;http://lefortovo.roomle.ru/images/big/6049212.jpg;http://lefortovo.roomle.ru/images/big/6050551.jpg;http://lefortovo.roomle.ru/images/big/6051685.jpg;http://lefortovo.roomle.ru/images/big/6052577.jpg;http://lefortovo.roomle.ru/images/big/6053630.jpg;http://lefortovo.roomle.ru/images/big/6054957.jpg;http://lefortovo.roomle.ru/images/big/6089859.jpg;http://lefortovo.roomle.ru/images/big/6099143.jpg;</photos>
+<remark>
+<![CDATA[Продается 2х комнатная квартира в кирпичном доме. Дом стоит торцом к улице.  5 минут от метро. Комнаты проходная 20 и комната 10 м. + гардеробная комната.  1 собственник, более 3х лет в собственности, быстрый выход на сделку, СВОБОДНА!]]>
+</remark>
+<winner_only>0</winner_only>
+<SiteTitle>
+</SiteTitle>
+<SiteKeywords>
+</SiteKeywords>
+<SiteDescription>
+</SiteDescription>
+<SiteVideo>
+</SiteVideo>
+</flat>
+
+<flat>
+<id>484</id>
+<date>19.10.2016</date>
+<actual>продается</actual>
+<aptp>квартира</aptp>
+<status>альтернатива</status>
+<nova>-</nova>
+<area>Москва</area>
+<town>Москва г</town>
+<metro_list>
+<metro farval="6" fartp="т">Динамо</metro>
+</metro_list>
+<address>Петровско-Разумовский проезд</address>
+<dom>24к1</dom>
+<price currency="RUB">16500000</price>
+<flats>3</flats>
+<rooms>3</rooms>
+<sq pl_ob="78.0" pl="51.0" kitch="10.0"> </sq>
+<floor>4</floor>
+<fl_ob>5</fl_ob>
+<tip>С</tip>
+<musor>мусоропровод</musor>
+<san>Р</san>
+<remont>евроремонт</remont>
+<telefon>89199979971</telefon>
+<photos>http://lefortovo.roomle.ru/images/big/6085406.JPG;http://lefortovo.roomle.ru/images/big/6086797.JPG;http://lefortovo.roomle.ru/images/big/6087778.JPG;http://lefortovo.roomle.ru/images/big/6088669.JPG;</photos>
+<remark>
+<![CDATA[Хорошая квартира. Комнаты изолированные. Санузел раздельный. Документы готовы к сделке. Альтернатива. Оперативный показ.]]>
+</remark>
+<winner_only>0</winner_only>
+<SiteTitle>
+</SiteTitle>
+<SiteKeywords>
+</SiteKeywords>
+<SiteDescription>
+</SiteDescription>
+<SiteVideo>
+</SiteVideo>
+</flat>
+
+<flat>
+<id>485</id>
+<date>26.10.2016</date>
+<actual>продается</actual>
+<aptp>квартира</aptp>
+<status>альтернатива</status>
+<nova>-</nova>
+<area>Московская область</area>
+<locality>Ленинский район</locality>
+<town>Видное г</town>
+<address>Центральная  ул</address>
+<dom>12а</dom>
+<price currency="RUB">4900000</price>
+<flats>3</flats>
+<rooms>3</rooms>
+<sq pl_ob="59.0" pl="42.0" kitch="6.0"> </sq>
+<floor>5</floor>
+<fl_ob>5</fl_ob>
+<tip>К</tip>
+<lift>без лифта</lift>
+<musor>без мусоропровода</musor>
+<balkon>Б</balkon>
+<san>С</san>
+<okna>окна во двор</okna>
+<remont>отличное состояние</remont>
+<tel>-</tel>
+<telefon>89646203759</telefon>
+<remark>
+<![CDATA[отличное состояние, дкп более 3х лет, полная сумма в договоре, распашонка, альтернатива подобрана, быстрый выход на сделку]]>
+</remark>
+<winner_only>0</winner_only>
+<SiteTitle>
+</SiteTitle>
+<SiteKeywords>
+</SiteKeywords>
+<SiteDescription>
+</SiteDescription>
+<SiteVideo>
+</SiteVideo>
+</flat>
+
+</flats>

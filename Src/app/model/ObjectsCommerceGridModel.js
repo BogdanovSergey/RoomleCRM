@@ -1,0 +1,37 @@
+Ext.define('crm.model.ObjectsCommerceGridModel', {
+    extend: 'Ext.data.Model',
+    fields: [
+        {name: 'checkbox',      type: 'bool'},
+        {name: 'id',            type: 'int'},
+        {name: 'AddedDate',     type: 'string'},
+        {name: 'Color',         type: 'string'},
+        {name: 'ArchivedDate',  type: 'string'},
+        {name: 'ImagesCount',   type: 'string'},
+        {name: 'CommerceObjectTypeName',type: 'string'},
+        {name: 'DealTypeName',  type: 'string'},
+        {name: 'RoomTypeName',  type: 'string'},
+        {name: 'RoomsCount',    type: 'string'},
+        {name: 'City',          type: 'string'},
+        {name: 'Metro',         type: 'string'},
+        {name: 'Street',        type: 'string'},
+        {name: 'ObjectBrandName',type:'string'},
+        {name: 'Floors',        type: 'string'},
+        {name: 'SquareAll',     type: 'string'},
+        {name: 'Price',         type: 'string'},
+        {name: 'PricePeriodName',type:'string'},
+        {name: 'PriceTypeName', type: 'string'},
+        {name: 'TrfAnSiteFree', type: 'bool'},
+        {name: 'TrfWinner',     type: 'bool'},
+        {name: 'TrfCian',       type: 'bool'},
+        {name: 'TrfCianPremium',type: 'bool'},
+        {name: 'TrfAvito',      type: 'bool'},
+        {name: 'TrfNavigatorFree',type:'bool'},
+        {name: 'TrfRbcFree',     type: 'bool'},
+        {name: 'TrfAfy',        type: 'bool'},
+        {name: 'TrfYandex',     type:'bool'},
+        {name: 'Agent',         type: 'string'},
+
+        {name: 'OwnerUserId',   type: 'string'}
+    ],
+    proxy       : ActiveCommerceObjectsGridProxy
+});

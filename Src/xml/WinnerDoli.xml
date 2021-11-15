@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<flats xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="flats.xsd">
+<flat>
+<id>446</id>
+<date>22.08.2016</date>
+<actual>продается</actual>
+<aptp>доля</aptp>
+<status>прямая продажа</status>
+<slpartqt>1</slpartqt>
+<tlpartqt>2</tlpartqt>
+<nova>-</nova>
+<area>Московская область</area>
+<locality>Люберецкий район</locality>
+<town>поселок Красково г</town>
+<address>Лорха ул</address>
+<dom>13</dom>
+<price currency="RUB">1200000</price>
+<flats>1</flats>
+<sq pl_ob="40.2" pl="19.0" kitch="10.0"> </sq>
+<floor>3</floor>
+<fl_ob>17</fl_ob>
+<tip>К</tip>
+<lift>лифт пассажирский и лифт грузовой</lift>
+<musor>мусоропровод</musor>
+<balkon>Л</balkon>
+<san>Р</san>
+<okna>окна во двор</okna>
+<remont>без отделки</remont>
+<tel>-</tel>
+<telefon>89998432952</telefon>
+<photos>http://lefortovo.roomle.ru/images/big/5812611.jpg;http://lefortovo.roomle.ru/images/big/581371.jpg;http://lefortovo.roomle.ru/images/big/5814369.jpg;http://lefortovo.roomle.ru/images/big/5815970.jpg;http://lefortovo.roomle.ru/images/big/5816796.jpg;http://lefortovo.roomle.ru/images/big/5817224.jpg;</photos>
+<remark>
+<![CDATA[Просторная квартира с прекрасным видом, без отделки, развитая инфраструктура: детский сад, школа, магазины, удобное транспортное сообщение, более 3 лет в собственности, СВОБОДНА. Оперативный показ, быстрый выход на сделку.Cперспективой выкупа всей квартиры]]>
+</remark>
+<winner_only>0</winner_only>
+</flat>
+
+</flats>

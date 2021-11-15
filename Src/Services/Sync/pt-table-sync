@@ -1,0 +1,41 @@
+#!/bin/sh
+
+#NOW=$(date +"%Y-%b-%d_%H%M")
+#FOLDER="b.yusin.ru"
+#FILE="/home/$FOLDER/distrib/rc-files-$NOW.tar.gz"
+
+LOCALHOST="localhost"
+LOCALDB="crm_original"
+LOCALUSER="crm_demo"
+LOCALPASS="dZuGEhAKnXbufAJH"
+
+TARGETHOST="localhost"
+TARGETDB="crm_demo"
+TARGETUSER="crm_demo"
+TARGETPASS="dZuGEhAKnXbufAJH"
+
+echo Insert password to target db:  $TARGETPASS
+# Синхронизация всей структуры (создание патча, копирование)
+
+/usr/bin/schemasync --tag=DBSyncScripts mysql://$LOCALUSER:$LOCALPASS@$LOCALHOST:3306/$LOCALDB mysql://$TARGETUSER:$TARGETPASS@$TARGETHOST:3306/$TARGETDB
+
+#/bin/mv ./*DBSyncScripts* /root/Sync
+
+/usr/bin/mysql -u $LOCALUSER -p $TARGETDB < `ls ./crm_demo_DBSyncScripts.*.patch.sql`
+
+# перенос данных из статических таблиц-хранилищ
+#/usr/local/bin/pt-table-sync --verbose --charset utf8 --execute h=$LOCALHOST,u=$LOCALUSER,p=$LOCALPASS,D=$LOCALDB,t=Ad_P_o_rtals 	    h=$TARGETHOST,u=$TARGETUSER,p=$TARGETPASS,D=$TARGETDB
+/usr/local/bin/pt-table-sync --verbose --charset utf8 --execute h=$LOCALHOST,u=$LOCALUSER,p=$LOCALPASS,D=$LOCALDB,t=BillAdTarifs    h=$TARGETHOST,u=$TARGETUSER,p=$TARGETPASS,D=$TARGETDB
+/usr/local/bin/pt-table-sync --verbose --charset utf8 --execute h=$LOCALHOST,u=$LOCALUSER,p=$LOCALPASS,D=$LOCALDB,t=BillAdPrices    h=$TARGETHOST,u=$TARGETUSER,p=$TARGETPASS,D=$TARGETDB
+/usr/local/bin/pt-table-sync --verbose --charset utf8 --execute h=$LOCALHOST,u=$LOCALUSER,p=$LOCALPASS,D=$LOCALDB,t=BillContragents h=$TARGETHOST,u=$TARGETUSER,p=$TARGETPASS,D=$TARGETDB
+/usr/local/bin/pt-table-sync --verbose --charset utf8 --execute h=$LOCALHOST,u=$LOCALUSER,p=$LOCALPASS,D=$LOCALDB,t=BillExpenseTypes h=$TARGETHOST,u=$TARGETUSER,p=$TARGETPASS,D=$TARGETDB
+#/usr/local/bin/pt-table-sync --verbose --charset utf8 --execute h=$LOCALHOST,u=$LOCALUSER,p=$LOCALPASS,D=$LOCALDB,t=KladrMain 	    h=$TARGETHOST,u=$TARGETUSER,p=$TARGETPASS,D=$TARGETDB
+#/usr/local/bin/pt-table-sync --verbose --charset utf8 --execute h=$LOCALHOST,u=$LOCALUSER,p=$LOCALPASS,D=$LOCALDB,t=KladrSocr 	    h=$TARGETHOST,u=$TARGETUSER,p=$TARGETPASS,D=$TARGETDB
+#/usr/local/bin/pt-table-sync --verbose --charset utf8 --execute h=$LOCALHOST,u=$LOCALUSER,p=$LOCALPASS,D=$LOCALDB,t=KladrStreet 	h=$TARGETHOST,u=$TARGETUSER,p=$TARGETPASS,D=$TARGETDB
+/usr/local/bin/pt-table-sync --verbose --charset utf8 --execute h=$LOCALHOST,u=$LOCALUSER,p=$LOCALPASS,D=$LOCALDB,t=MetroStations 	h=$TARGETHOST,u=$TARGETUSER,p=$TARGETPASS,D=$TARGETDB
+/usr/local/bin/pt-table-sync --verbose --charset utf8 --execute h=$LOCALHOST,u=$LOCALUSER,p=$LOCALPASS,D=$LOCALDB,t=ObjectHighways 	h=$TARGETHOST,u=$TARGETUSER,p=$TARGETPASS,D=$TARGETDB
+/usr/local/bin/pt-table-sync --verbose --charset utf8 --execute h=$LOCALHOST,u=$LOCALUSER,p=$LOCALPASS,D=$LOCALDB,t=ObjectParams 	h=$TARGETHOST,u=$TARGETUSER,p=$TARGETPASS,D=$TARGETDB
+/usr/local/bin/pt-table-sync --verbose --charset utf8 --execute h=$LOCALHOST,u=$LOCALUSER,p=$LOCALPASS,D=$LOCALDB,t=ObjectTypes 	h=$TARGETHOST,u=$TARGETUSER,p=$TARGETPASS,D=$TARGETDB
+/usr/local/bin/pt-table-sync --verbose --charset utf8 --execute h=$LOCALHOST,u=$LOCALUSER,p=$LOCALPASS,D=$LOCALDB,t=RealtyTypes 	h=$TARGETHOST,u=$TARGETUSER,p=$TARGETPASS,D=$TARGETDB
+/usr/local/bin/pt-table-sync --verbose --charset utf8 --execute h=$LOCALHOST,u=$LOCALUSER,p=$LOCALPASS,D=$LOCALDB,t=UserGroups 	    h=$TARGETHOST,u=$TARGETUSER,p=$TARGETPASS,D=$TARGETDB
+

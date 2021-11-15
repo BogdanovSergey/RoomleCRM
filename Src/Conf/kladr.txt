@@ -1,0 +1,17 @@
+
+/*
+У вас указан адрес <address>Проспект Мира ул</address>
+"Мира" - это название улицы, а "Проспект" - это тип/вид улицы.
+У вас указано два вида и "проспект" и "улица".
+Механизм распознавания адресов считает, что тип "улица" более приоритетный, чем "проспект".
+Поэтому получается неправильный итоговый адрес.
+Вам нужно правильно указать улицу - <address>Мира пр-кт</address>
+*/
+
+update KladrStreet set SOCR = '' WHERE `NAME` LIKE '%Проспект Мира%';
+update KladrStreet set SOCR = '' WHERE `NAME` LIKE '%Ленинский Проспект%';
+delete from KladrMain where SOCR = 'автодорога';
+delete from KladrStreet where NAME = 'Космонавнов';
+
+
+delete FROM `KladrStreet` WHERE NAME LIKE "% (%)"

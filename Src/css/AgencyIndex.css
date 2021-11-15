@@ -1,0 +1,36 @@
+body, html {
+    height: 100%;
+    width: 100%;
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    background:#4C4C4C;
+    font-family: Tahoma,Verdana,Segoe,sans-serif;
+    font-size:	90%;
+}
+
+#WelcomeBox {
+    background-color: #ffffff;
+    //vertical-align:top;
+    //display: block;
+    position: relative;
+    //top: 10%;
+    margin: 0 auto;
+    top: 100px;
+}
+.BoxBorder {
+    border-collapse:collapse;
+    border: 1px solid black;
+    //margin: 0px;
+}
+.NormalText {
+    font-family: Arial,sans-serif;
+    color: #000000;
+    line-height: 1.4em;
+    font-size: 1em;
+}
+.RegForm_RedText {
+    color: red;
+    font-size: 80%;
+}
