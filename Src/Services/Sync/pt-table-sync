@@ -7,12 +7,12 @@
 LOCALHOST="localhost"
 LOCALDB="crm_original"
 LOCALUSER="crm_demo"
-LOCALPASS="dZuGEhAKnXbufAJH"
+LOCALPASS=""
 
 TARGETHOST="localhost"
 TARGETDB="crm_demo"
 TARGETUSER="crm_demo"
-TARGETPASS="dZuGEhAKnXbufAJH"
+TARGETPASS=""
 
 echo Insert password to target db:  $TARGETPASS
 # Синхронизация всей структуры (создание патча, копирование)
