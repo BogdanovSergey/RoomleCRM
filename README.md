@@ -1,4 +1,5 @@
 ## RoomleCRM
+Stack: ExtJS 4, PHP, MySQL<br/>
 Посмотреть/have a glance at <a href="/Screens">**./Screens/**</a>
 ## CRM for Realty agencies. Startup at 2014-2017
 ## Main functions:
